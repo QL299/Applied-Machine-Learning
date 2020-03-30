@@ -1,0 +1,5 @@
+vehicle:bus
+vehicle:truck
+person:person
+accessory:umbrella
+accessory:backpack

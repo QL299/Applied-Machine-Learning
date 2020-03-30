@@ -1,0 +1,8 @@
+indoor:clock
+person:person
+food:banana
+food:orange
+food:carrot
+kitchen:bottle
+kitchen:bowl
+food:apple

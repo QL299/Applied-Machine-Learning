@@ -1,0 +1,8 @@
+furniture:potted plant
+furniture:chair
+furniture:couch
+person:person
+indoor:book
+kitchen:bottle
+indoor:clock
+indoor:vase

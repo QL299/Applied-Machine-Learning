@@ -1,0 +1,2 @@
+electronic:laptop
+electronic:mouse

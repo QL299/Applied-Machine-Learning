@@ -1,0 +1,6 @@
+electronic:tv
+person:person
+kitchen:wine glass
+electronic:remote
+kitchen:cup
+furniture:couch

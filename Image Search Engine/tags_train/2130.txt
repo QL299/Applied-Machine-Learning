@@ -1,0 +1,6 @@
+furniture:couch
+furniture:chair
+furniture:dining table
+person:person
+indoor:vase
+electronic:tv

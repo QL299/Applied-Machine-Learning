@@ -1,0 +1,7 @@
+kitchen:bottle
+accessory:umbrella
+food:sandwich
+person:person
+accessory:handbag
+food:cake
+outdoor:stop sign

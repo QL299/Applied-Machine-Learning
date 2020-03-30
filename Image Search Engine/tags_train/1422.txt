@@ -1,0 +1,2 @@
+electronic:tv
+kitchen:bottle

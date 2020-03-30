@@ -1,0 +1,5 @@
+accessory:umbrella
+accessory:handbag
+person:person
+accessory:backpack
+furniture:chair

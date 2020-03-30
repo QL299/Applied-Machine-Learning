@@ -1,0 +1,3 @@
+sports:skis
+animal:cat
+person:person

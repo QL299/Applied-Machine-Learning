@@ -1,0 +1,4 @@
+vehicle:train
+outdoor:stop sign
+indoor:clock
+outdoor:traffic light

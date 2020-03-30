@@ -1,0 +1,3 @@
+furniture:couch
+indoor:teddy bear
+furniture:bed

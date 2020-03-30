@@ -1,0 +1,9 @@
+kitchen:bottle
+person:person
+kitchen:cup
+appliance:microwave
+appliance:sink
+kitchen:fork
+furniture:chair
+kitchen:bowl
+kitchen:spoon

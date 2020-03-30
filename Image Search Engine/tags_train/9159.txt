@@ -1,0 +1,3 @@
+animal:dog
+food:broccoli
+kitchen:bowl

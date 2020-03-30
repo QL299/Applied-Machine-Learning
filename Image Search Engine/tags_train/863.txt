@@ -1,0 +1,5 @@
+kitchen:bottle
+person:person
+appliance:sink
+kitchen:cup
+electronic:tv

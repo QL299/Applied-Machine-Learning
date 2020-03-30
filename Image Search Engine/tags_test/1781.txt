@@ -1,0 +1,6 @@
+kitchen:bottle
+furniture:dining table
+outdoor:bench
+furniture:chair
+indoor:book
+indoor:vase

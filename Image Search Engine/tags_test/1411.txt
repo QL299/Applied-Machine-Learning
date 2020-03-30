@@ -1,0 +1,7 @@
+person:person
+food:cake
+kitchen:bottle
+kitchen:cup
+kitchen:bowl
+furniture:dining table
+accessory:handbag

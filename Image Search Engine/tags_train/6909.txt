@@ -1,0 +1,4 @@
+indoor:clock
+accessory:backpack
+accessory:handbag
+person:person

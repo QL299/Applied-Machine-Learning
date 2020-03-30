@@ -1,0 +1,4 @@
+furniture:chair
+person:person
+kitchen:wine glass
+vehicle:car

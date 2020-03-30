@@ -1,0 +1,6 @@
+accessory:umbrella
+sports:frisbee
+kitchen:bottle
+furniture:chair
+furniture:potted plant
+furniture:dining table

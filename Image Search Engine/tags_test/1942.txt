@@ -1,0 +1,3 @@
+electronic:tv
+animal:cat
+indoor:teddy bear

@@ -1,0 +1,3 @@
+accessory:tie
+person:person
+sports:tennis racket

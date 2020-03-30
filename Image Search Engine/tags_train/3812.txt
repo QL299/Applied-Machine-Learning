@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:couch
+kitchen:wine glass
+furniture:potted plant
+indoor:vase

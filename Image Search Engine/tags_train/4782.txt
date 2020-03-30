@@ -1,0 +1,5 @@
+animal:sheep
+vehicle:motorcycle
+vehicle:bus
+person:person
+vehicle:truck

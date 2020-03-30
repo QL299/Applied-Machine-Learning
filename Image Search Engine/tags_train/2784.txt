@@ -1,0 +1,3 @@
+accessory:umbrella
+indoor:clock
+person:person

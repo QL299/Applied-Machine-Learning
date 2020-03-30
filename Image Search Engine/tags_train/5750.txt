@@ -1,0 +1,3 @@
+vehicle:motorcycle
+person:person
+kitchen:bottle

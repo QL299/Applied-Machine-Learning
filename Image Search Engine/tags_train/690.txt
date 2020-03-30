@@ -1,0 +1,4 @@
+animal:cow
+vehicle:motorcycle
+accessory:handbag
+person:person

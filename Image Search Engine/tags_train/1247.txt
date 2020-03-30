@@ -1,0 +1,3 @@
+electronic:remote
+indoor:book
+furniture:dining table

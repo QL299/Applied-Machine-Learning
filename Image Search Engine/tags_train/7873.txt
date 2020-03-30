@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+accessory:tie
+electronic:laptop
+furniture:couch

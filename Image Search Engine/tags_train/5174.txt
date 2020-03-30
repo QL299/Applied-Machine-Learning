@@ -1,0 +1,4 @@
+furniture:chair
+appliance:microwave
+appliance:oven
+indoor:book

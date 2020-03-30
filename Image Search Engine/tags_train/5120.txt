@@ -1,0 +1,8 @@
+electronic:tv
+furniture:couch
+kitchen:cup
+indoor:book
+furniture:chair
+indoor:vase
+person:person
+animal:bird

@@ -1,0 +1,7 @@
+vehicle:bicycle
+vehicle:car
+person:person
+electronic:cell phone
+vehicle:truck
+outdoor:traffic light
+outdoor:bench

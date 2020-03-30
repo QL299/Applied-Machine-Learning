@@ -1,0 +1,5 @@
+furniture:dining table
+kitchen:fork
+kitchen:knife
+kitchen:cup
+electronic:cell phone

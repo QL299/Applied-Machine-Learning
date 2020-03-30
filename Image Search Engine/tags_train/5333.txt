@@ -1,0 +1,4 @@
+furniture:toilet
+appliance:sink
+person:person
+kitchen:bottle

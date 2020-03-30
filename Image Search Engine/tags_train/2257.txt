@@ -1,0 +1,6 @@
+food:broccoli
+food:pizza
+person:person
+furniture:chair
+furniture:dining table
+kitchen:cup

@@ -1,0 +1,3 @@
+food:orange
+food:carrot
+kitchen:bowl

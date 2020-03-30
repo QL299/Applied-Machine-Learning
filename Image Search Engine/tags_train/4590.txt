@@ -1,0 +1,4 @@
+vehicle:airplane
+person:person
+sports:sports ball
+sports:tennis racket

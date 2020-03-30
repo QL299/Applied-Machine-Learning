@@ -1,0 +1,3 @@
+outdoor:fire hydrant
+person:person
+accessory:backpack

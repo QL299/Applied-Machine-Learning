@@ -1,0 +1,3 @@
+vehicle:train
+accessory:handbag
+person:person

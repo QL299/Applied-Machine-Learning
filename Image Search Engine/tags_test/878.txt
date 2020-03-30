@@ -1,0 +1,6 @@
+person:person
+sports:surfboard
+accessory:backpack
+accessory:handbag
+vehicle:train
+electronic:cell phone

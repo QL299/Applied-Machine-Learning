@@ -1,0 +1,6 @@
+vehicle:bicycle
+vehicle:car
+person:person
+indoor:clock
+vehicle:truck
+furniture:chair

@@ -1,0 +1,9 @@
+furniture:potted plant
+kitchen:bottle
+furniture:couch
+person:person
+electronic:cell phone
+kitchen:cup
+electronic:laptop
+accessory:handbag
+kitchen:bowl

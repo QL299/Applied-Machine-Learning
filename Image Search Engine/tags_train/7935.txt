@@ -1,0 +1,4 @@
+animal:dog
+person:person
+sports:skateboard
+vehicle:car

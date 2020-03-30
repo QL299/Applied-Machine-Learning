@@ -1,0 +1,5 @@
+electronic:tv
+furniture:dining table
+person:person
+indoor:book
+indoor:scissors

@@ -1,0 +1,4 @@
+animal:cat
+kitchen:bottle
+person:person
+furniture:bed

@@ -1,0 +1,6 @@
+kitchen:bottle
+furniture:chair
+vehicle:bicycle
+person:person
+kitchen:knife
+furniture:couch

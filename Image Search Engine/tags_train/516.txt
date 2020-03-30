@@ -1,0 +1,5 @@
+person:person
+vehicle:car
+vehicle:boat
+furniture:chair
+furniture:dining table

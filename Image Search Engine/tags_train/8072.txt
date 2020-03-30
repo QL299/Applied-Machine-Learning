@@ -1,0 +1,6 @@
+kitchen:bottle
+kitchen:fork
+kitchen:knife
+furniture:dining table
+kitchen:cup
+food:sandwich

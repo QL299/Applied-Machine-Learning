@@ -1,0 +1,7 @@
+furniture:potted plant
+vehicle:car
+person:person
+food:sandwich
+kitchen:wine glass
+furniture:dining table
+electronic:cell phone

@@ -1,0 +1,5 @@
+furniture:potted plant
+appliance:refrigerator
+kitchen:bottle
+kitchen:bowl
+furniture:dining table

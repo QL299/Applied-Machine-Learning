@@ -1,0 +1,7 @@
+accessory:tie
+indoor:clock
+person:person
+furniture:chair
+indoor:book
+kitchen:cup
+indoor:vase

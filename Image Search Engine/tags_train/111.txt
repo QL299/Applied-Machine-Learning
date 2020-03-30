@@ -1,0 +1,5 @@
+appliance:refrigerator
+person:person
+kitchen:cup
+kitchen:bottle
+accessory:handbag

@@ -1,0 +1,3 @@
+food:pizza
+furniture:dining table
+kitchen:bowl

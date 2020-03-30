@@ -1,0 +1,6 @@
+furniture:couch
+indoor:clock
+electronic:laptop
+furniture:bed
+electronic:tv
+kitchen:cup

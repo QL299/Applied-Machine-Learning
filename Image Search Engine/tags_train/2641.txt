@@ -1,0 +1,7 @@
+accessory:umbrella
+person:person
+outdoor:bench
+vehicle:boat
+accessory:backpack
+furniture:chair
+sports:sports ball

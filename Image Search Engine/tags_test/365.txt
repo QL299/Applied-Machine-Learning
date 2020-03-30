@@ -1,0 +1,5 @@
+electronic:tv
+kitchen:cup
+kitchen:spoon
+electronic:keyboard
+electronic:cell phone

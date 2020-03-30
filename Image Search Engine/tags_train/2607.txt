@@ -1,0 +1,5 @@
+vehicle:car
+person:person
+indoor:teddy bear
+vehicle:bicycle
+outdoor:bench

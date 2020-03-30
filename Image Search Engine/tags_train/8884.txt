@@ -1,0 +1,5 @@
+vehicle:car
+vehicle:motorcycle
+outdoor:parking meter
+person:person
+vehicle:bicycle

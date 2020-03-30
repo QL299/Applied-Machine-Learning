@@ -1,0 +1,6 @@
+kitchen:bottle
+electronic:cell phone
+appliance:refrigerator
+person:person
+accessory:handbag
+furniture:dining table

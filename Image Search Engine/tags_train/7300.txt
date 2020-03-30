@@ -1,0 +1,6 @@
+electronic:cell phone
+furniture:chair
+person:person
+kitchen:cup
+indoor:book
+furniture:dining table

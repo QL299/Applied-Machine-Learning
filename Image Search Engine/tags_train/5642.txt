@@ -1,0 +1,3 @@
+furniture:toilet
+kitchen:bottle
+indoor:vase

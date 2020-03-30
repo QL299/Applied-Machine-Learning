@@ -1,0 +1,7 @@
+electronic:tv
+food:banana
+indoor:book
+person:person
+furniture:bed
+kitchen:bottle
+accessory:backpack

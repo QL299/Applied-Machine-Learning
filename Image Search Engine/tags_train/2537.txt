@@ -1,0 +1,6 @@
+furniture:chair
+electronic:laptop
+indoor:scissors
+appliance:sink
+furniture:toilet
+person:person

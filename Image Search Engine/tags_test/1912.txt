@@ -1,0 +1,6 @@
+furniture:potted plant
+kitchen:bottle
+vehicle:car
+food:orange
+appliance:sink
+indoor:vase

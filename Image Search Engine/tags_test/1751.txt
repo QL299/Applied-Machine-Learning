@@ -1,0 +1,7 @@
+electronic:tv
+furniture:chair
+furniture:couch
+appliance:refrigerator
+furniture:dining table
+indoor:book
+appliance:microwave

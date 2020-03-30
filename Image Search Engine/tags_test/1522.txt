@@ -1,0 +1,4 @@
+accessory:umbrella
+accessory:backpack
+vehicle:boat
+accessory:handbag

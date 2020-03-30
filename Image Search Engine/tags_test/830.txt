@@ -1,0 +1,2 @@
+kitchen:bottle
+indoor:teddy bear

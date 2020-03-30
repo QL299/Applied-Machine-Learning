@@ -1,0 +1,7 @@
+furniture:chair
+furniture:dining table
+food:sandwich
+kitchen:bottle
+furniture:potted plant
+kitchen:cup
+appliance:refrigerator

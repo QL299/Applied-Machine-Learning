@@ -1,0 +1,3 @@
+kitchen:bottle
+sports:skateboard
+person:person

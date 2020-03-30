@@ -1,0 +1,14 @@
+furniture:chair
+furniture:couch
+person:person
+furniture:dining table
+appliance:refrigerator
+indoor:clock
+appliance:microwave
+food:orange
+indoor:vase
+accessory:backpack
+accessory:handbag
+appliance:oven
+kitchen:bottle
+food:banana

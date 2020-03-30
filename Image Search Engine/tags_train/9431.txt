@@ -1,0 +1,4 @@
+sports:kite
+accessory:handbag
+person:person
+vehicle:truck

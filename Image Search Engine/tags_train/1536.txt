@@ -1,0 +1,3 @@
+animal:bird
+vehicle:boat
+sports:sports ball

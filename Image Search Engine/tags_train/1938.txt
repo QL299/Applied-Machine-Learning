@@ -1,0 +1,5 @@
+accessory:umbrella
+vehicle:truck
+person:person
+sports:kite
+accessory:backpack

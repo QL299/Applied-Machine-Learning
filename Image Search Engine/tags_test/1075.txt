@@ -1,0 +1,6 @@
+furniture:potted plant
+kitchen:bottle
+furniture:dining table
+kitchen:cup
+food:pizza
+furniture:chair

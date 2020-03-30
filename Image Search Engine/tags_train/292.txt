@@ -1,0 +1,3 @@
+electronic:laptop
+electronic:keyboard
+electronic:mouse

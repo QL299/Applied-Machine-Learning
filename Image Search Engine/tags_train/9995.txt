@@ -1,0 +1,4 @@
+food:pizza
+kitchen:bottle
+indoor:clock
+person:person

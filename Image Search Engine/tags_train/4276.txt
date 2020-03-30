@@ -1,0 +1,4 @@
+accessory:tie
+person:person
+kitchen:cup
+furniture:chair

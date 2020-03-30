@@ -1,0 +1,7 @@
+furniture:chair
+person:person
+electronic:laptop
+kitchen:cup
+kitchen:knife
+furniture:dining table
+kitchen:fork

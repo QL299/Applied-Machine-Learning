@@ -1,0 +1,7 @@
+appliance:oven
+appliance:sink
+person:person
+kitchen:bowl
+food:orange
+accessory:tie
+appliance:refrigerator

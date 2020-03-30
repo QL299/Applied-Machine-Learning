@@ -1,0 +1,4 @@
+furniture:dining table
+person:person
+kitchen:spoon
+kitchen:bowl

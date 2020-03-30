@@ -1,0 +1,3 @@
+animal:bird
+animal:sheep
+animal:cow

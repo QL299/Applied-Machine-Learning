@@ -1,0 +1,3 @@
+animal:dog
+food:pizza
+furniture:dining table

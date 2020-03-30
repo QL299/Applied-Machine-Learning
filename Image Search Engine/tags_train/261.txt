@@ -1,0 +1,3 @@
+outdoor:stop sign
+vehicle:truck
+vehicle:car

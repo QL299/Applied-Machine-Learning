@@ -1,0 +1,4 @@
+appliance:refrigerator
+furniture:potted plant
+appliance:oven
+appliance:sink

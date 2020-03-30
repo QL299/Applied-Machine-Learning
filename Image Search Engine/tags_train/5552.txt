@@ -1,0 +1,7 @@
+accessory:umbrella
+accessory:handbag
+person:person
+outdoor:traffic light
+accessory:backpack
+food:orange
+indoor:book

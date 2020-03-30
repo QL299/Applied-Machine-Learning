@@ -1,0 +1,5 @@
+vehicle:car
+vehicle:motorcycle
+vehicle:bus
+vehicle:train
+vehicle:bicycle

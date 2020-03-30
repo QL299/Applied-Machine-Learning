@@ -1,0 +1,5 @@
+vehicle:bus
+person:person
+outdoor:bench
+vehicle:car
+accessory:handbag

@@ -1,0 +1,5 @@
+animal:dog
+electronic:tv
+furniture:couch
+indoor:book
+animal:horse

@@ -1,0 +1,4 @@
+accessory:backpack
+person:person
+vehicle:truck
+accessory:tie

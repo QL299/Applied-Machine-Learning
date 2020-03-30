@@ -1,0 +1,5 @@
+sports:sports ball
+vehicle:car
+person:person
+accessory:backpack
+sports:baseball glove

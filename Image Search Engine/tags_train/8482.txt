@@ -1,0 +1,3 @@
+vehicle:bicycle
+person:person
+sports:kite

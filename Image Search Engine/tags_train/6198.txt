@@ -1,0 +1,6 @@
+vehicle:car
+vehicle:truck
+person:person
+furniture:potted plant
+outdoor:bench
+accessory:backpack

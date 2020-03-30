@@ -1,0 +1,5 @@
+appliance:oven
+indoor:book
+kitchen:bowl
+appliance:microwave
+indoor:vase

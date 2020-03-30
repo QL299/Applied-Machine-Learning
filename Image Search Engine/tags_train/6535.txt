@@ -1,0 +1,7 @@
+vehicle:bus
+person:person
+outdoor:fire hydrant
+sports:skateboard
+vehicle:car
+outdoor:traffic light
+vehicle:truck

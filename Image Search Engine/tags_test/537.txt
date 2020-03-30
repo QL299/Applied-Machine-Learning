@@ -1,0 +1,4 @@
+outdoor:bench
+accessory:suitcase
+furniture:potted plant
+accessory:handbag

@@ -1,0 +1,10 @@
+kitchen:bottle
+vehicle:truck
+person:person
+kitchen:cup
+kitchen:fork
+kitchen:knife
+food:pizza
+vehicle:car
+furniture:potted plant
+furniture:dining table

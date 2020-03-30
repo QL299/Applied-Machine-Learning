@@ -1,0 +1,5 @@
+person:person
+sports:frisbee
+vehicle:bicycle
+vehicle:car
+outdoor:bench

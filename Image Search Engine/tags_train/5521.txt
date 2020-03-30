@@ -1,0 +1,6 @@
+kitchen:bottle
+vehicle:bus
+accessory:umbrella
+person:person
+accessory:handbag
+kitchen:bowl

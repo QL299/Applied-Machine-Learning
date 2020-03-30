@@ -1,0 +1,3 @@
+electronic:tv
+accessory:backpack
+furniture:bed

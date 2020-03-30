@@ -1,0 +1,4 @@
+furniture:potted plant
+kitchen:bottle
+indoor:toothbrush
+appliance:sink

@@ -1,0 +1,5 @@
+vehicle:car
+outdoor:traffic light
+accessory:handbag
+person:person
+vehicle:bicycle

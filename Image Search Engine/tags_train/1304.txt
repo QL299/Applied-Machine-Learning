@@ -1,0 +1,3 @@
+outdoor:bench
+indoor:book
+person:person

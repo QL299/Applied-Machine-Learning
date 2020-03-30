@@ -1,0 +1,3 @@
+food:hot dog
+furniture:dining table
+food:cake

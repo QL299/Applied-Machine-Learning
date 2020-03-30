@@ -1,0 +1,7 @@
+electronic:tv
+furniture:couch
+electronic:cell phone
+indoor:book
+indoor:vase
+furniture:potted plant
+furniture:dining table

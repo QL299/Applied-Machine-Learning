@@ -1,0 +1,6 @@
+accessory:tie
+vehicle:car
+person:person
+vehicle:truck
+accessory:handbag
+accessory:umbrella

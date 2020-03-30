@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+electronic:cell phone
+electronic:laptop
+electronic:keyboard
+electronic:mouse

@@ -1,0 +1,5 @@
+sports:sports ball
+outdoor:bench
+sports:baseball glove
+kitchen:bottle
+person:person

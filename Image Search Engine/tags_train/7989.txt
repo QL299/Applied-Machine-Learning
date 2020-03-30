@@ -1,0 +1,2 @@
+furniture:potted plant
+outdoor:stop sign

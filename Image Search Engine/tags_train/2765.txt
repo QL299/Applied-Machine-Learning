@@ -1,0 +1,4 @@
+kitchen:bottle
+food:hot dog
+person:person
+food:sandwich

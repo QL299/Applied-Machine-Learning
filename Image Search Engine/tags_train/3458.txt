@@ -1,0 +1,3 @@
+person:person
+food:sandwich
+furniture:dining table

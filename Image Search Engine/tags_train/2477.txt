@@ -1,0 +1,4 @@
+animal:dog
+furniture:couch
+electronic:laptop
+furniture:potted plant

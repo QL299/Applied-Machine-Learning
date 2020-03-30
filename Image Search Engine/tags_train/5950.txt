@@ -1,0 +1,4 @@
+vehicle:airplane
+person:person
+vehicle:car
+vehicle:truck

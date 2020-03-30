@@ -1,0 +1,5 @@
+sports:sports ball
+vehicle:car
+sports:tennis racket
+vehicle:truck
+person:person

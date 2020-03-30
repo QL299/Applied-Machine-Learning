@@ -1,0 +1,7 @@
+accessory:umbrella
+sports:sports ball
+furniture:chair
+furniture:dining table
+person:person
+sports:tennis racket
+kitchen:cup

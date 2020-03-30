@@ -1,0 +1,4 @@
+animal:zebra
+vehicle:car
+accessory:handbag
+person:person

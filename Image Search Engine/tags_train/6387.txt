@@ -1,0 +1,4 @@
+animal:dog
+indoor:book
+kitchen:bottle
+person:person

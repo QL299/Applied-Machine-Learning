@@ -1,0 +1,6 @@
+furniture:couch
+person:person
+electronic:cell phone
+accessory:backpack
+furniture:chair
+furniture:bed

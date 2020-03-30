@@ -1,0 +1,5 @@
+vehicle:bicycle
+person:person
+accessory:backpack
+vehicle:car
+vehicle:truck

@@ -1,0 +1,6 @@
+appliance:refrigerator
+person:person
+food:cake
+appliance:oven
+indoor:scissors
+furniture:chair

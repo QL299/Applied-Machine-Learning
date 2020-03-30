@@ -1,0 +1,6 @@
+furniture:couch
+furniture:chair
+furniture:dining table
+indoor:clock
+accessory:backpack
+indoor:book

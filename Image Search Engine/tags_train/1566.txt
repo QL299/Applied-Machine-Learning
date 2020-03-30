@@ -1,0 +1,3 @@
+accessory:backpack
+accessory:handbag
+sports:frisbee

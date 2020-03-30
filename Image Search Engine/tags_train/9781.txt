@@ -1,0 +1,7 @@
+food:sandwich
+kitchen:cup
+kitchen:fork
+kitchen:knife
+person:person
+furniture:dining table
+indoor:vase

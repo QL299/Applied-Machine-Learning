@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+food:hot dog
+food:donut

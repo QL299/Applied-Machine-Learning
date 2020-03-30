@@ -1,0 +1,9 @@
+vehicle:car
+vehicle:bus
+accessory:backpack
+accessory:handbag
+accessory:suitcase
+person:person
+vehicle:truck
+outdoor:traffic light
+accessory:umbrella

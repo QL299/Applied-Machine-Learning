@@ -1,0 +1,4 @@
+person:person
+outdoor:bench
+vehicle:car
+accessory:suitcase

@@ -1,0 +1,6 @@
+vehicle:train
+person:person
+accessory:backpack
+accessory:suitcase
+accessory:handbag
+electronic:cell phone

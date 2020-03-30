@@ -1,0 +1,3 @@
+vehicle:bus
+furniture:dining table
+animal:bird

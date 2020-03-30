@@ -1,0 +1,6 @@
+electronic:tv
+kitchen:cup
+electronic:keyboard
+indoor:book
+food:apple
+electronic:mouse

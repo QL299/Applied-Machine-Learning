@@ -1,0 +1,5 @@
+accessory:umbrella
+furniture:chair
+person:person
+kitchen:bowl
+kitchen:cup

@@ -1,0 +1,3 @@
+vehicle:car
+person:person
+sports:skis

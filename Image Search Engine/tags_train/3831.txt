@@ -1,0 +1,4 @@
+person:person
+appliance:oven
+appliance:sink
+kitchen:bottle

@@ -1,0 +1,3 @@
+accessory:umbrella
+furniture:chair
+furniture:dining table

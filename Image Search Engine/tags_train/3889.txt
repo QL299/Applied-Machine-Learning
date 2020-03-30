@@ -1,0 +1,13 @@
+furniture:chair
+furniture:dining table
+person:person
+appliance:refrigerator
+kitchen:bowl
+food:apple
+food:orange
+appliance:microwave
+kitchen:wine glass
+appliance:oven
+kitchen:bottle
+kitchen:spoon
+kitchen:cup

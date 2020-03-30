@@ -1,0 +1,12 @@
+appliance:refrigerator
+furniture:chair
+furniture:dining table
+kitchen:bowl
+person:person
+kitchen:fork
+kitchen:knife
+kitchen:spoon
+food:apple
+appliance:sink
+kitchen:bottle
+indoor:book

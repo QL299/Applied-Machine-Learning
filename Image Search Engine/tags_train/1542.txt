@@ -1,0 +1,5 @@
+food:carrot
+indoor:book
+food:orange
+food:broccoli
+kitchen:bottle

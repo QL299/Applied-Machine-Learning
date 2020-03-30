@@ -1,0 +1,4 @@
+person:person
+sports:baseball bat
+outdoor:bench
+furniture:chair

@@ -1,0 +1,5 @@
+animal:bird
+furniture:bed
+indoor:book
+accessory:handbag
+furniture:chair

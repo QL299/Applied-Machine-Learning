@@ -1,0 +1,3 @@
+vehicle:motorcycle
+vehicle:boat
+person:person

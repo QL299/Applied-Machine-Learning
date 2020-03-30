@@ -1,0 +1,4 @@
+electronic:cell phone
+electronic:keyboard
+electronic:laptop
+electronic:remote

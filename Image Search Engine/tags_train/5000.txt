@@ -1,0 +1,5 @@
+indoor:clock
+kitchen:bowl
+furniture:potted plant
+animal:bird
+food:apple

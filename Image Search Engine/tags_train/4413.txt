@@ -1,0 +1,7 @@
+indoor:clock
+vehicle:car
+person:person
+outdoor:bench
+outdoor:fire hydrant
+vehicle:truck
+accessory:handbag

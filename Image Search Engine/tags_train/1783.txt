@@ -1,0 +1,5 @@
+furniture:chair
+electronic:laptop
+furniture:potted plant
+furniture:dining table
+electronic:keyboard

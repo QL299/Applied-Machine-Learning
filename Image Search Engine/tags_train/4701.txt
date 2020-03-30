@@ -1,0 +1,2 @@
+food:cake
+furniture:dining table

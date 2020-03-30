@@ -1,0 +1,3 @@
+furniture:couch
+indoor:book
+furniture:chair

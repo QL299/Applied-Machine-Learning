@@ -1,0 +1,5 @@
+electronic:laptop
+electronic:mouse
+kitchen:bottle
+kitchen:cup
+indoor:book

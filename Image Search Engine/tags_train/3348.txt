@@ -1,0 +1,4 @@
+appliance:microwave
+appliance:sink
+appliance:refrigerator
+animal:bird

@@ -1,0 +1,7 @@
+furniture:couch
+furniture:dining table
+person:person
+electronic:cell phone
+kitchen:cup
+kitchen:spoon
+kitchen:bowl

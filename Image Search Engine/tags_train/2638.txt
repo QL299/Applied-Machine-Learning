@@ -1,0 +1,5 @@
+person:person
+accessory:tie
+outdoor:bench
+accessory:suitcase
+furniture:potted plant

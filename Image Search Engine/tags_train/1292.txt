@@ -1,0 +1,7 @@
+kitchen:bowl
+food:broccoli
+appliance:oven
+kitchen:bottle
+kitchen:cup
+kitchen:spoon
+indoor:clock

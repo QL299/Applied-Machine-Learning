@@ -1,0 +1,6 @@
+furniture:dining table
+kitchen:bottle
+food:sandwich
+kitchen:knife
+indoor:vase
+kitchen:wine glass

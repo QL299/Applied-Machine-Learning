@@ -1,0 +1,4 @@
+person:person
+food:banana
+furniture:chair
+furniture:dining table

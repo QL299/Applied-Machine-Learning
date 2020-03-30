@@ -1,0 +1,7 @@
+appliance:refrigerator
+kitchen:bowl
+appliance:oven
+appliance:microwave
+appliance:sink
+person:person
+animal:bird

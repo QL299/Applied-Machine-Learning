@@ -1,0 +1,4 @@
+animal:dog
+person:person
+accessory:handbag
+sports:frisbee

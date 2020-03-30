@@ -1,0 +1,4 @@
+animal:bird
+vehicle:car
+person:person
+accessory:handbag

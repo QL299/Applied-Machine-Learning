@@ -1,0 +1,5 @@
+kitchen:bottle
+vehicle:bicycle
+person:person
+electronic:cell phone
+furniture:chair

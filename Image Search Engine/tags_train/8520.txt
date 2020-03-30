@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:couch
+person:person
+accessory:tie
+furniture:chair

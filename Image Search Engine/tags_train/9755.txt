@@ -1,0 +1,3 @@
+electronic:laptop
+indoor:book
+furniture:couch

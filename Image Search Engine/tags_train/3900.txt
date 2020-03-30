@@ -1,0 +1,4 @@
+person:person
+animal:elephant
+vehicle:bicycle
+vehicle:car

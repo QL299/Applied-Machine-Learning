@@ -1,0 +1,5 @@
+accessory:backpack
+accessory:suitcase
+person:person
+electronic:tv
+accessory:handbag

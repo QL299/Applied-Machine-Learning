@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:dining table
+person:person
+food:pizza
+furniture:chair

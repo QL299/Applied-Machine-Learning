@@ -1,0 +1,9 @@
+furniture:dining table
+kitchen:cup
+kitchen:fork
+kitchen:bowl
+food:broccoli
+food:cake
+vehicle:car
+kitchen:knife
+kitchen:spoon

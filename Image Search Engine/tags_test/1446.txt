@@ -1,0 +1,4 @@
+electronic:tv
+kitchen:bottle
+person:person
+electronic:remote

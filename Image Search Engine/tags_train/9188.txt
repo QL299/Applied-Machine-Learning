@@ -1,0 +1,6 @@
+furniture:couch
+sports:sports ball
+person:person
+sports:baseball glove
+furniture:bed
+furniture:chair

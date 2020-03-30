@@ -1,0 +1,4 @@
+kitchen:cup
+kitchen:bowl
+food:carrot
+furniture:dining table

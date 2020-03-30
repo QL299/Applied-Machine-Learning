@@ -1,0 +1,3 @@
+animal:bird
+animal:giraffe
+furniture:potted plant

@@ -1,0 +1,2 @@
+indoor:scissors
+indoor:book

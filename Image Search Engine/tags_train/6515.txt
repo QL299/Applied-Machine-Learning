@@ -1,0 +1,5 @@
+kitchen:bowl
+food:apple
+appliance:oven
+indoor:vase
+electronic:tv

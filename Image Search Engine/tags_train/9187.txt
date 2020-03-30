@@ -1,0 +1,4 @@
+furniture:couch
+person:person
+furniture:potted plant
+electronic:cell phone

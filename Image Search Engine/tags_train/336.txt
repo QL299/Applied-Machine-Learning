@@ -1,0 +1,4 @@
+furniture:bed
+accessory:handbag
+accessory:backpack
+furniture:chair

@@ -1,0 +1,5 @@
+vehicle:car
+vehicle:bus
+vehicle:truck
+outdoor:traffic light
+person:person

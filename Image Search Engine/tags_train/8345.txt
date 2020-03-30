@@ -1,0 +1,4 @@
+person:person
+indoor:hair drier
+kitchen:cup
+kitchen:bowl

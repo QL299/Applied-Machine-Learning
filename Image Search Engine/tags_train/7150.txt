@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:dining table
+kitchen:cup
+kitchen:knife
+kitchen:bowl
+food:orange
+kitchen:wine glass

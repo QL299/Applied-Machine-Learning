@@ -1,0 +1,4 @@
+animal:cow
+person:person
+furniture:chair
+furniture:dining table

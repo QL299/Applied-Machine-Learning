@@ -1,0 +1,5 @@
+person:person
+electronic:remote
+furniture:chair
+electronic:tv
+electronic:keyboard

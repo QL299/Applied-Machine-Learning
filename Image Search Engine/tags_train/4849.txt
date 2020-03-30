@@ -1,0 +1,3 @@
+indoor:vase
+furniture:chair
+furniture:dining table

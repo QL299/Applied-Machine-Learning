@@ -1,0 +1,3 @@
+animal:cat
+appliance:sink
+furniture:toilet

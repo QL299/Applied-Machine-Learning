@@ -1,0 +1,2 @@
+outdoor:stop sign
+outdoor:fire hydrant

@@ -1,0 +1,9 @@
+animal:dog
+accessory:umbrella
+person:person
+kitchen:bowl
+furniture:chair
+food:hot dog
+furniture:dining table
+sports:sports ball
+food:pizza

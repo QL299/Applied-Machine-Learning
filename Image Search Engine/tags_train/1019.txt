@@ -1,0 +1,6 @@
+furniture:dining table
+kitchen:wine glass
+kitchen:spoon
+kitchen:bowl
+food:pizza
+kitchen:cup

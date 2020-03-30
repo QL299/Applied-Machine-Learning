@@ -1,0 +1,4 @@
+furniture:dining table
+food:carrot
+kitchen:spoon
+food:sandwich

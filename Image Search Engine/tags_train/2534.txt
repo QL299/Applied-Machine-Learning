@@ -1,0 +1,6 @@
+animal:cat
+electronic:cell phone
+kitchen:cup
+electronic:laptop
+electronic:mouse
+indoor:book

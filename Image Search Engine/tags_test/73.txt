@@ -1,0 +1,3 @@
+outdoor:bench
+sports:frisbee
+person:person

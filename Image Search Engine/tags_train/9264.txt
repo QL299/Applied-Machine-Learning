@@ -1,0 +1,7 @@
+furniture:bed
+electronic:cell phone
+furniture:chair
+electronic:laptop
+electronic:mouse
+indoor:book
+accessory:suitcase

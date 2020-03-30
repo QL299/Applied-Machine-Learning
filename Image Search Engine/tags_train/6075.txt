@@ -1,0 +1,4 @@
+animal:horse
+person:person
+indoor:clock
+accessory:handbag

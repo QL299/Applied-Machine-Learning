@@ -1,0 +1,7 @@
+person:person
+kitchen:cup
+kitchen:knife
+kitchen:bottle
+kitchen:fork
+indoor:vase
+food:sandwich

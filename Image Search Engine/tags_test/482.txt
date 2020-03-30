@@ -1,0 +1,3 @@
+food:pizza
+food:apple
+furniture:dining table

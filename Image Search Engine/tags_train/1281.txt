@@ -1,0 +1,7 @@
+kitchen:cup
+kitchen:bowl
+food:banana
+food:orange
+electronic:laptop
+kitchen:bottle
+electronic:mouse

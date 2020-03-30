@@ -1,0 +1,4 @@
+animal:bird
+furniture:chair
+furniture:couch
+indoor:clock

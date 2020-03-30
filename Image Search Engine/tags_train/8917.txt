@@ -1,0 +1,6 @@
+furniture:potted plant
+kitchen:wine glass
+kitchen:cup
+electronic:laptop
+outdoor:bench
+furniture:dining table

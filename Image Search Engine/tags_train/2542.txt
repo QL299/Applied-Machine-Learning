@@ -1,0 +1,2 @@
+indoor:vase
+kitchen:bowl

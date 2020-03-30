@@ -1,0 +1,9 @@
+electronic:tv
+electronic:laptop
+kitchen:bottle
+kitchen:wine glass
+kitchen:cup
+furniture:chair
+electronic:mouse
+electronic:keyboard
+indoor:book

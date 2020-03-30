@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+kitchen:knife
+kitchen:bowl
+kitchen:cup
+accessory:backpack

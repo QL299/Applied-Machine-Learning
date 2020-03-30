@@ -1,0 +1,4 @@
+person:person
+vehicle:airplane
+accessory:backpack
+accessory:handbag

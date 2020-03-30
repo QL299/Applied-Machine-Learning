@@ -1,0 +1,5 @@
+kitchen:bottle
+kitchen:knife
+food:banana
+appliance:oven
+appliance:sink

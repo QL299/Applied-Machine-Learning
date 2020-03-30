@@ -1,0 +1,5 @@
+appliance:oven
+appliance:sink
+kitchen:bowl
+kitchen:bottle
+furniture:chair

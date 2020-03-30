@@ -1,0 +1,7 @@
+vehicle:train
+person:person
+accessory:backpack
+accessory:handbag
+accessory:suitcase
+outdoor:bench
+kitchen:bottle

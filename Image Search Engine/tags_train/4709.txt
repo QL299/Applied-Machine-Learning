@@ -1,0 +1,4 @@
+person:person
+accessory:backpack
+food:pizza
+food:cake

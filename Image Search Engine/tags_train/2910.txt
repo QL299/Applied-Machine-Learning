@@ -1,0 +1,3 @@
+animal:dog
+indoor:book
+person:person

@@ -1,0 +1,7 @@
+electronic:cell phone
+electronic:laptop
+electronic:mouse
+accessory:backpack
+furniture:bed
+accessory:umbrella
+indoor:book

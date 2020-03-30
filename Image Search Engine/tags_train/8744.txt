@@ -1,0 +1,4 @@
+food:pizza
+food:broccoli
+person:person
+accessory:handbag

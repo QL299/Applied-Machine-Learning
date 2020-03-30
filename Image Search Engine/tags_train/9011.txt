@@ -1,0 +1,5 @@
+person:person
+kitchen:bowl
+appliance:oven
+food:pizza
+kitchen:spoon

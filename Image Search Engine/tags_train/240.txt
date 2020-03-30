@@ -1,0 +1,4 @@
+kitchen:knife
+food:pizza
+furniture:dining table
+kitchen:spoon

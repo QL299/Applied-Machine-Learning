@@ -1,0 +1,4 @@
+furniture:bed
+furniture:dining table
+electronic:remote
+kitchen:bottle

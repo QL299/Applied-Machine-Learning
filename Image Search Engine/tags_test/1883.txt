@@ -1,0 +1,9 @@
+person:person
+electronic:cell phone
+outdoor:traffic light
+outdoor:fire hydrant
+accessory:backpack
+vehicle:car
+vehicle:bus
+vehicle:truck
+outdoor:parking meter

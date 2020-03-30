@@ -1,0 +1,4 @@
+food:sandwich
+electronic:cell phone
+furniture:dining table
+kitchen:cup

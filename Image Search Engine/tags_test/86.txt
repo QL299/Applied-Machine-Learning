@@ -1,0 +1,9 @@
+kitchen:bottle
+appliance:refrigerator
+kitchen:spoon
+kitchen:bowl
+appliance:sink
+accessory:handbag
+kitchen:cup
+kitchen:knife
+appliance:oven

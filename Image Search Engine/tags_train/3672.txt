@@ -1,0 +1,5 @@
+electronic:cell phone
+furniture:toilet
+appliance:sink
+person:person
+electronic:tv

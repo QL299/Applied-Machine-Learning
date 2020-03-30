@@ -1,0 +1,4 @@
+electronic:tv
+furniture:couch
+animal:cat
+indoor:book

@@ -1,0 +1,4 @@
+animal:giraffe
+food:carrot
+person:person
+accessory:handbag

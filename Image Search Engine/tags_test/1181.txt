@@ -1,0 +1,4 @@
+electronic:tv
+person:person
+indoor:book
+electronic:remote

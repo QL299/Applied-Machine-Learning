@@ -1,0 +1,10 @@
+electronic:tv
+kitchen:bottle
+person:person
+food:sandwich
+kitchen:fork
+kitchen:bowl
+kitchen:cup
+food:carrot
+food:cake
+electronic:remote

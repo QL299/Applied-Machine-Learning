@@ -1,0 +1,4 @@
+accessory:tie
+person:person
+accessory:handbag
+outdoor:bench

@@ -1,0 +1,4 @@
+vehicle:bus
+person:person
+outdoor:bench
+outdoor:parking meter

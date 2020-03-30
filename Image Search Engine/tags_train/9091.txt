@@ -1,0 +1,5 @@
+accessory:umbrella
+accessory:tie
+furniture:chair
+person:person
+furniture:dining table

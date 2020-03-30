@@ -1,0 +1,4 @@
+kitchen:bottle
+appliance:refrigerator
+kitchen:bowl
+food:apple

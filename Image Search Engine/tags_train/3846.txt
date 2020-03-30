@@ -1,0 +1,10 @@
+kitchen:bottle
+person:person
+kitchen:fork
+kitchen:knife
+kitchen:bowl
+kitchen:cup
+food:carrot
+food:pizza
+furniture:dining table
+appliance:sink

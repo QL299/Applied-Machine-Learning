@@ -1,0 +1,4 @@
+person:person
+indoor:scissors
+furniture:dining table
+indoor:vase

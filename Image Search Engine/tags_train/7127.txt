@@ -1,0 +1,6 @@
+appliance:refrigerator
+appliance:oven
+appliance:sink
+kitchen:cup
+food:cake
+indoor:vase

@@ -1,0 +1,2 @@
+furniture:toilet
+indoor:book

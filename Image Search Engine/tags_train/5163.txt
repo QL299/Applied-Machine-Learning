@@ -1,0 +1,6 @@
+electronic:tv
+kitchen:bottle
+electronic:mouse
+electronic:keyboard
+person:person
+animal:dog

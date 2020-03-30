@@ -1,0 +1,3 @@
+kitchen:cup
+food:orange
+furniture:dining table

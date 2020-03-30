@@ -1,0 +1,5 @@
+furniture:bed
+person:person
+kitchen:cup
+accessory:backpack
+kitchen:knife

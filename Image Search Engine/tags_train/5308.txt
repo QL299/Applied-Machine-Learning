@@ -1,0 +1,3 @@
+electronic:tv
+person:person
+accessory:tie

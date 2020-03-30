@@ -1,0 +1,9 @@
+animal:dog
+kitchen:bottle
+appliance:refrigerator
+kitchen:bowl
+appliance:microwave
+kitchen:cup
+kitchen:knife
+kitchen:spoon
+kitchen:wine glass

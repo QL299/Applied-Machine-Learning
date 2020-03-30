@@ -1,0 +1,5 @@
+person:person
+kitchen:cup
+kitchen:fork
+electronic:laptop
+furniture:dining table

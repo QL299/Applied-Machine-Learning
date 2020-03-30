@@ -1,0 +1,4 @@
+electronic:tv
+person:person
+electronic:laptop
+electronic:cell phone

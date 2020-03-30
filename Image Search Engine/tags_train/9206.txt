@@ -1,0 +1,9 @@
+furniture:dining table
+kitchen:fork
+kitchen:knife
+kitchen:bowl
+food:banana
+food:orange
+person:person
+kitchen:spoon
+food:cake

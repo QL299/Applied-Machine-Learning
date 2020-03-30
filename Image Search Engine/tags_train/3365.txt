@@ -1,0 +1,3 @@
+animal:bird
+furniture:chair
+accessory:umbrella

@@ -1,0 +1,6 @@
+indoor:clock
+person:person
+appliance:sink
+kitchen:bowl
+kitchen:cup
+food:orange

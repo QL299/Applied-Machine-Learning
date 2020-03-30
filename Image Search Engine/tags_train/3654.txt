@@ -1,0 +1,3 @@
+kitchen:knife
+furniture:dining table
+food:sandwich

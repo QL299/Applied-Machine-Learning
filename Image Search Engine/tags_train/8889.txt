@@ -1,0 +1,7 @@
+vehicle:car
+vehicle:motorcycle
+person:person
+outdoor:traffic light
+vehicle:truck
+animal:bird
+accessory:backpack

@@ -1,0 +1,4 @@
+animal:cat
+person:person
+electronic:laptop
+electronic:keyboard

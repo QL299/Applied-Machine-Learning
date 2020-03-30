@@ -1,0 +1,4 @@
+kitchen:bottle
+electronic:laptop
+electronic:keyboard
+electronic:mouse

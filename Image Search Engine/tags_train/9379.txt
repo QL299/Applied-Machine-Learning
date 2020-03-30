@@ -1,0 +1,4 @@
+person:person
+animal:elephant
+accessory:handbag
+outdoor:bench

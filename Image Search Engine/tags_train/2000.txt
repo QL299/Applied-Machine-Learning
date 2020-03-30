@@ -1,0 +1,6 @@
+person:person
+accessory:umbrella
+indoor:book
+furniture:chair
+kitchen:cup
+indoor:teddy bear

@@ -1,0 +1,3 @@
+electronic:remote
+person:person
+accessory:handbag

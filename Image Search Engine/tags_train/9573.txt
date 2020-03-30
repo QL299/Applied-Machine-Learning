@@ -1,0 +1,4 @@
+vehicle:motorcycle
+person:person
+vehicle:car
+vehicle:truck

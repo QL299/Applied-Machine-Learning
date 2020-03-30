@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+appliance:microwave
+appliance:oven
+appliance:sink
+kitchen:cup

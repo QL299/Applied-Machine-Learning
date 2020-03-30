@@ -1,0 +1,6 @@
+vehicle:car
+person:person
+sports:surfboard
+accessory:handbag
+furniture:chair
+kitchen:cup

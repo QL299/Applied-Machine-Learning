@@ -1,0 +1,4 @@
+vehicle:airplane
+indoor:book
+vehicle:train
+person:person

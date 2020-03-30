@@ -1,0 +1,5 @@
+animal:bird
+furniture:chair
+kitchen:knife
+furniture:dining table
+kitchen:bottle

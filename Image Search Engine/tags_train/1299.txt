@@ -1,0 +1,5 @@
+animal:dog
+furniture:potted plant
+vehicle:car
+person:person
+accessory:backpack

@@ -1,0 +1,5 @@
+animal:dog
+person:person
+accessory:tie
+sports:tennis racket
+furniture:chair

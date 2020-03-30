@@ -1,0 +1,6 @@
+accessory:umbrella
+accessory:tie
+furniture:chair
+person:person
+electronic:laptop
+accessory:backpack

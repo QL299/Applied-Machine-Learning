@@ -1,0 +1,4 @@
+sports:baseball glove
+person:person
+accessory:tie
+sports:baseball bat

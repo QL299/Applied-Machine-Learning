@@ -1,0 +1,6 @@
+electronic:cell phone
+vehicle:car
+person:person
+accessory:tie
+outdoor:traffic light
+vehicle:truck

@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:chair
+person:person
+electronic:laptop
+electronic:mouse

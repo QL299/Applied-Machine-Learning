@@ -1,0 +1,4 @@
+person:person
+outdoor:bench
+sports:tennis racket
+accessory:backpack

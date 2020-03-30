@@ -1,0 +1,3 @@
+accessory:umbrella
+person:person
+outdoor:bench

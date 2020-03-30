@@ -1,0 +1,9 @@
+furniture:couch
+furniture:chair
+furniture:dining table
+kitchen:bowl
+appliance:microwave
+indoor:book
+accessory:handbag
+kitchen:cup
+appliance:sink

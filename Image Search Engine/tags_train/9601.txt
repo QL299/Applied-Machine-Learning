@@ -1,0 +1,4 @@
+animal:horse
+kitchen:bottle
+vehicle:car
+person:person

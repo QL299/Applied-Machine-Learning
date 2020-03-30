@@ -1,0 +1,6 @@
+appliance:microwave
+appliance:oven
+accessory:handbag
+furniture:potted plant
+person:person
+furniture:couch

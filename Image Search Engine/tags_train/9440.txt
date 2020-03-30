@@ -1,0 +1,5 @@
+accessory:umbrella
+person:person
+food:banana
+accessory:handbag
+furniture:dining table

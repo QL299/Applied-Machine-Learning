@@ -1,0 +1,6 @@
+electronic:tv
+furniture:couch
+furniture:chair
+furniture:dining table
+indoor:book
+kitchen:bowl

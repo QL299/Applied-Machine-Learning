@@ -1,0 +1,4 @@
+animal:horse
+animal:sheep
+vehicle:train
+person:person

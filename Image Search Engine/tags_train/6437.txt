@@ -1,0 +1,7 @@
+person:person
+kitchen:fork
+kitchen:knife
+food:pizza
+food:carrot
+furniture:chair
+furniture:dining table

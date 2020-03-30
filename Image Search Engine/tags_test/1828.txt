@@ -1,0 +1,7 @@
+kitchen:bowl
+food:apple
+kitchen:cup
+food:orange
+furniture:dining table
+food:donut
+food:cake

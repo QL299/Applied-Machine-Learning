@@ -1,0 +1,10 @@
+animal:dog
+furniture:potted plant
+furniture:couch
+person:person
+kitchen:cup
+electronic:remote
+indoor:book
+electronic:tv
+indoor:vase
+accessory:handbag

@@ -1,0 +1,12 @@
+electronic:cell phone
+appliance:refrigerator
+indoor:clock
+kitchen:knife
+food:banana
+food:apple
+appliance:microwave
+appliance:oven
+food:orange
+kitchen:bowl
+appliance:sink
+indoor:vase

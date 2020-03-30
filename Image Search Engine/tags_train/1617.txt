@@ -1,0 +1,3 @@
+outdoor:stop sign
+accessory:umbrella
+vehicle:car

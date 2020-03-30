@@ -1,0 +1,11 @@
+kitchen:bottle
+furniture:chair
+kitchen:wine glass
+kitchen:cup
+kitchen:knife
+kitchen:spoon
+kitchen:bowl
+food:orange
+appliance:oven
+appliance:toaster
+appliance:sink

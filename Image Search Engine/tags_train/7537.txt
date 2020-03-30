@@ -1,0 +1,4 @@
+food:hot dog
+person:person
+accessory:handbag
+furniture:chair

@@ -1,0 +1,6 @@
+accessory:tie
+furniture:chair
+person:person
+electronic:laptop
+indoor:book
+accessory:handbag

@@ -1,0 +1,6 @@
+animal:dog
+electronic:tv
+furniture:chair
+electronic:remote
+furniture:dining table
+kitchen:cup

@@ -1,0 +1,6 @@
+furniture:potted plant
+furniture:bed
+person:person
+indoor:book
+electronic:remote
+furniture:chair

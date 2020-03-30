@@ -1,0 +1,7 @@
+kitchen:bottle
+appliance:microwave
+appliance:oven
+appliance:sink
+furniture:dining table
+accessory:umbrella
+kitchen:spoon

@@ -1,0 +1,4 @@
+kitchen:bottle
+electronic:cell phone
+electronic:keyboard
+kitchen:cup

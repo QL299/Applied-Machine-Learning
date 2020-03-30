@@ -1,0 +1,7 @@
+vehicle:car
+outdoor:traffic light
+accessory:backpack
+person:person
+accessory:handbag
+accessory:umbrella
+furniture:potted plant

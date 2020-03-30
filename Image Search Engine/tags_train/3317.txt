@@ -1,0 +1,3 @@
+indoor:vase
+person:person
+vehicle:car

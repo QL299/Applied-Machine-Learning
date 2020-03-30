@@ -1,0 +1,6 @@
+furniture:potted plant
+animal:bird
+person:person
+outdoor:bench
+accessory:handbag
+accessory:backpack

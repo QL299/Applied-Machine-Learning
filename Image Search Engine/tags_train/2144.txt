@@ -1,0 +1,5 @@
+vehicle:motorcycle
+person:person
+indoor:clock
+electronic:laptop
+accessory:backpack

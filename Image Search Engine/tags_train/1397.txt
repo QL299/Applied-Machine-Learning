@@ -1,0 +1,5 @@
+vehicle:bicycle
+vehicle:boat
+person:person
+outdoor:bench
+accessory:handbag

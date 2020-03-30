@@ -1,0 +1,8 @@
+kitchen:bottle
+food:orange
+electronic:mouse
+electronic:keyboard
+indoor:book
+kitchen:cup
+electronic:tv
+electronic:cell phone

@@ -1,0 +1,6 @@
+person:person
+furniture:toilet
+appliance:sink
+kitchen:cup
+appliance:oven
+indoor:book

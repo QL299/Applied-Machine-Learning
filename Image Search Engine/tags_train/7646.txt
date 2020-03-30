@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+furniture:dining table
+furniture:potted plant
+indoor:vase
+appliance:microwave

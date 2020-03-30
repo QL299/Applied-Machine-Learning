@@ -1,0 +1,6 @@
+vehicle:motorcycle
+vehicle:bus
+vehicle:car
+person:person
+vehicle:truck
+outdoor:traffic light

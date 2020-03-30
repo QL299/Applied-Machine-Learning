@@ -1,0 +1,2 @@
+outdoor:fire hydrant
+vehicle:car

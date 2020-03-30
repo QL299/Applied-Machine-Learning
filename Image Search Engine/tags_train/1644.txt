@@ -1,0 +1,3 @@
+kitchen:bottle
+person:person
+food:pizza

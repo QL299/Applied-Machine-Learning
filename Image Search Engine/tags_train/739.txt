@@ -1,0 +1,5 @@
+vehicle:bicycle
+accessory:umbrella
+sports:sports ball
+furniture:bed
+indoor:book

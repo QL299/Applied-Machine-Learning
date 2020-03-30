@@ -1,0 +1,6 @@
+furniture:chair
+furniture:dining table
+vehicle:train
+kitchen:wine glass
+kitchen:cup
+person:person

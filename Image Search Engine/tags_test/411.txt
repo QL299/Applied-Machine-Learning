@@ -1,0 +1,3 @@
+kitchen:bowl
+kitchen:bottle
+kitchen:spoon

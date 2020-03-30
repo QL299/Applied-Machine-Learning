@@ -1,0 +1,6 @@
+furniture:dining table
+person:person
+furniture:couch
+indoor:toothbrush
+furniture:chair
+indoor:book

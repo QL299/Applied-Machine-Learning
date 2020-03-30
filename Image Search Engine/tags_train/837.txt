@@ -1,0 +1,6 @@
+person:person
+appliance:oven
+kitchen:knife
+kitchen:bowl
+food:pizza
+appliance:sink

@@ -1,0 +1,3 @@
+accessory:suitcase
+accessory:backpack
+kitchen:bottle

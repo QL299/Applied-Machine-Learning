@@ -1,0 +1,4 @@
+furniture:potted plant
+kitchen:cup
+indoor:vase
+vehicle:car

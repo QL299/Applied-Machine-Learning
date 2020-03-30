@@ -1,0 +1,4 @@
+person:person
+sports:kite
+vehicle:car
+animal:dog

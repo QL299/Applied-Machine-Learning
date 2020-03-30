@@ -1,0 +1,6 @@
+electronic:cell phone
+vehicle:car
+furniture:chair
+person:person
+vehicle:truck
+furniture:potted plant

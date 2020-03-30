@@ -1,0 +1,7 @@
+electronic:tv
+furniture:chair
+furniture:dining table
+appliance:refrigerator
+appliance:microwave
+appliance:sink
+furniture:couch

@@ -1,0 +1,4 @@
+accessory:umbrella
+furniture:chair
+person:person
+accessory:suitcase

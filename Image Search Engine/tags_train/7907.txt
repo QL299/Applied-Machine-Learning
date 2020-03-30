@@ -1,0 +1,4 @@
+animal:dog
+furniture:chair
+person:person
+electronic:laptop

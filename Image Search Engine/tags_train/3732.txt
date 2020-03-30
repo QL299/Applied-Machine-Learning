@@ -1,0 +1,6 @@
+animal:cat
+furniture:couch
+person:person
+furniture:bed
+furniture:chair
+indoor:book

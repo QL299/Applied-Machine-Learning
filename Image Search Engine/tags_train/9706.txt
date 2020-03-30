@@ -1,0 +1,2 @@
+food:cake
+indoor:teddy bear

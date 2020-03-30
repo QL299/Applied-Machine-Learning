@@ -1,0 +1,7 @@
+furniture:chair
+person:person
+furniture:dining table
+kitchen:bowl
+food:carrot
+indoor:vase
+furniture:potted plant

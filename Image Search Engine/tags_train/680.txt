@@ -1,0 +1,7 @@
+kitchen:cup
+kitchen:knife
+food:carrot
+furniture:dining table
+indoor:book
+electronic:remote
+electronic:keyboard

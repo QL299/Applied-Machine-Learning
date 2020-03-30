@@ -1,0 +1,3 @@
+vehicle:bus
+person:person
+accessory:umbrella

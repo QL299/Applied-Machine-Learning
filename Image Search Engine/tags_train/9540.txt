@@ -1,0 +1,9 @@
+furniture:potted plant
+furniture:couch
+furniture:chair
+indoor:vase
+person:person
+kitchen:cup
+kitchen:bowl
+animal:horse
+furniture:dining table

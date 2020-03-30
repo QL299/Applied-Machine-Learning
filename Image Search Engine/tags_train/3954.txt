@@ -1,0 +1,4 @@
+vehicle:bus
+electronic:cell phone
+outdoor:traffic light
+person:person

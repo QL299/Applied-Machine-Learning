@@ -1,0 +1,5 @@
+appliance:refrigerator
+appliance:microwave
+appliance:oven
+furniture:chair
+furniture:dining table

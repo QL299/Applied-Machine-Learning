@@ -1,0 +1,10 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+person:person
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+food:broccoli
+indoor:book
+food:carrot

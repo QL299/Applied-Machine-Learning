@@ -1,0 +1,4 @@
+vehicle:train
+outdoor:traffic light
+vehicle:car
+vehicle:bus

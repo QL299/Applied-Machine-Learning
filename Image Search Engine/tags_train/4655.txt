@@ -1,0 +1,4 @@
+kitchen:bottle
+appliance:toaster
+appliance:microwave
+appliance:oven

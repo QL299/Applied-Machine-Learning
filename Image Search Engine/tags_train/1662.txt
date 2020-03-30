@@ -1,0 +1,9 @@
+kitchen:cup
+kitchen:bowl
+food:apple
+food:orange
+food:broccoli
+kitchen:fork
+kitchen:knife
+furniture:dining table
+person:person

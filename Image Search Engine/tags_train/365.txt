@@ -1,0 +1,4 @@
+electronic:cell phone
+person:person
+animal:cow
+sports:sports ball

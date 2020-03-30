@@ -1,0 +1,4 @@
+person:person
+vehicle:train
+vehicle:truck
+vehicle:car

@@ -1,0 +1,2 @@
+food:hot dog
+furniture:dining table

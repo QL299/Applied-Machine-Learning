@@ -1,0 +1,8 @@
+animal:dog
+electronic:tv
+furniture:couch
+person:person
+kitchen:wine glass
+kitchen:cup
+electronic:remote
+indoor:book

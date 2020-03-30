@@ -1,0 +1,14 @@
+kitchen:bottle
+person:person
+appliance:refrigerator
+kitchen:cup
+kitchen:spoon
+kitchen:bowl
+food:cake
+appliance:sink
+furniture:chair
+furniture:potted plant
+furniture:dining table
+appliance:oven
+electronic:cell phone
+kitchen:knife

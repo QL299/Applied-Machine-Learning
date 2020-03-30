@@ -1,0 +1,6 @@
+animal:horse
+person:person
+vehicle:car
+accessory:umbrella
+accessory:handbag
+vehicle:bicycle

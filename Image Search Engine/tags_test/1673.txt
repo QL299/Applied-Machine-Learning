@@ -1,0 +1,5 @@
+food:carrot
+kitchen:bottle
+kitchen:cup
+food:orange
+furniture:chair

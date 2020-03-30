@@ -1,0 +1,2 @@
+animal:dog
+furniture:toilet

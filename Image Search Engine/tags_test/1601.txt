@@ -1,0 +1,4 @@
+kitchen:cup
+kitchen:fork
+furniture:dining table
+person:person

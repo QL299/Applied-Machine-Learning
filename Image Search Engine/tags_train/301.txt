@@ -1,0 +1,7 @@
+furniture:chair
+furniture:dining table
+person:person
+food:sandwich
+vehicle:car
+electronic:cell phone
+food:hot dog

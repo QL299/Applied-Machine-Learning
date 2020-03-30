@@ -1,0 +1,6 @@
+appliance:refrigerator
+person:person
+appliance:oven
+appliance:sink
+indoor:vase
+furniture:potted plant

@@ -1,0 +1,3 @@
+kitchen:bowl
+food:carrot
+kitchen:spoon

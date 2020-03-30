@@ -1,0 +1,5 @@
+furniture:dining table
+food:orange
+accessory:handbag
+electronic:cell phone
+furniture:chair

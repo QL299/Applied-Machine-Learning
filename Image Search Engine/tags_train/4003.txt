@@ -1,0 +1,6 @@
+kitchen:bottle
+kitchen:bowl
+furniture:dining table
+person:person
+kitchen:wine glass
+electronic:cell phone

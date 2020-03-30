@@ -1,0 +1,15 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+vehicle:car
+kitchen:wine glass
+kitchen:cup
+kitchen:fork
+kitchen:knife
+kitchen:bowl
+person:person
+accessory:umbrella
+kitchen:spoon
+food:broccoli
+accessory:backpack
+accessory:handbag

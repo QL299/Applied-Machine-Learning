@@ -1,0 +1,3 @@
+furniture:chair
+sports:tennis racket
+person:person

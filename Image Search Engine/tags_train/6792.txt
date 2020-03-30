@@ -1,0 +1,6 @@
+kitchen:bottle
+electronic:cell phone
+indoor:book
+accessory:handbag
+indoor:clock
+accessory:backpack

@@ -1,0 +1,4 @@
+vehicle:airplane
+person:person
+electronic:cell phone
+accessory:backpack

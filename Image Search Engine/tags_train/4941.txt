@@ -1,0 +1,8 @@
+electronic:tv
+furniture:chair
+person:person
+electronic:keyboard
+indoor:book
+indoor:scissors
+electronic:laptop
+accessory:backpack

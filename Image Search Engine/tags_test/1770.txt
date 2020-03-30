@@ -1,0 +1,9 @@
+furniture:chair
+person:person
+appliance:refrigerator
+appliance:oven
+indoor:book
+kitchen:bowl
+furniture:potted plant
+furniture:dining table
+indoor:vase

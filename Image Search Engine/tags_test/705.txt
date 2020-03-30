@@ -1,0 +1,4 @@
+vehicle:truck
+person:person
+vehicle:car
+outdoor:parking meter

@@ -1,0 +1,7 @@
+furniture:dining table
+food:sandwich
+kitchen:cup
+food:orange
+indoor:book
+furniture:chair
+indoor:vase

@@ -1,0 +1,9 @@
+furniture:potted plant
+appliance:refrigerator
+appliance:oven
+appliance:toaster
+appliance:sink
+kitchen:bottle
+kitchen:knife
+kitchen:spoon
+kitchen:bowl

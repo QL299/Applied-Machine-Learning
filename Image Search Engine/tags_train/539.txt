@@ -1,0 +1,5 @@
+animal:sheep
+person:person
+accessory:umbrella
+vehicle:truck
+accessory:handbag

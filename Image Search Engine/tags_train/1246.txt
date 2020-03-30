@@ -1,0 +1,4 @@
+furniture:potted plant
+animal:cat
+furniture:couch
+electronic:remote

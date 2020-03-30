@@ -1,0 +1,7 @@
+electronic:cell phone
+furniture:chair
+person:person
+electronic:laptop
+indoor:book
+electronic:tv
+accessory:handbag

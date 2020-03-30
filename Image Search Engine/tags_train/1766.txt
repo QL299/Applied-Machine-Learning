@@ -1,0 +1,6 @@
+animal:dog
+vehicle:car
+person:person
+outdoor:bench
+sports:surfboard
+sports:sports ball

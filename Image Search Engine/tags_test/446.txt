@@ -1,0 +1,4 @@
+person:person
+vehicle:car
+vehicle:boat
+vehicle:motorcycle

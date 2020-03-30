@@ -1,0 +1,6 @@
+furniture:couch
+furniture:bed
+indoor:book
+accessory:backpack
+accessory:suitcase
+indoor:clock

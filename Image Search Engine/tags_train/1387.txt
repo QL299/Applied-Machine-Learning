@@ -1,0 +1,4 @@
+furniture:potted plant
+vehicle:car
+indoor:clock
+outdoor:bench

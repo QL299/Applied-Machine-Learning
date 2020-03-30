@@ -1,0 +1,6 @@
+electronic:cell phone
+person:person
+kitchen:cup
+indoor:book
+accessory:handbag
+outdoor:fire hydrant

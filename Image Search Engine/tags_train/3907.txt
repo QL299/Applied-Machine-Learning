@@ -1,0 +1,6 @@
+kitchen:knife
+food:banana
+appliance:toaster
+kitchen:bowl
+food:orange
+appliance:oven

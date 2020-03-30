@@ -1,0 +1,7 @@
+electronic:cell phone
+person:person
+kitchen:knife
+food:cake
+furniture:dining table
+kitchen:cup
+kitchen:fork

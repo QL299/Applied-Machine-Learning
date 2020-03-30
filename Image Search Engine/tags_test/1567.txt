@@ -1,0 +1,4 @@
+vehicle:motorcycle
+vehicle:bus
+vehicle:car
+person:person

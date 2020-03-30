@@ -1,0 +1,5 @@
+person:person
+furniture:bed
+electronic:remote
+indoor:book
+electronic:tv

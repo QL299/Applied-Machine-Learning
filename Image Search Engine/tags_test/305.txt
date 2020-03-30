@@ -1,0 +1,4 @@
+kitchen:bottle
+kitchen:wine glass
+person:person
+accessory:umbrella

@@ -1,0 +1,6 @@
+animal:horse
+outdoor:bench
+person:person
+accessory:umbrella
+accessory:tie
+vehicle:train

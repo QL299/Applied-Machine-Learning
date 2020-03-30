@@ -1,0 +1,4 @@
+furniture:chair
+indoor:book
+accessory:suitcase
+kitchen:cup

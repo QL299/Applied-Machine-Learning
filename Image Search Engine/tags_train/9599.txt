@@ -1,0 +1,5 @@
+food:hot dog
+food:sandwich
+kitchen:cup
+person:person
+furniture:dining table

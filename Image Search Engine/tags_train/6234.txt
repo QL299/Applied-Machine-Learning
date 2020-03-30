@@ -1,0 +1,7 @@
+furniture:chair
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+electronic:tv
+indoor:clock
+indoor:book

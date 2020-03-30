@@ -1,0 +1,5 @@
+furniture:couch
+person:person
+vehicle:car
+furniture:bed
+furniture:chair

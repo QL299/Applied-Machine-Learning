@@ -1,0 +1,3 @@
+electronic:tv
+indoor:book
+accessory:backpack

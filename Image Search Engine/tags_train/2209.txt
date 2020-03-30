@@ -1,0 +1,8 @@
+electronic:tv
+person:person
+accessory:tie
+electronic:mouse
+electronic:keyboard
+accessory:handbag
+electronic:laptop
+furniture:chair

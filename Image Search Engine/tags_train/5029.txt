@@ -1,0 +1,10 @@
+kitchen:bottle
+furniture:couch
+kitchen:wine glass
+indoor:book
+animal:dog
+furniture:chair
+furniture:potted plant
+electronic:remote
+kitchen:cup
+furniture:dining table

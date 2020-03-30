@@ -1,0 +1,4 @@
+indoor:scissors
+kitchen:spoon
+kitchen:fork
+kitchen:knife

@@ -1,0 +1,4 @@
+electronic:cell phone
+indoor:book
+person:person
+indoor:clock

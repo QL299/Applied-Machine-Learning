@@ -1,0 +1,4 @@
+animal:cat
+furniture:chair
+indoor:scissors
+furniture:couch

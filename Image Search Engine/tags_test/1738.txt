@@ -1,0 +1,2 @@
+indoor:hair drier
+person:person

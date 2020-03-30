@@ -1,0 +1,7 @@
+furniture:chair
+person:person
+appliance:sink
+kitchen:cup
+kitchen:bowl
+kitchen:knife
+indoor:vase

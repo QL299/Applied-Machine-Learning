@@ -1,0 +1,5 @@
+kitchen:bottle
+food:sandwich
+furniture:dining table
+kitchen:cup
+kitchen:bowl

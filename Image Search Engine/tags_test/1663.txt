@@ -1,0 +1,6 @@
+accessory:umbrella
+person:person
+kitchen:cup
+kitchen:bowl
+appliance:microwave
+appliance:oven

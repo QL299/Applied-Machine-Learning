@@ -1,0 +1,4 @@
+vehicle:bus
+person:person
+sports:skateboard
+vehicle:car

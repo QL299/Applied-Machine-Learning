@@ -1,0 +1,3 @@
+person:person
+indoor:hair drier
+appliance:sink

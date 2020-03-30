@@ -1,0 +1,6 @@
+appliance:oven
+appliance:toaster
+appliance:sink
+indoor:vase
+kitchen:knife
+appliance:microwave

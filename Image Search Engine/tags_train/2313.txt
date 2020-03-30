@@ -1,0 +1,6 @@
+electronic:tv
+furniture:couch
+person:person
+electronic:remote
+indoor:vase
+indoor:teddy bear

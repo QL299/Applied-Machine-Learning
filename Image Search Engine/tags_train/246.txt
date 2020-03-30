@@ -1,0 +1,5 @@
+animal:horse
+person:person
+accessory:tie
+accessory:handbag
+furniture:potted plant

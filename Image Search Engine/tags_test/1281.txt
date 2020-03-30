@@ -1,0 +1,5 @@
+kitchen:bottle
+kitchen:knife
+furniture:dining table
+furniture:chair
+indoor:book

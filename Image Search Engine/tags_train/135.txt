@@ -1,0 +1,4 @@
+furniture:couch
+indoor:book
+indoor:vase
+kitchen:bowl

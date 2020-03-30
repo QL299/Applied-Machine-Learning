@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:dining table
+person:person
+kitchen:cup
+food:hot dog
+indoor:book
+furniture:chair

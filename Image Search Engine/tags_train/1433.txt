@@ -1,0 +1,3 @@
+vehicle:car
+food:carrot
+person:person

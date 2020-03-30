@@ -1,0 +1,4 @@
+indoor:book
+indoor:teddy bear
+furniture:couch
+furniture:chair

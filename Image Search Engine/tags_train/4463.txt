@@ -1,0 +1,3 @@
+furniture:chair
+electronic:laptop
+appliance:refrigerator

@@ -1,0 +1,5 @@
+person:person
+food:hot dog
+accessory:handbag
+furniture:chair
+furniture:potted plant

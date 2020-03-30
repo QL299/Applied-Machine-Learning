@@ -1,0 +1,6 @@
+food:banana
+kitchen:cup
+food:apple
+food:sandwich
+food:orange
+food:hot dog

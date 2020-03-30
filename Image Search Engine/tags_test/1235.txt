@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+sports:tennis racket
+sports:sports ball

@@ -1,0 +1,4 @@
+accessory:handbag
+accessory:backpack
+indoor:book
+electronic:tv

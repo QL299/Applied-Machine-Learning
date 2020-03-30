@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+kitchen:cup
+indoor:book

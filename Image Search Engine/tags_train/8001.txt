@@ -1,0 +1,7 @@
+kitchen:bottle
+kitchen:cup
+electronic:keyboard
+appliance:sink
+kitchen:spoon
+electronic:mouse
+electronic:tv

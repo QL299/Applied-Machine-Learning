@@ -1,0 +1,8 @@
+accessory:umbrella
+vehicle:car
+furniture:chair
+person:person
+furniture:dining table
+electronic:laptop
+outdoor:traffic light
+kitchen:cup

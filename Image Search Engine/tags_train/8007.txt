@@ -1,0 +1,5 @@
+person:person
+sports:baseball bat
+sports:baseball glove
+vehicle:bus
+outdoor:bench

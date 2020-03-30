@@ -1,0 +1,4 @@
+vehicle:airplane
+vehicle:bus
+vehicle:car
+vehicle:truck

@@ -1,0 +1,5 @@
+electronic:tv
+furniture:bed
+kitchen:cup
+furniture:chair
+accessory:handbag

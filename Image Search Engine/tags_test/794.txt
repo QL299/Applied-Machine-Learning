@@ -1,0 +1,3 @@
+animal:cow
+animal:elephant
+animal:zebra

@@ -1,0 +1,4 @@
+furniture:dining table
+vehicle:bicycle
+person:person
+indoor:vase

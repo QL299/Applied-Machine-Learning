@@ -1,0 +1,5 @@
+kitchen:bottle
+person:person
+accessory:tie
+kitchen:cup
+furniture:dining table

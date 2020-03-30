@@ -1,0 +1,6 @@
+furniture:chair
+person:person
+kitchen:cup
+kitchen:fork
+food:pizza
+accessory:handbag

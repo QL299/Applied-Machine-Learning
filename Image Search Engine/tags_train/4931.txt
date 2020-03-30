@@ -1,0 +1,10 @@
+furniture:potted plant
+appliance:refrigerator
+furniture:chair
+kitchen:cup
+appliance:oven
+appliance:sink
+kitchen:bowl
+appliance:microwave
+sports:surfboard
+kitchen:bottle

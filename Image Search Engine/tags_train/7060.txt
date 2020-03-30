@@ -1,0 +1,3 @@
+vehicle:motorcycle
+accessory:handbag
+person:person

@@ -1,0 +1,4 @@
+furniture:bed
+electronic:laptop
+furniture:chair
+indoor:book

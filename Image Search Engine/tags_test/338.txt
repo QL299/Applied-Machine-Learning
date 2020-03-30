@@ -1,0 +1,2 @@
+outdoor:bench
+outdoor:fire hydrant

@@ -1,0 +1,4 @@
+furniture:bed
+accessory:umbrella
+furniture:chair
+person:person

@@ -1,0 +1,6 @@
+indoor:clock
+furniture:chair
+electronic:laptop
+electronic:mouse
+indoor:vase
+furniture:couch

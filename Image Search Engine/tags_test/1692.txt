@@ -1,0 +1,11 @@
+kitchen:bottle
+person:person
+kitchen:cup
+kitchen:bowl
+food:banana
+food:apple
+appliance:sink
+kitchen:wine glass
+kitchen:knife
+food:orange
+indoor:scissors

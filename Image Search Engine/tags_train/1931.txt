@@ -1,0 +1,4 @@
+animal:cow
+vehicle:boat
+accessory:backpack
+person:person

@@ -1,0 +1,6 @@
+accessory:umbrella
+sports:sports ball
+vehicle:car
+sports:baseball bat
+person:person
+sports:baseball glove

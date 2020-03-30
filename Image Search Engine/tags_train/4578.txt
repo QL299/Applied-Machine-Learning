@@ -1,0 +1,5 @@
+animal:cat
+furniture:dining table
+kitchen:wine glass
+furniture:chair
+furniture:potted plant

@@ -1,0 +1,7 @@
+electronic:tv
+furniture:chair
+electronic:mouse
+electronic:remote
+electronic:keyboard
+electronic:cell phone
+indoor:scissors

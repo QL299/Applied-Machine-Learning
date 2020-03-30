@@ -1,0 +1,4 @@
+animal:dog
+food:sandwich
+furniture:bed
+food:hot dog

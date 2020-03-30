@@ -1,0 +1,8 @@
+furniture:dining table
+person:person
+kitchen:cup
+food:hot dog
+accessory:handbag
+furniture:chair
+food:sandwich
+furniture:couch

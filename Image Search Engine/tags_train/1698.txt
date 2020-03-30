@@ -1,0 +1,5 @@
+furniture:bed
+person:person
+indoor:book
+furniture:potted plant
+furniture:chair

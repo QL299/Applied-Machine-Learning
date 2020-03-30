@@ -1,0 +1,4 @@
+vehicle:bus
+vehicle:boat
+vehicle:car
+vehicle:truck

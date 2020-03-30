@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+food:hot dog
+appliance:sink
+furniture:dining table

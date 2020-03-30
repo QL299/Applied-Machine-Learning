@@ -1,0 +1,4 @@
+furniture:chair
+vehicle:bicycle
+outdoor:bench
+furniture:potted plant

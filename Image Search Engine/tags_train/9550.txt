@@ -1,0 +1,4 @@
+person:person
+sports:tennis racket
+sports:sports ball
+accessory:backpack

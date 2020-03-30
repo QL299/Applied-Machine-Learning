@@ -1,0 +1,10 @@
+person:person
+kitchen:knife
+appliance:microwave
+appliance:sink
+indoor:book
+kitchen:wine glass
+kitchen:cup
+appliance:oven
+kitchen:bottle
+kitchen:bowl

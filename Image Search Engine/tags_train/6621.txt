@@ -1,0 +1,7 @@
+animal:dog
+electronic:tv
+animal:cat
+furniture:couch
+kitchen:bottle
+indoor:book
+electronic:remote

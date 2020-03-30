@@ -1,0 +1,6 @@
+animal:cat
+furniture:couch
+person:person
+kitchen:bowl
+electronic:remote
+kitchen:cup

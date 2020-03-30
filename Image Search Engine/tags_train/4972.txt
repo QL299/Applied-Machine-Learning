@@ -1,0 +1,4 @@
+person:person
+vehicle:bicycle
+accessory:suitcase
+food:banana

@@ -1,0 +1,4 @@
+vehicle:boat
+person:person
+sports:sports ball
+sports:baseball glove

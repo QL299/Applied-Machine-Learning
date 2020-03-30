@@ -1,0 +1,4 @@
+electronic:tv
+kitchen:bowl
+furniture:chair
+electronic:remote

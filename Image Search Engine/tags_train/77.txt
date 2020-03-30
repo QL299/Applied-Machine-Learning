@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:couch
+person:person
+kitchen:cup
+electronic:remote
+accessory:handbag
+furniture:potted plant

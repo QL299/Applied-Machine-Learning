@@ -1,0 +1,8 @@
+furniture:potted plant
+person:person
+kitchen:bottle
+kitchen:wine glass
+furniture:toilet
+appliance:sink
+accessory:handbag
+kitchen:cup

@@ -1,0 +1,11 @@
+kitchen:bottle
+electronic:remote
+appliance:sink
+indoor:book
+indoor:vase
+kitchen:cup
+food:banana
+kitchen:bowl
+electronic:cell phone
+furniture:chair
+furniture:dining table

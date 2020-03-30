@@ -1,0 +1,2 @@
+sports:kite
+indoor:teddy bear

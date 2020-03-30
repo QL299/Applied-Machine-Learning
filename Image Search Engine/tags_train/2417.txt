@@ -1,0 +1,10 @@
+furniture:chair
+kitchen:cup
+kitchen:bowl
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+food:orange
+furniture:dining table
+appliance:sink
+electronic:tv

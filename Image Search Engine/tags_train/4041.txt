@@ -1,0 +1,6 @@
+vehicle:boat
+person:person
+vehicle:car
+outdoor:bench
+accessory:umbrella
+vehicle:truck

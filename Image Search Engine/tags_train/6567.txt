@@ -1,0 +1,4 @@
+animal:cat
+furniture:chair
+person:person
+accessory:handbag

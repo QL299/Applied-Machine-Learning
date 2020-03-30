@@ -1,0 +1,3 @@
+animal:horse
+food:cake
+kitchen:bottle

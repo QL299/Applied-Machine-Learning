@@ -1,0 +1,4 @@
+kitchen:bottle
+appliance:sink
+furniture:toilet
+animal:bird

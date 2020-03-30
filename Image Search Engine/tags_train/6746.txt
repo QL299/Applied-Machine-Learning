@@ -1,0 +1,4 @@
+furniture:bed
+person:person
+electronic:laptop
+indoor:teddy bear

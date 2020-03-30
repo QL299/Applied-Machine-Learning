@@ -1,0 +1,4 @@
+animal:dog
+furniture:potted plant
+furniture:couch
+indoor:vase

@@ -1,0 +1,4 @@
+person:person
+outdoor:bench
+food:banana
+kitchen:cup

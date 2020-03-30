@@ -1,0 +1,6 @@
+vehicle:bicycle
+vehicle:car
+person:person
+vehicle:truck
+vehicle:bus
+outdoor:stop sign

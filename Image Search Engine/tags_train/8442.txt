@@ -1,0 +1,6 @@
+accessory:tie
+person:person
+indoor:book
+kitchen:cup
+kitchen:bowl
+accessory:handbag

@@ -1,0 +1,2 @@
+outdoor:bench
+furniture:dining table

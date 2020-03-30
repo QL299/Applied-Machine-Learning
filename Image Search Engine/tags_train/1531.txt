@@ -1,0 +1,4 @@
+person:person
+food:pizza
+kitchen:bottle
+vehicle:car

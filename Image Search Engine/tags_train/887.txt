@@ -1,0 +1,4 @@
+animal:dog
+vehicle:bicycle
+person:person
+accessory:backpack

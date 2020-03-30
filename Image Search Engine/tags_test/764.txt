@@ -1,0 +1,2 @@
+animal:elephant
+accessory:umbrella

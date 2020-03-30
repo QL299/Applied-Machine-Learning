@@ -1,0 +1,5 @@
+kitchen:bowl
+food:banana
+food:broccoli
+furniture:dining table
+food:carrot

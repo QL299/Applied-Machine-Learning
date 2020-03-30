@@ -1,0 +1,3 @@
+vehicle:bicycle
+furniture:potted plant
+outdoor:fire hydrant

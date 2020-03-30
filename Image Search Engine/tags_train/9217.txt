@@ -1,0 +1,9 @@
+furniture:potted plant
+kitchen:bottle
+person:person
+kitchen:wine glass
+food:pizza
+furniture:dining table
+kitchen:knife
+furniture:chair
+accessory:handbag

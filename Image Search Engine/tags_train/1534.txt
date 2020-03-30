@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+sports:skateboard
+accessory:backpack
+vehicle:car
+outdoor:parking meter

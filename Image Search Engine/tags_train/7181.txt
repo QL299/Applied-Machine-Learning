@@ -1,0 +1,9 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+vehicle:car
+person:person
+food:pizza
+accessory:backpack
+electronic:cell phone
+accessory:handbag

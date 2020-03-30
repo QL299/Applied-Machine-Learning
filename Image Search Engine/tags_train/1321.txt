@@ -1,0 +1,5 @@
+furniture:chair
+sports:tennis racket
+person:person
+sports:sports ball
+indoor:clock

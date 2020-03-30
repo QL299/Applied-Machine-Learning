@@ -1,0 +1,10 @@
+furniture:chair
+kitchen:spoon
+kitchen:bowl
+food:apple
+food:orange
+food:carrot
+person:person
+food:sandwich
+furniture:dining table
+kitchen:cup

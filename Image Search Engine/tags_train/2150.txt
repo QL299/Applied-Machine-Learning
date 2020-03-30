@@ -1,0 +1,5 @@
+vehicle:car
+furniture:chair
+food:cake
+vehicle:truck
+furniture:dining table

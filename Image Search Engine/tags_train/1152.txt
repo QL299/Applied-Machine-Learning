@@ -1,0 +1,4 @@
+person:person
+appliance:refrigerator
+food:cake
+kitchen:bottle

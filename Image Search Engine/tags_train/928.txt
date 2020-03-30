@@ -1,0 +1,5 @@
+furniture:potted plant
+vehicle:car
+indoor:clock
+outdoor:fire hydrant
+person:person

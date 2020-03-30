@@ -1,0 +1,4 @@
+indoor:toothbrush
+person:person
+appliance:sink
+kitchen:cup

@@ -1,0 +1,3 @@
+vehicle:car
+vehicle:bus
+outdoor:stop sign

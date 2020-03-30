@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:dining table
+food:sandwich
+electronic:mouse
+food:cake

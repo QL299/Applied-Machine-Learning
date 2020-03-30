@@ -1,0 +1,4 @@
+animal:bird
+person:person
+electronic:cell phone
+furniture:potted plant

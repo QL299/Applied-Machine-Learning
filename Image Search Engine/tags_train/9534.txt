@@ -1,0 +1,4 @@
+indoor:clock
+outdoor:bench
+furniture:chair
+electronic:tv

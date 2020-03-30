@@ -1,0 +1,5 @@
+kitchen:spoon
+kitchen:bowl
+food:carrot
+appliance:oven
+person:person

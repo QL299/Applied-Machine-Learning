@@ -1,0 +1,5 @@
+person:person
+sports:surfboard
+vehicle:truck
+vehicle:car
+furniture:potted plant

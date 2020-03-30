@@ -1,0 +1,4 @@
+kitchen:cup
+appliance:sink
+kitchen:bottle
+furniture:toilet

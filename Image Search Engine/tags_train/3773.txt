@@ -1,0 +1,4 @@
+furniture:couch
+accessory:tie
+person:person
+kitchen:wine glass

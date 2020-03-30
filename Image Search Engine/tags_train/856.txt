@@ -1,0 +1,5 @@
+vehicle:motorcycle
+person:person
+accessory:umbrella
+furniture:dining table
+furniture:chair

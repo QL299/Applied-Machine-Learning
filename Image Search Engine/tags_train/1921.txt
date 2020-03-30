@@ -1,0 +1,8 @@
+animal:cat
+person:person
+accessory:suitcase
+kitchen:bottle
+furniture:potted plant
+appliance:refrigerator
+electronic:cell phone
+appliance:sink

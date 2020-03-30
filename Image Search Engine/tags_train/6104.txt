@@ -1,0 +1,5 @@
+vehicle:bus
+person:person
+outdoor:traffic light
+vehicle:car
+outdoor:stop sign

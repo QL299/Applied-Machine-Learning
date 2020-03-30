@@ -1,0 +1,4 @@
+person:person
+indoor:book
+electronic:remote
+electronic:cell phone

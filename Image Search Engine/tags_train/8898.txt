@@ -1,0 +1,3 @@
+kitchen:bottle
+electronic:remote
+furniture:couch

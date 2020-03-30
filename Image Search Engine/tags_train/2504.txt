@@ -1,0 +1,4 @@
+person:person
+electronic:laptop
+kitchen:bottle
+kitchen:knife

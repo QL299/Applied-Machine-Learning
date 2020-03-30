@@ -1,0 +1,5 @@
+person:person
+indoor:book
+accessory:backpack
+accessory:suitcase
+furniture:chair

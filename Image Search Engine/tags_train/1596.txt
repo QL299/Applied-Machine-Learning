@@ -1,0 +1,3 @@
+indoor:vase
+furniture:dining table
+vehicle:bicycle

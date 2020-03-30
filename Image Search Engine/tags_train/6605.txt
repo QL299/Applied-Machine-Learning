@@ -1,0 +1,8 @@
+vehicle:bicycle
+vehicle:car
+vehicle:motorcycle
+person:person
+animal:elephant
+vehicle:truck
+outdoor:stop sign
+furniture:chair

@@ -1,0 +1,6 @@
+indoor:clock
+vehicle:car
+accessory:suitcase
+person:person
+outdoor:traffic light
+accessory:backpack

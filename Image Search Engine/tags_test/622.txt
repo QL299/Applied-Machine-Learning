@@ -1,0 +1,5 @@
+animal:cat
+kitchen:bottle
+kitchen:bowl
+electronic:remote
+person:person

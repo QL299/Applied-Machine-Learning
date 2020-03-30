@@ -1,0 +1,5 @@
+vehicle:train
+person:person
+accessory:backpack
+outdoor:traffic light
+accessory:handbag

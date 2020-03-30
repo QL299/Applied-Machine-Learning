@@ -1,0 +1,3 @@
+animal:bird
+vehicle:car
+vehicle:truck

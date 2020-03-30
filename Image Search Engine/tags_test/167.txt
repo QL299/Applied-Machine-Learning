@@ -1,0 +1,4 @@
+furniture:potted plant
+furniture:dining table
+accessory:umbrella
+person:person

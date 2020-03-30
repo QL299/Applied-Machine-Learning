@@ -1,0 +1,5 @@
+vehicle:truck
+animal:bird
+indoor:clock
+person:person
+vehicle:car

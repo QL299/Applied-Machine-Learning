@@ -1,0 +1,5 @@
+animal:dog
+animal:cat
+kitchen:cup
+kitchen:bowl
+accessory:suitcase

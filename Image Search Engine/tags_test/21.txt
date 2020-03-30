@@ -1,0 +1,6 @@
+electronic:cell phone
+person:person
+kitchen:cup
+electronic:laptop
+accessory:handbag
+furniture:chair

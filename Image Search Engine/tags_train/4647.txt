@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+furniture:bed
+appliance:microwave
+appliance:oven
+appliance:sink

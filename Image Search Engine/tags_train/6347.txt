@@ -1,0 +1,4 @@
+electronic:cell phone
+person:person
+accessory:backpack
+furniture:chair

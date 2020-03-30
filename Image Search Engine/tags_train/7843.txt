@@ -1,0 +1,3 @@
+vehicle:car
+sports:skateboard
+person:person

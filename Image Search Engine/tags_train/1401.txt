@@ -1,0 +1,4 @@
+furniture:toilet
+appliance:sink
+accessory:tie
+person:person

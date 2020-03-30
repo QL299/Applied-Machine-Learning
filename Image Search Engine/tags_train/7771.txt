@@ -1,0 +1,5 @@
+kitchen:bottle
+appliance:refrigerator
+person:person
+kitchen:wine glass
+kitchen:bowl

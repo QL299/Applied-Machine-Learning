@@ -1,0 +1,5 @@
+person:person
+electronic:cell phone
+vehicle:truck
+accessory:umbrella
+vehicle:bus

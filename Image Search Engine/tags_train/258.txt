@@ -1,0 +1,8 @@
+animal:cat
+furniture:couch
+furniture:potted plant
+electronic:remote
+kitchen:knife
+furniture:chair
+indoor:vase
+indoor:book

@@ -1,0 +1,5 @@
+food:pizza
+animal:cat
+person:person
+furniture:chair
+furniture:dining table

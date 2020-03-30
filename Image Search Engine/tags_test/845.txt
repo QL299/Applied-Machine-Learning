@@ -1,0 +1,4 @@
+person:person
+sports:surfboard
+vehicle:car
+vehicle:truck

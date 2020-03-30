@@ -1,0 +1,5 @@
+person:person
+outdoor:bench
+sports:tennis racket
+accessory:umbrella
+furniture:chair

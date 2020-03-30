@@ -1,0 +1,8 @@
+kitchen:fork
+kitchen:bowl
+food:orange
+food:broccoli
+food:cake
+kitchen:spoon
+food:sandwich
+food:pizza

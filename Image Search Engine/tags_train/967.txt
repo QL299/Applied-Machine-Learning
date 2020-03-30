@@ -1,0 +1,5 @@
+accessory:umbrella
+person:person
+accessory:handbag
+outdoor:fire hydrant
+outdoor:stop sign

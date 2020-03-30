@@ -1,0 +1,3 @@
+kitchen:bottle
+indoor:clock
+kitchen:cup

@@ -1,0 +1,3 @@
+accessory:tie
+appliance:refrigerator
+person:person

@@ -1,0 +1,5 @@
+electronic:tv
+furniture:chair
+person:person
+electronic:remote
+accessory:tie

@@ -1,0 +1,4 @@
+animal:dog
+vehicle:car
+outdoor:bench
+vehicle:bus

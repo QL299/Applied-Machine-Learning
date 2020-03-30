@@ -1,0 +1,5 @@
+animal:horse
+person:person
+accessory:umbrella
+accessory:tie
+accessory:handbag

@@ -1,0 +1,4 @@
+animal:bird
+person:person
+vehicle:car
+vehicle:truck

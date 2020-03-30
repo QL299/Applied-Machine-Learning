@@ -1,0 +1,3 @@
+sports:sports ball
+sports:baseball glove
+person:person

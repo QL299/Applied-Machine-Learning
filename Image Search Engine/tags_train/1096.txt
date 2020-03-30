@@ -1,0 +1,7 @@
+electronic:cell phone
+furniture:chair
+person:person
+furniture:dining table
+kitchen:bowl
+kitchen:bottle
+indoor:teddy bear

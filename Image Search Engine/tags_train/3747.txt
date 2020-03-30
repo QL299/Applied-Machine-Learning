@@ -1,0 +1,5 @@
+furniture:dining table
+kitchen:fork
+kitchen:bowl
+food:carrot
+indoor:book

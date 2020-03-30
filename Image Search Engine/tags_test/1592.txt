@@ -1,0 +1,6 @@
+furniture:couch
+furniture:chair
+indoor:vase
+appliance:microwave
+person:person
+furniture:dining table

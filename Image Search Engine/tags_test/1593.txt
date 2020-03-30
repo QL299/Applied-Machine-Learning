@@ -1,0 +1,4 @@
+animal:cat
+person:person
+furniture:bed
+indoor:toothbrush

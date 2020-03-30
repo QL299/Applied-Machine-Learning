@@ -1,0 +1,5 @@
+animal:dog
+furniture:dining table
+person:person
+kitchen:fork
+kitchen:wine glass

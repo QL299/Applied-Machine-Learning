@@ -1,0 +1,5 @@
+kitchen:bottle
+accessory:umbrella
+accessory:tie
+person:person
+accessory:backpack

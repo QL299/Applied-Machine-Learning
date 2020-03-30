@@ -1,0 +1,4 @@
+kitchen:fork
+kitchen:bowl
+electronic:laptop
+electronic:keyboard

@@ -1,0 +1,7 @@
+electronic:tv
+kitchen:bottle
+furniture:chair
+person:person
+electronic:remote
+kitchen:wine glass
+furniture:dining table

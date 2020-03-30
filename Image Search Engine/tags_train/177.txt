@@ -1,0 +1,5 @@
+appliance:refrigerator
+appliance:oven
+kitchen:bottle
+kitchen:knife
+kitchen:bowl

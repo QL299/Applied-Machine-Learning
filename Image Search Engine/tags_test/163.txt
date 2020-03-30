@@ -1,0 +1,5 @@
+food:hot dog
+kitchen:knife
+food:pizza
+kitchen:bottle
+furniture:dining table

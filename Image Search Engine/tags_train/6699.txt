@@ -1,0 +1,3 @@
+accessory:tie
+furniture:bed
+person:person

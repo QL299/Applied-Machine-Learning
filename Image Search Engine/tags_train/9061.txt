@@ -1,0 +1,4 @@
+vehicle:bicycle
+person:person
+sports:sports ball
+indoor:clock

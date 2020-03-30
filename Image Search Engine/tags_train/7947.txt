@@ -1,0 +1,4 @@
+animal:cow
+vehicle:car
+vehicle:bus
+person:person

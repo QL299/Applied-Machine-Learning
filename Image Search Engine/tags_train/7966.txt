@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:couch
+person:person
+electronic:remote
+kitchen:wine glass
+kitchen:cup
+indoor:book

@@ -1,0 +1,8 @@
+electronic:tv
+kitchen:bottle
+electronic:cell phone
+electronic:laptop
+indoor:book
+furniture:chair
+electronic:remote
+furniture:dining table

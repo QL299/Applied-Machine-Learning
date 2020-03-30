@@ -1,0 +1,6 @@
+electronic:tv
+furniture:couch
+indoor:book
+furniture:chair
+electronic:remote
+sports:baseball bat

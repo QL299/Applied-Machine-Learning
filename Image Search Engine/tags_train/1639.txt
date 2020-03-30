@@ -1,0 +1,4 @@
+vehicle:truck
+person:person
+accessory:handbag
+outdoor:fire hydrant

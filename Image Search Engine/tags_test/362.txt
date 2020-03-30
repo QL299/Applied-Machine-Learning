@@ -1,0 +1,6 @@
+vehicle:train
+person:person
+animal:bird
+accessory:suitcase
+indoor:clock
+electronic:cell phone

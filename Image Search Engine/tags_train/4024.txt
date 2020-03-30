@@ -1,0 +1,9 @@
+furniture:chair
+person:person
+kitchen:spoon
+kitchen:bowl
+appliance:sink
+kitchen:bottle
+kitchen:cup
+indoor:clock
+furniture:dining table

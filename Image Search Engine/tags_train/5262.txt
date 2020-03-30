@@ -1,0 +1,5 @@
+kitchen:bottle
+electronic:cell phone
+kitchen:wine glass
+food:pizza
+furniture:dining table

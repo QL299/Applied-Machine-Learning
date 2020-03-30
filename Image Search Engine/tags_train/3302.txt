@@ -1,0 +1,9 @@
+kitchen:bottle
+kitchen:cup
+kitchen:bowl
+electronic:laptop
+electronic:mouse
+kitchen:spoon
+electronic:cell phone
+furniture:chair
+indoor:book

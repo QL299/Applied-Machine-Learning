@@ -1,0 +1,5 @@
+accessory:tie
+accessory:backpack
+accessory:suitcase
+person:person
+accessory:handbag

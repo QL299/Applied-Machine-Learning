@@ -1,0 +1,7 @@
+furniture:bed
+furniture:chair
+kitchen:cup
+kitchen:bowl
+kitchen:knife
+accessory:backpack
+furniture:dining table

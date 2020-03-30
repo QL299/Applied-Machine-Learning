@@ -1,0 +1,4 @@
+person:person
+sports:snowboard
+furniture:potted plant
+accessory:handbag

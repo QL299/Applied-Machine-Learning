@@ -1,0 +1,3 @@
+accessory:tie
+sports:sports ball
+person:person

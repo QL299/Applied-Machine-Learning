@@ -1,0 +1,4 @@
+kitchen:wine glass
+food:pizza
+appliance:microwave
+appliance:oven

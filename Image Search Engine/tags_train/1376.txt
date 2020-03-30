@@ -1,0 +1,8 @@
+animal:dog
+kitchen:bottle
+furniture:couch
+furniture:chair
+electronic:remote
+indoor:book
+indoor:teddy bear
+electronic:cell phone

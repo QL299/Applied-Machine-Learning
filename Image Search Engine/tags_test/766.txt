@@ -1,0 +1,6 @@
+person:person
+electronic:remote
+kitchen:bottle
+furniture:potted plant
+kitchen:wine glass
+furniture:couch

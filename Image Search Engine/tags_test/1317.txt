@@ -1,0 +1,10 @@
+furniture:chair
+furniture:couch
+kitchen:wine glass
+indoor:vase
+person:person
+accessory:backpack
+electronic:tv
+kitchen:bottle
+kitchen:cup
+indoor:book

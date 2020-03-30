@@ -1,0 +1,2 @@
+vehicle:train
+vehicle:truck

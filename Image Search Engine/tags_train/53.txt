@@ -1,0 +1,5 @@
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+person:person
+accessory:handbag

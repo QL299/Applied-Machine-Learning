@@ -1,0 +1,4 @@
+person:person
+indoor:teddy bear
+furniture:dining table
+outdoor:bench

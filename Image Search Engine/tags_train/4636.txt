@@ -1,0 +1,4 @@
+accessory:tie
+indoor:clock
+person:person
+kitchen:cup

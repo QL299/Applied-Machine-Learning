@@ -1,0 +1,5 @@
+person:person
+appliance:oven
+appliance:sink
+appliance:refrigerator
+animal:bird

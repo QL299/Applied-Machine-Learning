@@ -1,0 +1,4 @@
+vehicle:bus
+vehicle:truck
+person:person
+outdoor:bench

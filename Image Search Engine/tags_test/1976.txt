@@ -1,0 +1,4 @@
+furniture:chair
+outdoor:bench
+electronic:laptop
+electronic:keyboard

@@ -1,0 +1,5 @@
+sports:sports ball
+vehicle:car
+person:person
+sports:baseball glove
+outdoor:traffic light

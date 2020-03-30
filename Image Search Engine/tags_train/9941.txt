@@ -1,0 +1,3 @@
+accessory:suitcase
+accessory:handbag
+person:person

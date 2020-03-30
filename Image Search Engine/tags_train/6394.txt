@@ -1,0 +1,5 @@
+furniture:bed
+kitchen:cup
+furniture:chair
+indoor:clock
+indoor:vase

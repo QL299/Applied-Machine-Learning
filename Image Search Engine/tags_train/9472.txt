@@ -1,0 +1,6 @@
+kitchen:bottle
+kitchen:knife
+kitchen:spoon
+kitchen:bowl
+appliance:sink
+appliance:oven

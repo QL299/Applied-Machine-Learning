@@ -1,0 +1,7 @@
+furniture:chair
+kitchen:cup
+furniture:dining table
+electronic:remote
+indoor:book
+person:person
+electronic:laptop

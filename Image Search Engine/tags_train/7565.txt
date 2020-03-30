@@ -1,0 +1,4 @@
+accessory:umbrella
+person:person
+accessory:handbag
+kitchen:bottle

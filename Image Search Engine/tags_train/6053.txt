@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+kitchen:cup
+food:pizza
+furniture:chair
+furniture:dining table

@@ -1,0 +1,5 @@
+accessory:tie
+person:person
+kitchen:cup
+accessory:handbag
+kitchen:wine glass

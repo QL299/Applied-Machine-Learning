@@ -1,0 +1,4 @@
+electronic:tv
+person:person
+food:pizza
+electronic:laptop

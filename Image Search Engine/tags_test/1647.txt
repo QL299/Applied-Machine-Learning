@@ -1,0 +1,7 @@
+electronic:tv
+indoor:clock
+indoor:book
+indoor:vase
+person:person
+furniture:chair
+furniture:potted plant

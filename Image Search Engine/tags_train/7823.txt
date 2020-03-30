@@ -1,0 +1,4 @@
+person:person
+vehicle:car
+furniture:potted plant
+outdoor:traffic light

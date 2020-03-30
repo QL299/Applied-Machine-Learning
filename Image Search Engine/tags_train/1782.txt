@@ -1,0 +1,5 @@
+furniture:couch
+electronic:cell phone
+person:person
+indoor:book
+accessory:handbag

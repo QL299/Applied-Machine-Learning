@@ -1,0 +1,3 @@
+kitchen:bottle
+indoor:book
+indoor:scissors

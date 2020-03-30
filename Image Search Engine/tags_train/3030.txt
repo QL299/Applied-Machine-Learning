@@ -1,0 +1,5 @@
+vehicle:train
+person:person
+accessory:handbag
+furniture:potted plant
+indoor:clock

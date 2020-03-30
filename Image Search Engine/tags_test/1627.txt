@@ -1,0 +1,6 @@
+outdoor:traffic light
+person:person
+accessory:handbag
+vehicle:car
+accessory:umbrella
+accessory:backpack

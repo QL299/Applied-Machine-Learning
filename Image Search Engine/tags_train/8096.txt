@@ -1,0 +1,8 @@
+food:sandwich
+kitchen:wine glass
+kitchen:fork
+kitchen:knife
+kitchen:spoon
+vehicle:car
+food:donut
+furniture:dining table

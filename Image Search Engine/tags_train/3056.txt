@@ -1,0 +1,5 @@
+furniture:couch
+furniture:chair
+person:person
+indoor:clock
+indoor:teddy bear

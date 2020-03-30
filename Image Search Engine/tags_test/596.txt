@@ -1,0 +1,6 @@
+animal:dog
+electronic:tv
+electronic:cell phone
+electronic:laptop
+electronic:keyboard
+accessory:handbag

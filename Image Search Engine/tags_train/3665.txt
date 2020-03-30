@@ -1,0 +1,4 @@
+person:person
+vehicle:bicycle
+food:donut
+vehicle:car

@@ -1,0 +1,11 @@
+kitchen:bottle
+furniture:dining table
+person:person
+kitchen:knife
+kitchen:bowl
+appliance:oven
+kitchen:cup
+food:broccoli
+kitchen:spoon
+food:carrot
+appliance:sink

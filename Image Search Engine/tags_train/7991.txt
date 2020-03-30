@@ -1,0 +1,8 @@
+food:sandwich
+person:person
+kitchen:spoon
+kitchen:cup
+kitchen:bowl
+furniture:chair
+furniture:dining table
+food:broccoli

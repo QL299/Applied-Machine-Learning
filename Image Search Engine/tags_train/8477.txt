@@ -1,0 +1,11 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+person:person
+appliance:refrigerator
+kitchen:cup
+kitchen:wine glass
+kitchen:bowl
+appliance:microwave
+appliance:oven
+appliance:sink

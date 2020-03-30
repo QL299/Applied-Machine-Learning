@@ -1,0 +1,8 @@
+electronic:tv
+furniture:chair
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+indoor:book
+kitchen:bottle
+animal:dog

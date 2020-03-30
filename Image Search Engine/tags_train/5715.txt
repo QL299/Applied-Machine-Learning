@@ -1,0 +1,5 @@
+vehicle:car
+person:person
+food:banana
+vehicle:motorcycle
+accessory:handbag

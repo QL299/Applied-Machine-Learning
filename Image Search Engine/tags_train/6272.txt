@@ -1,0 +1,6 @@
+animal:bird
+vehicle:car
+vehicle:truck
+outdoor:traffic light
+outdoor:parking meter
+outdoor:fire hydrant

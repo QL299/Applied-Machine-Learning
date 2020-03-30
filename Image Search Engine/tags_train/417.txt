@@ -1,0 +1,4 @@
+kitchen:bottle
+kitchen:spoon
+food:banana
+kitchen:bowl

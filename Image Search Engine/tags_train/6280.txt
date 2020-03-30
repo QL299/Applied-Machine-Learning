@@ -1,0 +1,7 @@
+electronic:tv
+furniture:chair
+kitchen:bowl
+appliance:microwave
+appliance:sink
+furniture:potted plant
+appliance:oven

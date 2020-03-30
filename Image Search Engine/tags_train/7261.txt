@@ -1,0 +1,5 @@
+animal:cow
+person:person
+electronic:cell phone
+accessory:handbag
+electronic:tv

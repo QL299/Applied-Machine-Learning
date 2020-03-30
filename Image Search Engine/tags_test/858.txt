@@ -1,0 +1,8 @@
+kitchen:bottle
+appliance:refrigerator
+indoor:clock
+furniture:chair
+appliance:oven
+appliance:sink
+furniture:dining table
+indoor:book

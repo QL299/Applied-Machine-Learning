@@ -1,0 +1,5 @@
+vehicle:bicycle
+kitchen:cup
+kitchen:bottle
+kitchen:wine glass
+person:person

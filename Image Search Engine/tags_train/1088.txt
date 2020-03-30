@@ -1,0 +1,6 @@
+vehicle:bus
+person:person
+vehicle:truck
+outdoor:traffic light
+outdoor:fire hydrant
+outdoor:parking meter

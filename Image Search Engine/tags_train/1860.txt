@@ -1,0 +1,4 @@
+furniture:dining table
+food:hot dog
+kitchen:wine glass
+kitchen:bowl

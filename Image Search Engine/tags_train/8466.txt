@@ -1,0 +1,8 @@
+furniture:dining table
+person:person
+kitchen:cup
+kitchen:fork
+kitchen:knife
+kitchen:spoon
+kitchen:bowl
+furniture:couch

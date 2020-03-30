@@ -1,0 +1,6 @@
+animal:dog
+furniture:chair
+person:person
+accessory:umbrella
+accessory:handbag
+furniture:dining table

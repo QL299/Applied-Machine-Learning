@@ -1,0 +1,4 @@
+vehicle:motorcycle
+accessory:handbag
+vehicle:car
+person:person

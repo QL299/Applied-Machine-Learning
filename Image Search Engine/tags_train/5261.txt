@@ -1,0 +1,8 @@
+electronic:tv
+furniture:couch
+person:person
+electronic:remote
+kitchen:bowl
+furniture:chair
+furniture:potted plant
+indoor:clock

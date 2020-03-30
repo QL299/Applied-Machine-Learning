@@ -1,0 +1,4 @@
+food:apple
+food:orange
+food:banana
+person:person

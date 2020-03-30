@@ -1,0 +1,12 @@
+furniture:couch
+furniture:chair
+furniture:potted plant
+indoor:clock
+indoor:vase
+kitchen:cup
+electronic:laptop
+appliance:oven
+appliance:sink
+kitchen:bowl
+furniture:dining table
+electronic:keyboard

@@ -1,0 +1,10 @@
+furniture:chair
+furniture:dining table
+person:person
+accessory:tie
+kitchen:fork
+kitchen:knife
+kitchen:spoon
+kitchen:bowl
+kitchen:cup
+furniture:potted plant

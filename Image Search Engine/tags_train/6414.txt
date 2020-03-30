@@ -1,0 +1,7 @@
+vehicle:bicycle
+vehicle:car
+vehicle:motorcycle
+person:person
+indoor:teddy bear
+accessory:backpack
+kitchen:cup

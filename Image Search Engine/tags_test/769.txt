@@ -1,0 +1,4 @@
+indoor:clock
+vehicle:car
+person:person
+accessory:handbag

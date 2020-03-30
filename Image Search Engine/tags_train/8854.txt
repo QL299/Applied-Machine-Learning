@@ -1,0 +1,3 @@
+vehicle:train
+vehicle:boat
+outdoor:bench

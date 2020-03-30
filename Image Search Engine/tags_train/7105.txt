@@ -1,0 +1,4 @@
+furniture:toilet
+appliance:sink
+indoor:book
+indoor:toothbrush

@@ -1,0 +1,7 @@
+kitchen:bottle
+food:sandwich
+furniture:dining table
+person:person
+kitchen:wine glass
+kitchen:fork
+kitchen:cup

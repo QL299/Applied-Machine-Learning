@@ -1,0 +1,5 @@
+kitchen:bowl
+food:broccoli
+food:carrot
+appliance:oven
+kitchen:bottle

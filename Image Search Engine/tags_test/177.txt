@@ -1,0 +1,3 @@
+food:banana
+person:person
+accessory:backpack

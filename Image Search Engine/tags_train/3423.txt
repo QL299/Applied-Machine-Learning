@@ -1,0 +1,5 @@
+animal:bird
+furniture:dining table
+person:person
+food:cake
+indoor:book

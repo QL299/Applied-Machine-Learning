@@ -1,0 +1,3 @@
+person:person
+sports:snowboard
+sports:skateboard

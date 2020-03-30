@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+kitchen:fork
+kitchen:cup
+food:sandwich
+kitchen:spoon

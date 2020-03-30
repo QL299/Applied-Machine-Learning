@@ -1,0 +1,4 @@
+accessory:tie
+accessory:suitcase
+person:person
+accessory:handbag

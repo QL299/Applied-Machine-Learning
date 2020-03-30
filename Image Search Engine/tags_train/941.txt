@@ -1,0 +1,8 @@
+person:person
+kitchen:wine glass
+appliance:oven
+kitchen:cup
+kitchen:bowl
+furniture:dining table
+appliance:microwave
+kitchen:bottle

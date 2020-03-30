@@ -1,0 +1,4 @@
+electronic:cell phone
+vehicle:bicycle
+person:person
+accessory:backpack

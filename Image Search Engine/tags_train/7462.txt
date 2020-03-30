@@ -1,0 +1,5 @@
+animal:bird
+person:person
+accessory:handbag
+electronic:cell phone
+outdoor:bench

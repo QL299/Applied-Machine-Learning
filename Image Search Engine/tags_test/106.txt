@@ -1,0 +1,7 @@
+vehicle:bicycle
+vehicle:car
+sports:skateboard
+person:person
+vehicle:truck
+accessory:backpack
+outdoor:traffic light

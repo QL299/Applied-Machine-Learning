@@ -1,0 +1,4 @@
+kitchen:bottle
+person:person
+sports:frisbee
+food:sandwich

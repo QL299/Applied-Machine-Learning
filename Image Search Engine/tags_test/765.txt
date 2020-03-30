@@ -1,0 +1,6 @@
+furniture:potted plant
+vehicle:motorcycle
+vehicle:bus
+vehicle:car
+person:person
+outdoor:traffic light

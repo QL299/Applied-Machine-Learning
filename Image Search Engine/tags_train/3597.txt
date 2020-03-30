@@ -1,0 +1,5 @@
+furniture:potted plant
+kitchen:bowl
+appliance:sink
+kitchen:bottle
+indoor:vase

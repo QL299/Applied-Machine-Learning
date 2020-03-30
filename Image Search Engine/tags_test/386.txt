@@ -1,0 +1,7 @@
+animal:dog
+kitchen:bottle
+person:person
+furniture:bed
+sports:sports ball
+kitchen:cup
+furniture:dining table

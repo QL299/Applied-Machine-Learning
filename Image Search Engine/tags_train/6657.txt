@@ -1,0 +1,7 @@
+kitchen:wine glass
+kitchen:cup
+kitchen:bowl
+indoor:vase
+kitchen:bottle
+kitchen:spoon
+furniture:potted plant

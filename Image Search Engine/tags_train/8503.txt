@@ -1,0 +1,5 @@
+animal:dog
+vehicle:bicycle
+person:person
+outdoor:parking meter
+accessory:backpack

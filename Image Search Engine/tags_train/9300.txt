@@ -1,0 +1,10 @@
+furniture:chair
+person:person
+electronic:laptop
+indoor:book
+accessory:handbag
+kitchen:cup
+furniture:dining table
+accessory:tie
+electronic:tv
+electronic:cell phone

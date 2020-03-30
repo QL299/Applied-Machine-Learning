@@ -1,0 +1,5 @@
+indoor:teddy bear
+accessory:backpack
+person:person
+accessory:handbag
+electronic:cell phone

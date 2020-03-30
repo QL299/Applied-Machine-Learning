@@ -1,0 +1,7 @@
+accessory:suitcase
+kitchen:bottle
+appliance:oven
+appliance:sink
+accessory:handbag
+kitchen:spoon
+accessory:backpack

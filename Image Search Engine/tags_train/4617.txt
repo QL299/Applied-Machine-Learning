@@ -1,0 +1,6 @@
+electronic:tv
+furniture:dining table
+accessory:suitcase
+kitchen:bottle
+indoor:book
+indoor:vase

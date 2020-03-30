@@ -1,0 +1,4 @@
+animal:dog
+vehicle:motorcycle
+vehicle:bicycle
+vehicle:truck

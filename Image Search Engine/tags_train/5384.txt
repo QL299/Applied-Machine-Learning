@@ -1,0 +1,3 @@
+animal:zebra
+animal:giraffe
+vehicle:car

@@ -1,0 +1,4 @@
+furniture:chair
+indoor:vase
+furniture:dining table
+kitchen:cup

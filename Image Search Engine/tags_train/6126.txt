@@ -1,0 +1,5 @@
+furniture:couch
+kitchen:cup
+indoor:vase
+kitchen:bottle
+furniture:dining table

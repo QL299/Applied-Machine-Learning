@@ -1,0 +1,5 @@
+indoor:toothbrush
+person:person
+appliance:sink
+kitchen:bottle
+indoor:teddy bear

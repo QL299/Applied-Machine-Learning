@@ -1,0 +1,3 @@
+appliance:refrigerator
+furniture:chair
+kitchen:bottle

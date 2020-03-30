@@ -1,0 +1,6 @@
+indoor:teddy bear
+kitchen:cup
+kitchen:knife
+kitchen:spoon
+appliance:oven
+furniture:chair

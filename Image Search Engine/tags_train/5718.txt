@@ -1,0 +1,10 @@
+kitchen:cup
+person:person
+kitchen:bottle
+food:donut
+furniture:chair
+furniture:dining table
+electronic:tv
+electronic:laptop
+electronic:cell phone
+accessory:backpack

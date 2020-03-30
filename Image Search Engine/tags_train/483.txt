@@ -1,0 +1,4 @@
+person:person
+vehicle:boat
+sports:sports ball
+sports:surfboard

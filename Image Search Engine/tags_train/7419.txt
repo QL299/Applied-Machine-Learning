@@ -1,0 +1,8 @@
+electronic:tv
+kitchen:cup
+kitchen:spoon
+electronic:laptop
+electronic:keyboard
+furniture:potted plant
+person:person
+electronic:mouse

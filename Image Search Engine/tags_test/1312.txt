@@ -1,0 +1,4 @@
+furniture:chair
+person:person
+furniture:dining table
+sports:skis

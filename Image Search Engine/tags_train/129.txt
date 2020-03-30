@@ -1,0 +1,4 @@
+vehicle:boat
+vehicle:bus
+indoor:clock
+person:person

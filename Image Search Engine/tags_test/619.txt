@@ -1,0 +1,6 @@
+furniture:chair
+person:person
+sports:skateboard
+kitchen:cup
+furniture:dining table
+appliance:sink

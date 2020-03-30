@@ -1,0 +1,5 @@
+vehicle:motorcycle
+person:person
+accessory:handbag
+accessory:suitcase
+furniture:potted plant

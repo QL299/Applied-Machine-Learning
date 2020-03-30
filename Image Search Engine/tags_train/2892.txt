@@ -1,0 +1,4 @@
+person:person
+sports:baseball bat
+kitchen:wine glass
+outdoor:fire hydrant

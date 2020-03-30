@@ -1,0 +1,9 @@
+furniture:chair
+person:person
+appliance:refrigerator
+appliance:microwave
+accessory:suitcase
+furniture:dining table
+appliance:oven
+appliance:sink
+furniture:couch

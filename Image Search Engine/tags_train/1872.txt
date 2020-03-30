@@ -1,0 +1,2 @@
+furniture:potted plant
+furniture:dining table

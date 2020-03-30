@@ -1,0 +1,2 @@
+outdoor:parking meter
+vehicle:truck

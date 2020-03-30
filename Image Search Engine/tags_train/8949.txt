@@ -1,0 +1,7 @@
+furniture:potted plant
+furniture:dining table
+person:person
+vehicle:bicycle
+vehicle:car
+accessory:umbrella
+outdoor:bench

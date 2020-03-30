@@ -1,0 +1,3 @@
+furniture:bed
+person:person
+electronic:laptop

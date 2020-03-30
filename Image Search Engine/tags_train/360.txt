@@ -1,0 +1,5 @@
+electronic:tv
+person:person
+furniture:bed
+indoor:book
+furniture:chair

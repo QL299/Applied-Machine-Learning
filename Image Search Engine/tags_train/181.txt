@@ -1,0 +1,4 @@
+food:hot dog
+food:sandwich
+person:person
+vehicle:car

@@ -1,0 +1,7 @@
+food:sandwich
+kitchen:cup
+kitchen:fork
+food:hot dog
+kitchen:spoon
+furniture:dining table
+person:person

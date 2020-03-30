@@ -1,0 +1,2 @@
+animal:bird
+vehicle:airplane

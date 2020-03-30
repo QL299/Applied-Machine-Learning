@@ -1,0 +1,7 @@
+animal:cat
+furniture:couch
+furniture:dining table
+animal:dog
+kitchen:bowl
+furniture:chair
+electronic:mouse

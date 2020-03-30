@@ -1,0 +1,5 @@
+animal:dog
+vehicle:bicycle
+person:person
+vehicle:car
+furniture:chair

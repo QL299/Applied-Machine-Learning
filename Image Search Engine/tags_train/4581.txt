@@ -1,0 +1,4 @@
+animal:dog
+food:cake
+kitchen:cup
+furniture:dining table

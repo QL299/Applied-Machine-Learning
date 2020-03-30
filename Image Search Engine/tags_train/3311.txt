@@ -1,0 +1,3 @@
+animal:dog
+furniture:potted plant
+sports:frisbee

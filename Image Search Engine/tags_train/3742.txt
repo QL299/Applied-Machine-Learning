@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+kitchen:cup
+person:person
+accessory:handbag
+furniture:dining table

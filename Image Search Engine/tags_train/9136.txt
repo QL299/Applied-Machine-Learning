@@ -1,0 +1,3 @@
+person:person
+accessory:backpack
+electronic:cell phone

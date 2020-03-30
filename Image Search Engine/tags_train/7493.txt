@@ -1,0 +1,3 @@
+sports:tennis racket
+sports:sports ball
+person:person

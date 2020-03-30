@@ -1,0 +1,3 @@
+kitchen:bottle
+kitchen:knife
+food:sandwich

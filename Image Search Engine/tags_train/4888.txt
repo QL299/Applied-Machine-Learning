@@ -1,0 +1,4 @@
+food:cake
+indoor:teddy bear
+outdoor:bench
+furniture:dining table

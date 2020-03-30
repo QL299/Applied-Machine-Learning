@@ -1,0 +1,5 @@
+animal:dog
+person:person
+furniture:bed
+animal:cat
+accessory:suitcase

@@ -1,0 +1,5 @@
+kitchen:bowl
+food:banana
+food:apple
+person:person
+appliance:oven

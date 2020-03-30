@@ -1,0 +1,7 @@
+person:person
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+electronic:tv
+electronic:cell phone
+kitchen:cup

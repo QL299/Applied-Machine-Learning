@@ -1,0 +1,8 @@
+animal:bear
+accessory:handbag
+person:person
+outdoor:bench
+kitchen:bottle
+furniture:chair
+indoor:teddy bear
+indoor:book

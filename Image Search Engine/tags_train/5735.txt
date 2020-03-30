@@ -1,0 +1,5 @@
+sports:sports ball
+accessory:backpack
+person:person
+furniture:chair
+kitchen:bottle

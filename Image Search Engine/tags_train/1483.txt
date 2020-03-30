@@ -1,0 +1,7 @@
+appliance:refrigerator
+person:person
+kitchen:cup
+kitchen:bowl
+electronic:tv
+appliance:sink
+furniture:couch

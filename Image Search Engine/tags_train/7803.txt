@@ -1,0 +1,8 @@
+furniture:dining table
+vehicle:bicycle
+vehicle:car
+outdoor:fire hydrant
+person:person
+accessory:backpack
+furniture:chair
+vehicle:truck

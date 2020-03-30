@@ -1,0 +1,4 @@
+animal:dog
+electronic:cell phone
+person:person
+vehicle:car

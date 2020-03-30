@@ -1,0 +1,3 @@
+vehicle:boat
+person:person
+accessory:umbrella

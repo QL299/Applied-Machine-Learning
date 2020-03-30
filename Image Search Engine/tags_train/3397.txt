@@ -1,0 +1,3 @@
+electronic:laptop
+accessory:backpack
+person:person

@@ -1,0 +1,4 @@
+furniture:dining table
+kitchen:cup
+kitchen:spoon
+food:donut

@@ -1,0 +1,4 @@
+kitchen:cup
+kitchen:spoon
+indoor:book
+furniture:dining table

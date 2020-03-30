@@ -1,0 +1,4 @@
+furniture:couch
+electronic:remote
+indoor:book
+indoor:scissors

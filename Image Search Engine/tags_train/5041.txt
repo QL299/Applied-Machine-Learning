@@ -1,0 +1,4 @@
+accessory:tie
+food:sandwich
+person:person
+indoor:book

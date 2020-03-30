@@ -1,0 +1,4 @@
+furniture:couch
+furniture:bed
+indoor:toothbrush
+appliance:sink

@@ -1,0 +1,11 @@
+animal:cat
+kitchen:bottle
+furniture:chair
+furniture:dining table
+appliance:refrigerator
+appliance:microwave
+appliance:oven
+appliance:sink
+kitchen:spoon
+indoor:vase
+furniture:potted plant

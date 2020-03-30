@@ -1,0 +1,7 @@
+kitchen:bottle
+appliance:refrigerator
+indoor:clock
+furniture:chair
+person:person
+kitchen:wine glass
+furniture:dining table

@@ -1,0 +1,5 @@
+animal:dog
+animal:sheep
+person:person
+accessory:handbag
+outdoor:bench

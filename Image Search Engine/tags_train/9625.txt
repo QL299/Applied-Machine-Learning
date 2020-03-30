@@ -1,0 +1,4 @@
+electronic:tv
+appliance:toaster
+furniture:chair
+indoor:book

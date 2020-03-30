@@ -1,0 +1,5 @@
+animal:dog
+electronic:laptop
+accessory:handbag
+electronic:keyboard
+indoor:scissors

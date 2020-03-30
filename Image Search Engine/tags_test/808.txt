@@ -1,0 +1,6 @@
+electronic:tv
+person:person
+electronic:remote
+furniture:bed
+electronic:keyboard
+electronic:laptop

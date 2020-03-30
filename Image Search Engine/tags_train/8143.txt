@@ -1,0 +1,7 @@
+furniture:potted plant
+furniture:chair
+furniture:dining table
+person:person
+food:apple
+accessory:backpack
+accessory:handbag

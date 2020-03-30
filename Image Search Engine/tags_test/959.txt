@@ -1,0 +1,7 @@
+kitchen:bottle
+person:person
+appliance:refrigerator
+kitchen:bowl
+appliance:microwave
+indoor:vase
+food:banana

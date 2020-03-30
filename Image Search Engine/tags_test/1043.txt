@@ -1,0 +1,4 @@
+accessory:umbrella
+sports:sports ball
+person:person
+furniture:chair

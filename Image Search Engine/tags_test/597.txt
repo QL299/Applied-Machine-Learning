@@ -1,0 +1,4 @@
+kitchen:bottle
+vehicle:car
+person:person
+appliance:refrigerator

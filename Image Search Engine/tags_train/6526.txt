@@ -1,0 +1,7 @@
+person:person
+sports:sports ball
+outdoor:bench
+accessory:umbrella
+vehicle:bicycle
+vehicle:car
+accessory:backpack

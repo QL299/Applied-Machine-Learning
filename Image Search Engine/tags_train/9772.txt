@@ -1,0 +1,5 @@
+outdoor:bench
+animal:elephant
+accessory:handbag
+kitchen:bowl
+person:person

@@ -1,0 +1,7 @@
+person:person
+furniture:chair
+accessory:tie
+food:cake
+kitchen:wine glass
+kitchen:knife
+furniture:dining table

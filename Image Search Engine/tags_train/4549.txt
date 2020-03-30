@@ -1,0 +1,5 @@
+accessory:umbrella
+vehicle:car
+person:person
+food:apple
+accessory:handbag

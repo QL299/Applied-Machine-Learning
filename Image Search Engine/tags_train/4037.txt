@@ -1,0 +1,2 @@
+sports:skis
+person:person

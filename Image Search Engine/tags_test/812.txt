@@ -1,0 +1,8 @@
+electronic:tv
+furniture:bed
+electronic:laptop
+accessory:handbag
+accessory:suitcase
+indoor:book
+accessory:backpack
+furniture:chair

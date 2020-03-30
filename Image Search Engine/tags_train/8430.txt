@@ -1,0 +1,5 @@
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+furniture:dining table
+kitchen:wine glass

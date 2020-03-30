@@ -1,0 +1,5 @@
+furniture:chair
+accessory:umbrella
+furniture:dining table
+person:person
+outdoor:bench

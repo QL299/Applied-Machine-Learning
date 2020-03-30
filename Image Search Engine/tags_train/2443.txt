@@ -1,0 +1,7 @@
+furniture:dining table
+kitchen:wine glass
+kitchen:fork
+kitchen:knife
+kitchen:spoon
+food:carrot
+food:broccoli

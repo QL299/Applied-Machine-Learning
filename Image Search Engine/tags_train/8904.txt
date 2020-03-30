@@ -1,0 +1,6 @@
+food:sandwich
+furniture:dining table
+kitchen:cup
+kitchen:bowl
+electronic:remote
+indoor:book

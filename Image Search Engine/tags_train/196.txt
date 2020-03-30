@@ -1,0 +1,8 @@
+electronic:tv
+furniture:couch
+furniture:chair
+furniture:potted plant
+electronic:remote
+accessory:handbag
+furniture:bed
+indoor:book

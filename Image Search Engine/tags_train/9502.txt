@@ -1,0 +1,3 @@
+furniture:chair
+kitchen:bowl
+appliance:sink

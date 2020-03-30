@@ -1,0 +1,4 @@
+kitchen:bottle
+accessory:tie
+person:person
+indoor:book

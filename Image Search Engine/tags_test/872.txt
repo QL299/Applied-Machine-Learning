@@ -1,0 +1,4 @@
+person:person
+animal:horse
+accessory:umbrella
+accessory:backpack

@@ -1,0 +1,5 @@
+accessory:umbrella
+sports:sports ball
+person:person
+vehicle:car
+accessory:handbag

@@ -1,0 +1,4 @@
+sports:surfboard
+accessory:backpack
+person:person
+vehicle:bicycle

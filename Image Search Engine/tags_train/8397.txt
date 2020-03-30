@@ -1,0 +1,5 @@
+person:person
+outdoor:bench
+accessory:handbag
+electronic:cell phone
+vehicle:car

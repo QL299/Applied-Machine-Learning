@@ -1,0 +1,4 @@
+kitchen:bottle
+kitchen:knife
+food:donut
+kitchen:cup

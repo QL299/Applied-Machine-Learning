@@ -1,0 +1,7 @@
+kitchen:bottle
+kitchen:wine glass
+kitchen:cup
+appliance:microwave
+appliance:oven
+kitchen:fork
+kitchen:knife

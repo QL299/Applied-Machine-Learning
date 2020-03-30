@@ -1,0 +1,5 @@
+furniture:chair
+sports:baseball bat
+person:person
+outdoor:bench
+electronic:cell phone

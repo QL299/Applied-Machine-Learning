@@ -1,0 +1,7 @@
+furniture:chair
+person:person
+kitchen:wine glass
+furniture:dining table
+electronic:laptop
+appliance:sink
+furniture:potted plant

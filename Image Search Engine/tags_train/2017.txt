@@ -1,0 +1,4 @@
+kitchen:cup
+kitchen:knife
+kitchen:bowl
+furniture:dining table

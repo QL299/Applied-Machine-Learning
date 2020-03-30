@@ -1,0 +1,6 @@
+person:person
+kitchen:knife
+animal:zebra
+sports:skateboard
+furniture:chair
+furniture:dining table

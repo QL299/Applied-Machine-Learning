@@ -1,0 +1,6 @@
+person:person
+food:banana
+electronic:laptop
+accessory:backpack
+accessory:suitcase
+kitchen:bottle

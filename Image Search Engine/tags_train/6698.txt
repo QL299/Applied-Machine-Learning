@@ -1,0 +1,6 @@
+indoor:clock
+person:person
+animal:bird
+accessory:backpack
+outdoor:bench
+accessory:handbag

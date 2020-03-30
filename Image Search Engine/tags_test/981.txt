@@ -1,0 +1,4 @@
+vehicle:motorcycle
+person:person
+outdoor:traffic light
+sports:baseball bat

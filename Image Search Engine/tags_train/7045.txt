@@ -1,0 +1,4 @@
+person:person
+outdoor:stop sign
+outdoor:fire hydrant
+accessory:handbag

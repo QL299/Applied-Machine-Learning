@@ -1,0 +1,4 @@
+accessory:tie
+person:person
+kitchen:wine glass
+indoor:book

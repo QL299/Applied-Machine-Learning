@@ -1,0 +1,9 @@
+kitchen:fork
+kitchen:knife
+kitchen:cup
+kitchen:bowl
+food:sandwich
+furniture:dining table
+indoor:book
+person:person
+food:carrot

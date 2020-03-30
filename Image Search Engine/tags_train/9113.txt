@@ -1,0 +1,4 @@
+animal:cow
+person:person
+vehicle:car
+vehicle:truck

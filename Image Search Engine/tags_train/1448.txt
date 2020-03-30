@@ -1,0 +1,5 @@
+appliance:refrigerator
+food:orange
+food:banana
+food:apple
+appliance:microwave

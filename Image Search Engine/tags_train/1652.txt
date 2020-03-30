@@ -1,0 +1,6 @@
+kitchen:bowl
+food:banana
+kitchen:cup
+kitchen:spoon
+kitchen:bottle
+appliance:oven

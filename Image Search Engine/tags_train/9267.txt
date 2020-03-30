@@ -1,0 +1,3 @@
+kitchen:fork
+kitchen:knife
+food:pizza

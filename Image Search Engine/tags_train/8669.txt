@@ -1,0 +1,4 @@
+furniture:chair
+furniture:dining table
+furniture:toilet
+person:person

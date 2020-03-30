@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+vehicle:truck
+vehicle:car
+accessory:backpack

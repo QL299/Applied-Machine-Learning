@@ -1,0 +1,4 @@
+furniture:bed
+person:person
+furniture:chair
+furniture:couch

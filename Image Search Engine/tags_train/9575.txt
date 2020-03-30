@@ -1,0 +1,4 @@
+appliance:refrigerator
+person:person
+food:pizza
+kitchen:spoon

@@ -1,0 +1,9 @@
+electronic:tv
+furniture:chair
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+indoor:book
+indoor:teddy bear
+food:apple
+vehicle:bus

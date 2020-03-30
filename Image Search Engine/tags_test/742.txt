@@ -1,0 +1,4 @@
+accessory:umbrella
+electronic:cell phone
+kitchen:cup
+person:person

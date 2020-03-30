@@ -1,0 +1,8 @@
+kitchen:bottle
+furniture:chair
+person:person
+kitchen:spoon
+furniture:dining table
+electronic:tv
+kitchen:bowl
+electronic:cell phone

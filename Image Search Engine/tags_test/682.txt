@@ -1,0 +1,3 @@
+food:broccoli
+kitchen:bowl
+kitchen:bottle

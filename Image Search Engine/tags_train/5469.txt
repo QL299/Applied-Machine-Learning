@@ -1,0 +1,4 @@
+furniture:couch
+person:person
+electronic:cell phone
+electronic:remote

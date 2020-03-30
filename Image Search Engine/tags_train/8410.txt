@@ -1,0 +1,5 @@
+person:person
+food:pizza
+accessory:handbag
+furniture:chair
+furniture:dining table

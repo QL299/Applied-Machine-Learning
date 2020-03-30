@@ -1,0 +1,4 @@
+vehicle:bicycle
+vehicle:boat
+accessory:umbrella
+indoor:vase

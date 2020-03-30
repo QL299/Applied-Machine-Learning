@@ -1,0 +1,4 @@
+vehicle:bus
+accessory:backpack
+accessory:handbag
+person:person

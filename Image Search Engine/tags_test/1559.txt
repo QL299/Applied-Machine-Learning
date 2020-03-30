@@ -1,0 +1,10 @@
+furniture:chair
+furniture:dining table
+person:person
+food:sandwich
+kitchen:cup
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+food:banana
+accessory:handbag

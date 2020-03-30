@@ -1,0 +1,9 @@
+furniture:potted plant
+kitchen:bottle
+furniture:chair
+furniture:dining table
+kitchen:cup
+kitchen:knife
+kitchen:spoon
+kitchen:wine glass
+kitchen:bowl

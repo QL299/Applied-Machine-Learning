@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+kitchen:bowl
+appliance:sink
+kitchen:cup
+kitchen:spoon

@@ -1,0 +1,3 @@
+electronic:tv
+person:person
+electronic:cell phone

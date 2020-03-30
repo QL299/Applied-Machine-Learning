@@ -1,0 +1,6 @@
+animal:cow
+person:person
+furniture:toilet
+appliance:sink
+electronic:cell phone
+indoor:hair drier

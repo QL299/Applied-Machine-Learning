@@ -1,0 +1,5 @@
+person:person
+accessory:handbag
+food:apple
+food:orange
+food:carrot

@@ -1,0 +1,7 @@
+vehicle:bicycle
+accessory:umbrella
+person:person
+accessory:backpack
+vehicle:car
+sports:frisbee
+kitchen:bottle

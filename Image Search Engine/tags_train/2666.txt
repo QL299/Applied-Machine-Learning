@@ -1,0 +1,4 @@
+animal:dog
+kitchen:cup
+indoor:vase
+animal:cat

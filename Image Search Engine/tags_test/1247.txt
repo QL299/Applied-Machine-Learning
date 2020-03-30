@@ -1,0 +1,5 @@
+furniture:couch
+furniture:dining table
+person:person
+electronic:remote
+accessory:backpack

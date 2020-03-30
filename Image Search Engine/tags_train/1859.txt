@@ -1,0 +1,7 @@
+electronic:laptop
+indoor:book
+electronic:mouse
+electronic:remote
+electronic:tv
+electronic:cell phone
+electronic:keyboard

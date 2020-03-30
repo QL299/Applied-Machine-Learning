@@ -1,0 +1,3 @@
+food:cake
+kitchen:wine glass
+furniture:dining table

@@ -1,0 +1,5 @@
+food:sandwich
+kitchen:bowl
+food:carrot
+kitchen:cup
+furniture:couch

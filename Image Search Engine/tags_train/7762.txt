@@ -1,0 +1,6 @@
+furniture:chair
+furniture:couch
+furniture:dining table
+person:person
+indoor:vase
+accessory:tie

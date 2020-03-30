@@ -1,0 +1,3 @@
+appliance:refrigerator
+kitchen:bottle
+kitchen:bowl

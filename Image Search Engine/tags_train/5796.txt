@@ -1,0 +1,7 @@
+vehicle:car
+person:person
+vehicle:truck
+outdoor:traffic light
+animal:bird
+furniture:toilet
+kitchen:bottle

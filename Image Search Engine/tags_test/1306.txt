@@ -1,0 +1,3 @@
+indoor:vase
+furniture:potted plant
+person:person

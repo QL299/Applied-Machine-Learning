@@ -1,0 +1,9 @@
+kitchen:bottle
+person:person
+food:cake
+furniture:dining table
+indoor:vase
+kitchen:bowl
+food:donut
+kitchen:wine glass
+kitchen:knife

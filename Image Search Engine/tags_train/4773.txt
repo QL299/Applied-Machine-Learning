@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+person:person
+accessory:umbrella
+kitchen:cup
+food:carrot

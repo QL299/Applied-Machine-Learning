@@ -1,0 +1,8 @@
+kitchen:bottle
+person:person
+kitchen:knife
+kitchen:bowl
+kitchen:spoon
+furniture:potted plant
+kitchen:cup
+indoor:vase

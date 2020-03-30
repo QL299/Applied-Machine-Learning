@@ -1,0 +1,5 @@
+kitchen:fork
+kitchen:bowl
+electronic:laptop
+animal:cat
+furniture:dining table

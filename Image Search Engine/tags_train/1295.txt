@@ -1,0 +1,6 @@
+vehicle:car
+person:person
+vehicle:bicycle
+sports:skateboard
+vehicle:truck
+sports:sports ball

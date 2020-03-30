@@ -1,0 +1,4 @@
+kitchen:knife
+food:cake
+kitchen:cup
+kitchen:bowl

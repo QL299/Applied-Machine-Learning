@@ -1,0 +1,6 @@
+person:person
+appliance:oven
+appliance:sink
+kitchen:bottle
+indoor:vase
+kitchen:bowl

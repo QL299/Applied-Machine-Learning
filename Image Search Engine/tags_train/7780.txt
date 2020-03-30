@@ -1,0 +1,10 @@
+furniture:dining table
+person:person
+kitchen:cup
+kitchen:fork
+food:broccoli
+food:carrot
+kitchen:knife
+kitchen:spoon
+kitchen:bowl
+food:sandwich

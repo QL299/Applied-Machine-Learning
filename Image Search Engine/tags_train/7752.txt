@@ -1,0 +1,6 @@
+kitchen:bottle
+electronic:cell phone
+person:person
+appliance:sink
+kitchen:cup
+accessory:handbag

@@ -1,0 +1,5 @@
+person:person
+sports:skis
+sports:snowboard
+accessory:backpack
+vehicle:car

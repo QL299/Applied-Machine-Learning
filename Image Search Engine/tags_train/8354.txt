@@ -1,0 +1,7 @@
+animal:horse
+vehicle:bus
+person:person
+outdoor:traffic light
+accessory:handbag
+accessory:tie
+electronic:cell phone

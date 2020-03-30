@@ -1,0 +1,4 @@
+appliance:refrigerator
+furniture:chair
+kitchen:bowl
+furniture:potted plant

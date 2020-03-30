@@ -1,0 +1,5 @@
+person:person
+indoor:teddy bear
+kitchen:wine glass
+furniture:dining table
+kitchen:cup

@@ -1,0 +1,4 @@
+furniture:potted plant
+accessory:umbrella
+outdoor:bench
+furniture:dining table

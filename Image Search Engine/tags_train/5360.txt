@@ -1,0 +1,6 @@
+person:person
+food:banana
+kitchen:bottle
+kitchen:bowl
+furniture:potted plant
+kitchen:cup

@@ -1,0 +1,7 @@
+accessory:umbrella
+vehicle:car
+outdoor:bench
+sports:kite
+person:person
+vehicle:boat
+vehicle:bicycle

@@ -1,0 +1,6 @@
+electronic:cell phone
+kitchen:cup
+kitchen:spoon
+food:donut
+furniture:dining table
+person:person

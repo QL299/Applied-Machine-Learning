@@ -1,0 +1,8 @@
+vehicle:airplane
+outdoor:bench
+sports:skateboard
+person:person
+vehicle:truck
+accessory:backpack
+accessory:handbag
+furniture:dining table

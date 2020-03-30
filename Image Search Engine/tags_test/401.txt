@@ -1,0 +1,4 @@
+electronic:tv
+furniture:couch
+kitchen:bowl
+indoor:book

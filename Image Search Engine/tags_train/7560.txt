@@ -1,0 +1,5 @@
+outdoor:stop sign
+vehicle:car
+outdoor:traffic light
+person:person
+vehicle:truck

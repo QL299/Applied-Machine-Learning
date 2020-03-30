@@ -1,0 +1,3 @@
+accessory:umbrella
+outdoor:fire hydrant
+person:person

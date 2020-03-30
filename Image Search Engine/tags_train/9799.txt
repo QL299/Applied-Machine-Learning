@@ -1,0 +1,6 @@
+kitchen:bottle
+food:sandwich
+furniture:chair
+furniture:dining table
+person:person
+food:hot dog

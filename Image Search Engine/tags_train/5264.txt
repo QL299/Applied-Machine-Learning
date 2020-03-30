@@ -1,0 +1,7 @@
+kitchen:bottle
+person:person
+kitchen:wine glass
+accessory:handbag
+accessory:tie
+kitchen:cup
+kitchen:bowl

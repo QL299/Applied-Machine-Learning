@@ -1,0 +1,3 @@
+vehicle:boat
+vehicle:truck
+outdoor:traffic light

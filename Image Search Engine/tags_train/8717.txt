@@ -1,0 +1,4 @@
+furniture:chair
+accessory:backpack
+accessory:suitcase
+electronic:tv

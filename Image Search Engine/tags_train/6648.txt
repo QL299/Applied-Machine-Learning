@@ -1,0 +1,6 @@
+kitchen:spoon
+kitchen:bowl
+kitchen:bottle
+food:banana
+furniture:dining table
+food:donut

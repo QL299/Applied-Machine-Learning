@@ -1,0 +1,2 @@
+vehicle:train
+outdoor:traffic light

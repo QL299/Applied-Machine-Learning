@@ -1,0 +1,4 @@
+accessory:umbrella
+vehicle:car
+person:person
+furniture:potted plant

@@ -1,0 +1,4 @@
+sports:snowboard
+person:person
+accessory:backpack
+sports:skis

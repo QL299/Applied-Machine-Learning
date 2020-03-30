@@ -1,0 +1,3 @@
+appliance:refrigerator
+person:person
+kitchen:cup

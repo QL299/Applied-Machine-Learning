@@ -1,0 +1,3 @@
+animal:sheep
+person:person
+accessory:handbag

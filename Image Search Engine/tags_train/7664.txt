@@ -1,0 +1,2 @@
+electronic:tv
+furniture:bed

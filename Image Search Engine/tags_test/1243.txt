@@ -1,0 +1,5 @@
+person:person
+electronic:remote
+accessory:backpack
+accessory:umbrella
+accessory:handbag

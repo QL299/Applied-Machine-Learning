@@ -1,0 +1,6 @@
+furniture:couch
+furniture:dining table
+electronic:tv
+furniture:chair
+electronic:mouse
+electronic:keyboard

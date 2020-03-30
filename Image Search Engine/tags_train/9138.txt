@@ -1,0 +1,12 @@
+animal:dog
+kitchen:bottle
+furniture:chair
+furniture:dining table
+person:person
+furniture:potted plant
+kitchen:fork
+kitchen:knife
+outdoor:bench
+kitchen:wine glass
+kitchen:cup
+appliance:oven

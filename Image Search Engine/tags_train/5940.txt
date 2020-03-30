@@ -1,0 +1,6 @@
+kitchen:bottle
+accessory:tie
+furniture:dining table
+person:person
+kitchen:cup
+indoor:clock

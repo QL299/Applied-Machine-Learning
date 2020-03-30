@@ -1,0 +1,4 @@
+kitchen:cup
+food:banana
+furniture:dining table
+indoor:vase

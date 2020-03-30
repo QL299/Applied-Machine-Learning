@@ -1,0 +1,8 @@
+animal:horse
+furniture:chair
+furniture:dining table
+vehicle:car
+person:person
+accessory:umbrella
+accessory:handbag
+vehicle:bicycle

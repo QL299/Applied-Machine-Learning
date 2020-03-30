@@ -1,0 +1,10 @@
+furniture:dining table
+person:person
+furniture:potted plant
+kitchen:cup
+appliance:microwave
+appliance:toaster
+kitchen:bottle
+appliance:sink
+appliance:oven
+indoor:vase

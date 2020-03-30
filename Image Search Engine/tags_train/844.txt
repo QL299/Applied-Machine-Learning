@@ -1,0 +1,5 @@
+appliance:refrigerator
+appliance:microwave
+appliance:oven
+accessory:handbag
+appliance:sink

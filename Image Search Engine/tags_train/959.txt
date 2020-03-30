@@ -1,0 +1,6 @@
+animal:bird
+furniture:chair
+furniture:dining table
+person:person
+kitchen:cup
+kitchen:bowl

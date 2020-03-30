@@ -1,0 +1,4 @@
+animal:dog
+furniture:bed
+indoor:clock
+indoor:vase

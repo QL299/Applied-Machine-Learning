@@ -1,0 +1,5 @@
+vehicle:bicycle
+vehicle:car
+vehicle:bus
+outdoor:bench
+outdoor:stop sign

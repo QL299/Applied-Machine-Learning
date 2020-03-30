@@ -1,0 +1,5 @@
+electronic:tv
+person:person
+accessory:tie
+furniture:dining table
+electronic:cell phone

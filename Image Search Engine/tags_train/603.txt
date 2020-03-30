@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+outdoor:bench
+animal:elephant
+accessory:backpack

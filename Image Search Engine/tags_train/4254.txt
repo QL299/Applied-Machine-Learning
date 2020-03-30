@@ -1,0 +1,8 @@
+kitchen:knife
+kitchen:bowl
+appliance:microwave
+appliance:oven
+food:banana
+food:apple
+food:orange
+indoor:book

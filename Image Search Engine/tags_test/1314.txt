@@ -1,0 +1,10 @@
+appliance:refrigerator
+kitchen:bowl
+food:banana
+food:orange
+appliance:microwave
+appliance:oven
+appliance:sink
+kitchen:spoon
+indoor:vase
+food:apple

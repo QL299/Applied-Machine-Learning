@@ -1,0 +1,4 @@
+furniture:potted plant
+person:person
+accessory:umbrella
+outdoor:bench

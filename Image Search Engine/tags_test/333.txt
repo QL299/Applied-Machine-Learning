@@ -1,0 +1,4 @@
+vehicle:bicycle
+sports:skateboard
+accessory:backpack
+person:person

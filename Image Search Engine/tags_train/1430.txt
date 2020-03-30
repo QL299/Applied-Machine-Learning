@@ -1,0 +1,6 @@
+kitchen:bottle
+furniture:couch
+electronic:cell phone
+kitchen:wine glass
+accessory:backpack
+accessory:handbag

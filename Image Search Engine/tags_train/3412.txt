@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+furniture:couch
+vehicle:boat
+kitchen:cup
+indoor:book

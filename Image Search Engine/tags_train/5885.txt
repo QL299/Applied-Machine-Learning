@@ -1,0 +1,6 @@
+kitchen:bottle
+kitchen:wine glass
+food:carrot
+kitchen:knife
+kitchen:bowl
+person:person

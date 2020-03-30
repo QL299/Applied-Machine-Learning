@@ -1,0 +1,4 @@
+vehicle:truck
+outdoor:traffic light
+vehicle:car
+outdoor:stop sign

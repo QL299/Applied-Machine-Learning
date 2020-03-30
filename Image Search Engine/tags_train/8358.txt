@@ -1,0 +1,5 @@
+animal:horse
+furniture:chair
+vehicle:car
+vehicle:truck
+outdoor:traffic light

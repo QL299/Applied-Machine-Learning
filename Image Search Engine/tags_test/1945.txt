@@ -1,0 +1,4 @@
+accessory:tie
+furniture:chair
+person:person
+accessory:umbrella

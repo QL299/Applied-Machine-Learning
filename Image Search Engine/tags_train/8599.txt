@@ -1,0 +1,8 @@
+indoor:clock
+furniture:chair
+kitchen:knife
+appliance:sink
+kitchen:bowl
+food:apple
+appliance:refrigerator
+indoor:book

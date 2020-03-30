@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+sports:frisbee
+accessory:umbrella
+furniture:dining table

@@ -1,0 +1,8 @@
+kitchen:cup
+kitchen:spoon
+food:cake
+kitchen:knife
+food:orange
+kitchen:bottle
+kitchen:bowl
+furniture:dining table

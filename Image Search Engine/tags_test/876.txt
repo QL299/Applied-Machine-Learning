@@ -1,0 +1,6 @@
+electronic:tv
+person:person
+electronic:mouse
+electronic:keyboard
+electronic:laptop
+furniture:potted plant

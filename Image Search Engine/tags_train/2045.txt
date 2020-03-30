@@ -1,0 +1,4 @@
+person:person
+sports:kite
+accessory:umbrella
+accessory:backpack

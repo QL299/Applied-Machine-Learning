@@ -1,0 +1,6 @@
+electronic:tv
+kitchen:bottle
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+kitchen:cup

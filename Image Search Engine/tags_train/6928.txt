@@ -1,0 +1,5 @@
+vehicle:bicycle
+vehicle:car
+indoor:clock
+vehicle:truck
+furniture:potted plant

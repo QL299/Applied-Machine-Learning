@@ -1,0 +1,6 @@
+vehicle:motorcycle
+person:person
+outdoor:bench
+furniture:dining table
+vehicle:car
+vehicle:truck

@@ -1,0 +1,3 @@
+indoor:vase
+indoor:scissors
+person:person

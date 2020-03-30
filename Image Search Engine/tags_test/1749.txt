@@ -1,0 +1,5 @@
+furniture:couch
+accessory:tie
+person:person
+appliance:refrigerator
+furniture:chair

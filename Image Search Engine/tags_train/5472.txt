@@ -1,0 +1,4 @@
+electronic:cell phone
+furniture:dining table
+person:person
+food:sandwich

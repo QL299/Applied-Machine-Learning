@@ -1,0 +1,5 @@
+kitchen:bottle
+kitchen:cup
+appliance:sink
+indoor:hair drier
+kitchen:wine glass

@@ -1,0 +1,8 @@
+person:person
+electronic:cell phone
+kitchen:bowl
+accessory:handbag
+kitchen:cup
+indoor:book
+furniture:dining table
+kitchen:spoon

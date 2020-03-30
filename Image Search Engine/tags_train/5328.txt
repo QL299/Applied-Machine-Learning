@@ -1,0 +1,5 @@
+sports:sports ball
+person:person
+sports:baseball bat
+sports:baseball glove
+furniture:chair

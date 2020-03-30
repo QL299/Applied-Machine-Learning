@@ -1,0 +1,3 @@
+animal:cat
+accessory:handbag
+electronic:cell phone

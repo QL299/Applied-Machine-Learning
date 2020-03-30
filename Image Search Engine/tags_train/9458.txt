@@ -1,0 +1,4 @@
+kitchen:bottle
+furniture:bed
+person:person
+food:carrot

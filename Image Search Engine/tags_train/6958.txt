@@ -1,0 +1,4 @@
+accessory:tie
+food:apple
+indoor:book
+indoor:teddy bear

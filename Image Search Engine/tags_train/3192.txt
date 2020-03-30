@@ -1,0 +1,4 @@
+person:person
+kitchen:cup
+indoor:vase
+kitchen:bottle

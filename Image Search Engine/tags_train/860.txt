@@ -1,0 +1,6 @@
+animal:dog
+furniture:couch
+furniture:chair
+person:person
+electronic:laptop
+furniture:dining table

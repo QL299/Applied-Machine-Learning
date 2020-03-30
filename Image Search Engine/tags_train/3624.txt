@@ -1,0 +1,6 @@
+vehicle:bicycle
+accessory:backpack
+accessory:handbag
+accessory:suitcase
+person:person
+animal:bird

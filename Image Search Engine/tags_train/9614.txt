@@ -1,0 +1,7 @@
+kitchen:bottle
+food:sandwich
+electronic:cell phone
+kitchen:cup
+food:pizza
+person:person
+furniture:dining table

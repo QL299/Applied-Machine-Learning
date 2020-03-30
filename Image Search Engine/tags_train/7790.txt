@@ -1,0 +1,5 @@
+kitchen:fork
+electronic:keyboard
+kitchen:bowl
+furniture:dining table
+food:orange

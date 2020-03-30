@@ -1,0 +1,7 @@
+kitchen:bottle
+person:person
+kitchen:cup
+kitchen:knife
+kitchen:bowl
+food:pizza
+electronic:laptop

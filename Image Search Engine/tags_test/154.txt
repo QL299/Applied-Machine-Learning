@@ -1,0 +1,4 @@
+kitchen:bottle
+food:sandwich
+person:person
+kitchen:knife

@@ -1,0 +1,8 @@
+furniture:potted plant
+kitchen:bottle
+furniture:couch
+person:person
+food:pizza
+electronic:laptop
+electronic:remote
+indoor:book

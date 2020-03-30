@@ -1,0 +1,4 @@
+vehicle:boat
+accessory:umbrella
+person:person
+furniture:chair

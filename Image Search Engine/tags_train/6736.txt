@@ -1,0 +1,4 @@
+furniture:bed
+indoor:clock
+furniture:chair
+indoor:book

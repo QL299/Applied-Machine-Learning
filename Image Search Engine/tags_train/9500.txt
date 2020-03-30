@@ -1,0 +1,3 @@
+animal:dog
+indoor:hair drier
+person:person

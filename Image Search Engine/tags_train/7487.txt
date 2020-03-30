@@ -1,0 +1,3 @@
+furniture:potted plant
+outdoor:bench
+sports:sports ball

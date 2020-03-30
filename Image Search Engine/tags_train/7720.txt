@@ -1,0 +1,4 @@
+kitchen:knife
+food:cake
+furniture:dining table
+food:carrot

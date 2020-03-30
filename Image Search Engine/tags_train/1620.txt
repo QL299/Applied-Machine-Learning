@@ -1,0 +1,3 @@
+sports:sports ball
+vehicle:car
+person:person

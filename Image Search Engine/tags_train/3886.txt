@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:dining table
+vehicle:boat
+accessory:umbrella
+outdoor:bench
+furniture:chair
+person:person

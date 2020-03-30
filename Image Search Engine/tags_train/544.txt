@@ -1,0 +1,11 @@
+kitchen:bottle
+person:person
+appliance:refrigerator
+kitchen:wine glass
+kitchen:cup
+kitchen:bowl
+appliance:oven
+appliance:sink
+indoor:book
+food:pizza
+indoor:clock

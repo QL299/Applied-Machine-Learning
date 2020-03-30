@@ -1,0 +1,7 @@
+furniture:potted plant
+animal:cat
+furniture:couch
+furniture:chair
+sports:baseball glove
+electronic:remote
+indoor:book

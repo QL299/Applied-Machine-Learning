@@ -1,0 +1,6 @@
+electronic:tv
+animal:cat
+furniture:chair
+electronic:remote
+indoor:book
+furniture:bed

@@ -1,0 +1,6 @@
+accessory:umbrella
+person:person
+outdoor:bench
+food:hot dog
+furniture:potted plant
+furniture:dining table

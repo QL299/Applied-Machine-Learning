@@ -1,0 +1,3 @@
+indoor:teddy bear
+kitchen:cup
+indoor:book

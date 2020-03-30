@@ -1,0 +1,4 @@
+electronic:tv
+furniture:bed
+electronic:remote
+furniture:chair

@@ -1,0 +1,6 @@
+furniture:couch
+furniture:chair
+electronic:tv
+person:person
+furniture:dining table
+indoor:teddy bear

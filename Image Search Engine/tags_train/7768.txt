@@ -1,0 +1,4 @@
+accessory:umbrella
+sports:sports ball
+sports:tennis racket
+person:person

@@ -1,0 +1,6 @@
+vehicle:car
+kitchen:spoon
+kitchen:bowl
+person:person
+accessory:backpack
+accessory:handbag

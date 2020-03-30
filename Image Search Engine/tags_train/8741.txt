@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+food:donut
+electronic:tv
+electronic:keyboard

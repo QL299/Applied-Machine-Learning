@@ -1,0 +1,5 @@
+furniture:chair
+furniture:dining table
+person:person
+accessory:umbrella
+kitchen:cup

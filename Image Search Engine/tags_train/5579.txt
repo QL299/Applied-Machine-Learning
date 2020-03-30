@@ -1,0 +1,4 @@
+animal:dog
+vehicle:motorcycle
+person:person
+accessory:handbag

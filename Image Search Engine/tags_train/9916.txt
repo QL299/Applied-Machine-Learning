@@ -1,0 +1,3 @@
+accessory:umbrella
+furniture:bed
+furniture:chair

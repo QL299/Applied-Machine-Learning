@@ -1,0 +1,7 @@
+electronic:tv
+kitchen:cup
+kitchen:fork
+kitchen:knife
+food:pizza
+furniture:dining table
+person:person

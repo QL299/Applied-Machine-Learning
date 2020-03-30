@@ -1,0 +1,7 @@
+accessory:umbrella
+person:person
+outdoor:bench
+sports:baseball bat
+accessory:handbag
+sports:baseball glove
+kitchen:bottle

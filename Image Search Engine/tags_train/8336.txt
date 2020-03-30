@@ -1,0 +1,7 @@
+accessory:tie
+food:sandwich
+person:person
+kitchen:cup
+electronic:laptop
+kitchen:bowl
+furniture:dining table

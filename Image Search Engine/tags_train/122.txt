@@ -1,0 +1,7 @@
+furniture:bed
+person:person
+furniture:toilet
+accessory:backpack
+kitchen:bottle
+appliance:sink
+electronic:laptop

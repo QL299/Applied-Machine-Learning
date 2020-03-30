@@ -1,0 +1,4 @@
+indoor:toothbrush
+furniture:toilet
+appliance:sink
+accessory:handbag

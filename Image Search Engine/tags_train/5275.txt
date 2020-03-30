@@ -1,0 +1,3 @@
+accessory:tie
+accessory:suitcase
+person:person

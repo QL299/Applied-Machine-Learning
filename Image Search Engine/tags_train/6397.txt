@@ -1,0 +1,9 @@
+furniture:dining table
+person:person
+food:banana
+indoor:book
+accessory:handbag
+kitchen:bottle
+kitchen:spoon
+furniture:chair
+kitchen:bowl

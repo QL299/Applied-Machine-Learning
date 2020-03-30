@@ -1,0 +1,6 @@
+accessory:tie
+vehicle:bicycle
+furniture:toilet
+accessory:handbag
+person:person
+accessory:backpack

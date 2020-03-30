@@ -1,0 +1,6 @@
+person:person
+kitchen:wine glass
+kitchen:cup
+food:cake
+kitchen:spoon
+furniture:chair

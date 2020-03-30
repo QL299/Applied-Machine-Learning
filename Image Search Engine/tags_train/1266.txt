@@ -1,0 +1,3 @@
+food:banana
+electronic:keyboard
+kitchen:cup

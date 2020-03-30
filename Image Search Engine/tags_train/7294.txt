@@ -1,0 +1,5 @@
+animal:elephant
+person:person
+outdoor:bench
+furniture:chair
+furniture:dining table

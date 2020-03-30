@@ -1,0 +1,4 @@
+animal:horse
+vehicle:bus
+person:person
+vehicle:truck

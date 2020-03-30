@@ -1,0 +1,5 @@
+electronic:cell phone
+person:person
+food:carrot
+furniture:dining table
+kitchen:cup

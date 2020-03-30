@@ -1,0 +1,4 @@
+vehicle:car
+outdoor:bench
+accessory:umbrella
+furniture:dining table

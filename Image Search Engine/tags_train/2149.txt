@@ -1,0 +1,4 @@
+furniture:bed
+animal:cat
+kitchen:bowl
+animal:dog

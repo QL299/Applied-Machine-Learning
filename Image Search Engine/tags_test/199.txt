@@ -1,0 +1,4 @@
+accessory:tie
+person:person
+furniture:chair
+furniture:dining table

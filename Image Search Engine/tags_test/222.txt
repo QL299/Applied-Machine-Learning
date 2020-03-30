@@ -1,0 +1,5 @@
+accessory:umbrella
+vehicle:car
+accessory:handbag
+person:person
+accessory:backpack

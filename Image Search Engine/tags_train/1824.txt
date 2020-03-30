@@ -1,0 +1,8 @@
+furniture:potted plant
+furniture:chair
+furniture:dining table
+appliance:refrigerator
+kitchen:bottle
+kitchen:bowl
+indoor:vase
+food:orange

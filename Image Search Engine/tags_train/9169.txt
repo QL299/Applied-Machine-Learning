@@ -1,0 +1,5 @@
+electronic:cell phone
+person:person
+outdoor:bench
+outdoor:fire hydrant
+accessory:handbag

@@ -1,0 +1,2 @@
+food:pizza
+furniture:dining table

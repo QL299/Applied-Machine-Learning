@@ -1,0 +1,4 @@
+kitchen:knife
+appliance:oven
+appliance:sink
+appliance:microwave

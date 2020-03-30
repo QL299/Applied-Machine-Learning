@@ -1,0 +1,4 @@
+animal:dog
+vehicle:bicycle
+vehicle:motorcycle
+furniture:potted plant

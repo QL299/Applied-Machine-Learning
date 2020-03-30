@@ -1,0 +1,5 @@
+vehicle:car
+person:person
+outdoor:bench
+electronic:laptop
+vehicle:truck

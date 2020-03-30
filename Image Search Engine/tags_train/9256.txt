@@ -1,0 +1,9 @@
+kitchen:bottle
+furniture:dining table
+kitchen:knife
+kitchen:bowl
+food:orange
+indoor:vase
+kitchen:spoon
+accessory:handbag
+furniture:chair

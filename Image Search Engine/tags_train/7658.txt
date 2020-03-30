@@ -1,0 +1,4 @@
+kitchen:fork
+kitchen:knife
+kitchen:bowl
+appliance:oven

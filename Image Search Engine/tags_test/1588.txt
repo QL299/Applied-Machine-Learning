@@ -1,0 +1,4 @@
+animal:dog
+electronic:tv
+furniture:couch
+furniture:chair

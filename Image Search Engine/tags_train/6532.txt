@@ -1,0 +1,4 @@
+furniture:dining table
+furniture:couch
+electronic:remote
+furniture:chair

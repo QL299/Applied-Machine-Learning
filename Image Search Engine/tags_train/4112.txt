@@ -1,0 +1,4 @@
+animal:cat
+electronic:laptop
+indoor:book
+electronic:tv

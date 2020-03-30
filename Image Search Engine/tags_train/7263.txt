@@ -1,0 +1,5 @@
+person:person
+sports:skateboard
+accessory:backpack
+outdoor:bench
+accessory:handbag

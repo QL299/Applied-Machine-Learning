@@ -1,0 +1,4 @@
+kitchen:bottle
+furniture:dining table
+electronic:cell phone
+kitchen:cup

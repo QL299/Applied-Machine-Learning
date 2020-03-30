@@ -1,0 +1,4 @@
+kitchen:bottle
+food:sandwich
+electronic:keyboard
+electronic:laptop

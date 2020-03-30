@@ -1,0 +1,3 @@
+indoor:vase
+kitchen:cup
+person:person

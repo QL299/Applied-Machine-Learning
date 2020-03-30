@@ -1,0 +1,4 @@
+vehicle:car
+outdoor:fire hydrant
+person:person
+sports:skateboard

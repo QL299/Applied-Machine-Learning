@@ -1,0 +1,6 @@
+accessory:tie
+appliance:sink
+indoor:book
+indoor:vase
+person:person
+accessory:handbag

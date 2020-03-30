@@ -1,0 +1,5 @@
+electronic:tv
+kitchen:bottle
+furniture:dining table
+food:sandwich
+person:person

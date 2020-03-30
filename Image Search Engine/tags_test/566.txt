@@ -1,0 +1,4 @@
+appliance:refrigerator
+appliance:microwave
+indoor:vase
+food:apple

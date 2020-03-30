@@ -1,0 +1,4 @@
+person:person
+sports:surfboard
+kitchen:bowl
+kitchen:cup

@@ -1,0 +1,6 @@
+vehicle:car
+vehicle:motorcycle
+person:person
+vehicle:truck
+outdoor:traffic light
+kitchen:wine glass

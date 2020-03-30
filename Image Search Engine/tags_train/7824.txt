@@ -1,0 +1,6 @@
+electronic:laptop
+indoor:book
+electronic:mouse
+electronic:cell phone
+accessory:backpack
+accessory:handbag

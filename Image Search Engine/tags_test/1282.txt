@@ -1,0 +1,4 @@
+furniture:potted plant
+vehicle:train
+accessory:backpack
+person:person

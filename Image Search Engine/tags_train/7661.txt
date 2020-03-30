@@ -1,0 +1,6 @@
+furniture:couch
+person:person
+furniture:potted plant
+electronic:laptop
+electronic:mouse
+kitchen:cup

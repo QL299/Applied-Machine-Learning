@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:chair
+kitchen:bowl
+food:banana
+food:apple
+kitchen:cup
+furniture:dining table

@@ -1,0 +1,7 @@
+furniture:chair
+furniture:dining table
+person:person
+food:cake
+electronic:tv
+electronic:cell phone
+appliance:oven

@@ -1,0 +1,6 @@
+electronic:tv
+kitchen:bottle
+furniture:bed
+indoor:book
+accessory:handbag
+electronic:remote

@@ -1,0 +1,4 @@
+electronic:laptop
+electronic:keyboard
+electronic:mouse
+person:person

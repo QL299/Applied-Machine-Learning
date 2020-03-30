@@ -1,0 +1,3 @@
+sports:skateboard
+person:person
+furniture:chair

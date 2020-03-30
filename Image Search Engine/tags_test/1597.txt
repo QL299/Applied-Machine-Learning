@@ -1,0 +1,8 @@
+person:person
+accessory:tie
+kitchen:knife
+food:cake
+kitchen:wine glass
+furniture:dining table
+furniture:potted plant
+indoor:vase

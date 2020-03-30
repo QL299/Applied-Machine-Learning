@@ -1,0 +1,4 @@
+kitchen:bottle
+electronic:cell phone
+kitchen:bowl
+electronic:laptop

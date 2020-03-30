@@ -1,0 +1,3 @@
+vehicle:bicycle
+vehicle:train
+person:person

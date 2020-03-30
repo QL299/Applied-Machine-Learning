@@ -1,0 +1,4 @@
+kitchen:bottle
+person:person
+vehicle:truck
+food:banana

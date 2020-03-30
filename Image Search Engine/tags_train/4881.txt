@@ -1,0 +1,3 @@
+person:person
+furniture:bed
+indoor:teddy bear

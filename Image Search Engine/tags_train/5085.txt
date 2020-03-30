@@ -1,0 +1,3 @@
+kitchen:cup
+electronic:mouse
+electronic:keyboard

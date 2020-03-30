@@ -1,0 +1,4 @@
+furniture:chair
+food:pizza
+person:person
+furniture:dining table

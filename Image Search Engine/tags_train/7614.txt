@@ -1,0 +1,5 @@
+electronic:tv
+furniture:chair
+furniture:bed
+furniture:potted plant
+indoor:vase

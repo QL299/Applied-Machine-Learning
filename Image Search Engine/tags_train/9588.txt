@@ -1,0 +1,6 @@
+accessory:umbrella
+person:person
+vehicle:boat
+accessory:handbag
+furniture:chair
+electronic:cell phone

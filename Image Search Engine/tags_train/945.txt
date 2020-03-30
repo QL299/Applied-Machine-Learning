@@ -1,0 +1,5 @@
+furniture:potted plant
+animal:horse
+furniture:chair
+person:person
+indoor:book

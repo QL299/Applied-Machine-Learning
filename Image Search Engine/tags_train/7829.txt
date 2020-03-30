@@ -1,0 +1,4 @@
+sports:sports ball
+sports:frisbee
+electronic:tv
+animal:dog

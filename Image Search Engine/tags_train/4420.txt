@@ -1,0 +1,8 @@
+vehicle:motorcycle
+person:person
+vehicle:car
+accessory:backpack
+accessory:handbag
+vehicle:bicycle
+vehicle:truck
+outdoor:traffic light

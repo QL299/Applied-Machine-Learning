@@ -1,0 +1,6 @@
+furniture:potted plant
+vehicle:motorcycle
+indoor:teddy bear
+accessory:backpack
+furniture:chair
+furniture:dining table

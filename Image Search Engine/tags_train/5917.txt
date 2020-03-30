@@ -1,0 +1,4 @@
+indoor:toothbrush
+vehicle:car
+vehicle:truck
+person:person

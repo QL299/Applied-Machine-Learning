@@ -1,0 +1,4 @@
+food:banana
+food:donut
+kitchen:cup
+furniture:dining table

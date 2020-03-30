@@ -1,0 +1,4 @@
+kitchen:bottle
+sports:sports ball
+person:person
+sports:tennis racket

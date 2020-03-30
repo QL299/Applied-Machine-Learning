@@ -1,0 +1,4 @@
+appliance:microwave
+appliance:toaster
+appliance:sink
+appliance:refrigerator

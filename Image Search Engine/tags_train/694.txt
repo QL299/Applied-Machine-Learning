@@ -1,0 +1,3 @@
+indoor:book
+accessory:handbag
+furniture:bed

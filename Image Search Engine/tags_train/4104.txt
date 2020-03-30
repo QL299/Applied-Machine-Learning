@@ -1,0 +1,5 @@
+kitchen:bottle
+appliance:refrigerator
+kitchen:wine glass
+appliance:oven
+electronic:cell phone

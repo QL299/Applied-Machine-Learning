@@ -1,0 +1,5 @@
+indoor:clock
+kitchen:knife
+appliance:microwave
+kitchen:spoon
+appliance:oven

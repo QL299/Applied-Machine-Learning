@@ -1,0 +1,4 @@
+food:sandwich
+person:person
+furniture:dining table
+food:hot dog

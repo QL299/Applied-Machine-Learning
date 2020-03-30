@@ -1,0 +1,5 @@
+kitchen:knife
+food:cake
+kitchen:spoon
+person:person
+furniture:dining table

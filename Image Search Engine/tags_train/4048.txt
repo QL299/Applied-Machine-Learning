@@ -1,0 +1,4 @@
+vehicle:boat
+person:person
+food:sandwich
+kitchen:knife

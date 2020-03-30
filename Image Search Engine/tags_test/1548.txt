@@ -1,0 +1,8 @@
+electronic:tv
+furniture:chair
+furniture:couch
+furniture:dining table
+furniture:potted plant
+furniture:bed
+indoor:vase
+indoor:teddy bear

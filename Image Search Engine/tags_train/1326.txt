@@ -1,0 +1,6 @@
+furniture:dining table
+kitchen:cup
+kitchen:fork
+food:broccoli
+food:carrot
+kitchen:spoon

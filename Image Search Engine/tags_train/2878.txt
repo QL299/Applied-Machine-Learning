@@ -1,0 +1,4 @@
+animal:bird
+vehicle:car
+outdoor:traffic light
+vehicle:truck

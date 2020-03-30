@@ -1,0 +1,5 @@
+furniture:potted plant
+furniture:chair
+appliance:refrigerator
+accessory:handbag
+indoor:book

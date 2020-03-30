@@ -1,0 +1,5 @@
+furniture:chair
+furniture:dining table
+accessory:handbag
+person:person
+accessory:backpack

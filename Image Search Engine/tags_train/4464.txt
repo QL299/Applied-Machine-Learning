@@ -1,0 +1,8 @@
+kitchen:bottle
+vehicle:bicycle
+accessory:umbrella
+outdoor:traffic light
+accessory:handbag
+person:person
+vehicle:car
+vehicle:motorcycle

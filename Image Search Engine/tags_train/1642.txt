@@ -1,0 +1,5 @@
+vehicle:motorcycle
+person:person
+kitchen:bottle
+kitchen:cup
+furniture:chair

@@ -1,0 +1,4 @@
+person:person
+food:cake
+furniture:dining table
+kitchen:cup

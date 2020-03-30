@@ -1,0 +1,4 @@
+animal:dog
+person:person
+sports:skis
+accessory:handbag

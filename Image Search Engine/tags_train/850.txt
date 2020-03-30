@@ -1,0 +1,10 @@
+appliance:refrigerator
+indoor:clock
+person:person
+appliance:oven
+kitchen:bottle
+kitchen:spoon
+furniture:chair
+appliance:sink
+kitchen:knife
+kitchen:bowl

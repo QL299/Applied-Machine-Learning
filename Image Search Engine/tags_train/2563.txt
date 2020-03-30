@@ -1,0 +1,9 @@
+electronic:tv
+kitchen:cup
+electronic:laptop
+electronic:mouse
+indoor:book
+indoor:scissors
+electronic:cell phone
+indoor:vase
+electronic:keyboard

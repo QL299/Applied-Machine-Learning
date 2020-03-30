@@ -1,0 +1,5 @@
+vehicle:car
+outdoor:fire hydrant
+person:person
+accessory:handbag
+outdoor:parking meter

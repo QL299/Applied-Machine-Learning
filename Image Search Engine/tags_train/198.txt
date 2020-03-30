@@ -1,0 +1,4 @@
+kitchen:spoon
+appliance:oven
+appliance:sink
+furniture:potted plant

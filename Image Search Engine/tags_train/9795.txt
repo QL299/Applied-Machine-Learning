@@ -1,0 +1,4 @@
+indoor:book
+indoor:vase
+furniture:potted plant
+kitchen:cup

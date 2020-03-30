@@ -1,0 +1,5 @@
+kitchen:bottle
+kitchen:wine glass
+indoor:teddy bear
+furniture:dining table
+indoor:vase

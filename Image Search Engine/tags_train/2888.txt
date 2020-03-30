@@ -1,0 +1,4 @@
+vehicle:motorcycle
+person:person
+accessory:umbrella
+furniture:potted plant

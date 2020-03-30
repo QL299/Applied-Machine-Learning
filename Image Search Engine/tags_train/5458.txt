@@ -1,0 +1,3 @@
+furniture:couch
+accessory:tie
+person:person

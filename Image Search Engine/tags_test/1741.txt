@@ -1,0 +1,2 @@
+food:donut
+furniture:dining table

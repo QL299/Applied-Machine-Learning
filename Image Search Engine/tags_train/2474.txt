@@ -1,0 +1,3 @@
+furniture:bed
+accessory:suitcase
+animal:cat

@@ -1,0 +1,2 @@
+furniture:dining table
+kitchen:wine glass

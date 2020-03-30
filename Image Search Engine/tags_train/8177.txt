@@ -1,0 +1,5 @@
+kitchen:bottle
+person:person
+kitchen:wine glass
+kitchen:cup
+food:orange

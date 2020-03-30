@@ -1,0 +1,6 @@
+furniture:potted plant
+furniture:couch
+food:orange
+electronic:laptop
+indoor:vase
+indoor:book

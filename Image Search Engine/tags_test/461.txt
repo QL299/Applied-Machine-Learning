@@ -1,0 +1,4 @@
+furniture:couch
+appliance:refrigerator
+furniture:chair
+electronic:tv

@@ -1,0 +1,4 @@
+food:sandwich
+person:person
+kitchen:cup
+food:hot dog

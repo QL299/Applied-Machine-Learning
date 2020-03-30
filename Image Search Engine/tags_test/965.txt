@@ -1,0 +1,7 @@
+vehicle:bicycle
+accessory:umbrella
+accessory:tie
+indoor:clock
+accessory:backpack
+person:person
+accessory:handbag

@@ -1,0 +1,5 @@
+animal:cat
+electronic:laptop
+indoor:book
+electronic:keyboard
+furniture:bed

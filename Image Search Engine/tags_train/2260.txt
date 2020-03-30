@@ -1,0 +1,6 @@
+accessory:umbrella
+vehicle:car
+outdoor:fire hydrant
+person:person
+accessory:handbag
+vehicle:truck

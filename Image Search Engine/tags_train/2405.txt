@@ -1,0 +1,5 @@
+kitchen:knife
+food:broccoli
+furniture:dining table
+kitchen:cup
+food:cake

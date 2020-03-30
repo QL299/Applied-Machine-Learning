@@ -1,0 +1,5 @@
+kitchen:cup
+kitchen:spoon
+electronic:laptop
+indoor:book
+electronic:keyboard

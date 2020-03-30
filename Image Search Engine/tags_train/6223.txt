@@ -1,0 +1,7 @@
+furniture:chair
+electronic:mouse
+electronic:keyboard
+indoor:teddy bear
+indoor:book
+electronic:tv
+electronic:cell phone

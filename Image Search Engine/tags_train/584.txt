@@ -1,0 +1,7 @@
+furniture:dining table
+person:person
+kitchen:fork
+food:cake
+indoor:vase
+outdoor:bench
+kitchen:spoon

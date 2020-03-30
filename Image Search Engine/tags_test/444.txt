@@ -1,0 +1,5 @@
+furniture:chair
+furniture:dining table
+indoor:book
+indoor:vase
+food:orange

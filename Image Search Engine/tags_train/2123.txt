@@ -1,0 +1,7 @@
+electronic:tv
+kitchen:bottle
+person:person
+furniture:potted plant
+appliance:refrigerator
+accessory:handbag
+kitchen:wine glass

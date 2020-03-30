@@ -1,0 +1,8 @@
+animal:dog
+furniture:potted plant
+furniture:chair
+furniture:dining table
+kitchen:bowl
+outdoor:bench
+food:sandwich
+person:person

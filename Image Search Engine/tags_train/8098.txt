@@ -1,0 +1,4 @@
+person:person
+accessory:backpack
+accessory:umbrella
+accessory:handbag

@@ -1,0 +1,3 @@
+kitchen:bowl
+food:donut
+person:person

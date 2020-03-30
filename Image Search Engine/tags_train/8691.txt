@@ -1,0 +1,5 @@
+kitchen:bottle
+appliance:refrigerator
+appliance:microwave
+appliance:oven
+appliance:sink

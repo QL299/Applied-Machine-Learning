@@ -1,0 +1,5 @@
+electronic:cell phone
+food:banana
+electronic:laptop
+furniture:dining table
+electronic:mouse

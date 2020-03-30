@@ -1,0 +1,7 @@
+appliance:refrigerator
+indoor:clock
+appliance:toaster
+kitchen:bowl
+appliance:sink
+kitchen:cup
+kitchen:bottle

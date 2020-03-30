@@ -1,0 +1,5 @@
+food:sandwich
+person:person
+kitchen:spoon
+food:pizza
+appliance:sink

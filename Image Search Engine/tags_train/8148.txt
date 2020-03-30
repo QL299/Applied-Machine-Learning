@@ -1,0 +1,6 @@
+person:person
+kitchen:fork
+food:cake
+indoor:clock
+furniture:chair
+furniture:dining table

@@ -1,0 +1,5 @@
+person:person
+food:donut
+accessory:handbag
+electronic:tv
+kitchen:knife

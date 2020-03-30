@@ -1,0 +1,4 @@
+furniture:potted plant
+appliance:microwave
+appliance:oven
+appliance:sink

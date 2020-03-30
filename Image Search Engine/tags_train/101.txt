@@ -1,0 +1,6 @@
+furniture:couch
+person:person
+electronic:remote
+indoor:book
+furniture:chair
+appliance:refrigerator

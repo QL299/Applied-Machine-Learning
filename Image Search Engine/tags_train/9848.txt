@@ -1,0 +1,4 @@
+kitchen:bowl
+food:banana
+kitchen:cup
+food:apple

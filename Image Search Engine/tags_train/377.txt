@@ -1,0 +1,7 @@
+electronic:tv
+kitchen:bottle
+furniture:chair
+furniture:couch
+furniture:bed
+indoor:vase
+furniture:dining table

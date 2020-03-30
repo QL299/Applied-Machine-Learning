@@ -1,0 +1,5 @@
+electronic:tv
+furniture:couch
+person:person
+appliance:refrigerator
+indoor:book

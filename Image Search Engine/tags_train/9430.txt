@@ -1,0 +1,5 @@
+vehicle:bicycle
+outdoor:traffic light
+sports:surfboard
+person:person
+animal:dog

@@ -1,0 +1,8 @@
+furniture:chair
+furniture:couch
+kitchen:cup
+electronic:remote
+indoor:book
+electronic:mouse
+indoor:vase
+furniture:potted plant

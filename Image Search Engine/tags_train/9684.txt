@@ -1,0 +1,2 @@
+vehicle:airplane
+outdoor:traffic light

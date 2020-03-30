@@ -1,0 +1,5 @@
+accessory:tie
+person:person
+furniture:chair
+furniture:potted plant
+indoor:vase

@@ -1,0 +1,6 @@
+vehicle:car
+vehicle:boat
+vehicle:bus
+indoor:clock
+vehicle:truck
+person:person

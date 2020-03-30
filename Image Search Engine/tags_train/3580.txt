@@ -1,0 +1,4 @@
+animal:cat
+kitchen:bottle
+vehicle:car
+vehicle:bicycle

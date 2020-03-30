@@ -1,0 +1,5 @@
+sports:sports ball
+person:person
+sports:tennis racket
+kitchen:bottle
+furniture:chair

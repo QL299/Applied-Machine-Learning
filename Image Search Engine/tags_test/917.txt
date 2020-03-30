@@ -1,0 +1,7 @@
+furniture:potted plant
+kitchen:bottle
+furniture:dining table
+person:person
+appliance:refrigerator
+appliance:microwave
+appliance:oven

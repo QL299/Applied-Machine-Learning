@@ -1,0 +1,6 @@
+kitchen:bottle
+appliance:refrigerator
+person:person
+kitchen:knife
+indoor:scissors
+appliance:sink

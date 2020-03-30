@@ -1,0 +1,6 @@
+accessory:umbrella
+vehicle:car
+person:person
+outdoor:stop sign
+vehicle:bicycle
+accessory:backpack

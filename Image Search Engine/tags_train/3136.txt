@@ -1,0 +1,4 @@
+electronic:tv
+indoor:book
+electronic:remote
+indoor:vase

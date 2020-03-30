@@ -1,0 +1,5 @@
+vehicle:motorcycle
+outdoor:fire hydrant
+vehicle:truck
+vehicle:car
+outdoor:traffic light

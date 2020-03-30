@@ -1,0 +1,9 @@
+person:person
+food:banana
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+furniture:chair
+indoor:vase
+kitchen:bottle
+furniture:dining table

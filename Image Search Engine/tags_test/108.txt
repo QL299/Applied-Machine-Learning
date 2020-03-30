@@ -1,0 +1,6 @@
+furniture:chair
+furniture:dining table
+appliance:microwave
+appliance:toaster
+kitchen:bowl
+indoor:vase

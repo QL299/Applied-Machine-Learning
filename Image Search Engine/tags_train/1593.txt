@@ -1,0 +1,6 @@
+furniture:dining table
+person:person
+outdoor:bench
+kitchen:bowl
+kitchen:cup
+electronic:cell phone

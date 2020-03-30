@@ -1,0 +1,9 @@
+kitchen:bottle
+furniture:couch
+appliance:refrigerator
+furniture:chair
+kitchen:bowl
+appliance:oven
+indoor:book
+kitchen:wine glass
+furniture:dining table

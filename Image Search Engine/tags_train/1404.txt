@@ -1,0 +1,7 @@
+furniture:potted plant
+accessory:umbrella
+indoor:clock
+person:person
+outdoor:bench
+accessory:suitcase
+accessory:handbag

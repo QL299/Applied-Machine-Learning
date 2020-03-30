@@ -1,0 +1,3 @@
+animal:bird
+indoor:book
+furniture:potted plant

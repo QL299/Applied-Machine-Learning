@@ -1,0 +1,7 @@
+electronic:cell phone
+furniture:chair
+furniture:dining table
+kitchen:cup
+electronic:laptop
+electronic:mouse
+indoor:book

@@ -1,0 +1,12 @@
+furniture:potted plant
+furniture:dining table
+electronic:cell phone
+kitchen:cup
+kitchen:spoon
+accessory:handbag
+person:person
+outdoor:bench
+accessory:backpack
+kitchen:bottle
+kitchen:fork
+kitchen:knife

@@ -1,0 +1,4 @@
+appliance:refrigerator
+furniture:chair
+appliance:microwave
+kitchen:cup

@@ -1,0 +1,4 @@
+kitchen:bottle
+animal:bird
+food:pizza
+person:person

@@ -1,0 +1,5 @@
+furniture:couch
+indoor:vase
+furniture:chair
+indoor:book
+furniture:dining table

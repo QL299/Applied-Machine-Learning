@@ -1,0 +1,2 @@
+indoor:clock
+furniture:potted plant

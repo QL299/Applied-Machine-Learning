@@ -1,0 +1,2 @@
+furniture:toilet
+furniture:potted plant

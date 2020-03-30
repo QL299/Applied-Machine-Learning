@@ -1,0 +1,3 @@
+furniture:couch
+vehicle:car
+indoor:vase

@@ -1,0 +1,3 @@
+vehicle:truck
+vehicle:car
+person:person

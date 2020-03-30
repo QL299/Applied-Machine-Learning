@@ -1,0 +1,10 @@
+kitchen:bottle
+appliance:refrigerator
+furniture:dining table
+person:person
+kitchen:cup
+kitchen:bowl
+food:pizza
+appliance:microwave
+outdoor:bench
+furniture:chair

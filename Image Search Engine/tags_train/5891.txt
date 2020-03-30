@@ -1,0 +1,5 @@
+animal:dog
+kitchen:bottle
+sports:tennis racket
+accessory:backpack
+accessory:handbag

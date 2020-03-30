@@ -1,0 +1,4 @@
+kitchen:bottle
+furniture:toilet
+indoor:book
+kitchen:cup

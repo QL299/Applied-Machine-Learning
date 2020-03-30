@@ -1,0 +1,5 @@
+indoor:book
+outdoor:bench
+person:person
+furniture:chair
+furniture:dining table

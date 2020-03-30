@@ -1,0 +1,11 @@
+kitchen:bottle
+electronic:cell phone
+appliance:refrigerator
+furniture:dining table
+person:person
+kitchen:cup
+food:orange
+appliance:oven
+appliance:sink
+kitchen:bowl
+electronic:laptop

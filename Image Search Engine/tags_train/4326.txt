@@ -1,0 +1,2 @@
+indoor:teddy bear
+vehicle:car

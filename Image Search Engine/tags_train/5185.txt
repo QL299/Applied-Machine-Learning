@@ -1,0 +1,3 @@
+outdoor:bench
+sports:skateboard
+person:person

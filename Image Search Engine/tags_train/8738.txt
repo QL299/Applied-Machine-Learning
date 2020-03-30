@@ -1,0 +1,3 @@
+indoor:scissors
+furniture:chair
+person:person

@@ -1,0 +1,7 @@
+furniture:potted plant
+person:person
+electronic:remote
+indoor:book
+accessory:handbag
+furniture:chair
+furniture:couch

@@ -1,0 +1,7 @@
+furniture:potted plant
+furniture:couch
+furniture:chair
+electronic:remote
+indoor:book
+indoor:vase
+kitchen:cup

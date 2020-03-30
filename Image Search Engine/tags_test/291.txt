@@ -1,0 +1,3 @@
+furniture:toilet
+appliance:sink
+kitchen:cup

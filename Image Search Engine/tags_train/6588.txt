@@ -1,0 +1,6 @@
+vehicle:bicycle
+vehicle:bus
+person:person
+food:pizza
+vehicle:truck
+accessory:handbag

@@ -1,0 +1,4 @@
+electronic:cell phone
+accessory:backpack
+kitchen:bottle
+accessory:handbag

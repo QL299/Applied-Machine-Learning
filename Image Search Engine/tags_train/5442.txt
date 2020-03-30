@@ -1,0 +1,6 @@
+person:person
+kitchen:bowl
+kitchen:spoon
+appliance:refrigerator
+appliance:oven
+indoor:clock

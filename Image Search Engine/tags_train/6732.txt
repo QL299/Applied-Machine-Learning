@@ -1,0 +1,6 @@
+person:person
+outdoor:bench
+sports:tennis racket
+accessory:backpack
+kitchen:cup
+kitchen:bottle

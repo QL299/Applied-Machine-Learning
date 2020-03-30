@@ -1,0 +1,4 @@
+accessory:tie
+person:person
+electronic:laptop
+indoor:book

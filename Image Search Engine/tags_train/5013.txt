@@ -1,0 +1,8 @@
+electronic:tv
+furniture:couch
+furniture:chair
+person:person
+furniture:potted plant
+kitchen:fork
+kitchen:spoon
+indoor:teddy bear

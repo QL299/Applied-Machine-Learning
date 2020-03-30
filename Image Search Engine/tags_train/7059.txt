@@ -1,0 +1,6 @@
+person:person
+vehicle:car
+animal:dog
+accessory:backpack
+sports:kite
+vehicle:bus

@@ -1,0 +1,5 @@
+sports:sports ball
+furniture:chair
+sports:tennis racket
+person:person
+accessory:tie

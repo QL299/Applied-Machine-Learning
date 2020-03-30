@@ -1,0 +1,4 @@
+furniture:couch
+accessory:tie
+furniture:bed
+animal:cat

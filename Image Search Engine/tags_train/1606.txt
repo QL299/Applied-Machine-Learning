@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+accessory:tie
+food:banana
+food:orange
+accessory:backpack

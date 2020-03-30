@@ -1,0 +1,7 @@
+furniture:chair
+person:person
+kitchen:wine glass
+kitchen:fork
+food:pizza
+furniture:dining table
+kitchen:cup

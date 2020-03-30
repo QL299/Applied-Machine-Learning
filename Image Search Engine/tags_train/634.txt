@@ -1,0 +1,10 @@
+furniture:chair
+furniture:dining table
+furniture:potted plant
+kitchen:bowl
+food:apple
+food:orange
+appliance:oven
+food:banana
+electronic:tv
+electronic:remote

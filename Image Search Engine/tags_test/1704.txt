@@ -1,0 +1,4 @@
+food:apple
+kitchen:bottle
+food:banana
+food:orange

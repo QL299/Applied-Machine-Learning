@@ -1,0 +1,6 @@
+furniture:dining table
+person:person
+kitchen:wine glass
+kitchen:bottle
+kitchen:cup
+furniture:chair

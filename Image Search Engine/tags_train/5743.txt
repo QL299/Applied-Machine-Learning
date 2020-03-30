@@ -1,0 +1,4 @@
+furniture:chair
+person:person
+electronic:cell phone
+indoor:scissors

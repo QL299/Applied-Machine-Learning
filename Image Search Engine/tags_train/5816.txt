@@ -1,0 +1,2 @@
+vehicle:airplane
+outdoor:parking meter

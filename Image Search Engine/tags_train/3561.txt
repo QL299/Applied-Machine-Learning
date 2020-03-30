@@ -1,0 +1,6 @@
+vehicle:car
+outdoor:parking meter
+vehicle:truck
+outdoor:traffic light
+vehicle:bicycle
+person:person

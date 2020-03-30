@@ -1,0 +1,7 @@
+vehicle:motorcycle
+person:person
+accessory:umbrella
+accessory:backpack
+accessory:handbag
+kitchen:bottle
+furniture:potted plant

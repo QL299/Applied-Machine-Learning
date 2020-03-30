@@ -1,0 +1,4 @@
+person:person
+accessory:handbag
+accessory:umbrella
+food:apple

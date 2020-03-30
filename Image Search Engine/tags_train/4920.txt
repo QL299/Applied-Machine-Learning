@@ -1,0 +1,5 @@
+outdoor:stop sign
+person:person
+accessory:handbag
+vehicle:car
+vehicle:truck

@@ -1,0 +1,8 @@
+kitchen:bottle
+kitchen:wine glass
+appliance:oven
+accessory:handbag
+furniture:chair
+appliance:sink
+furniture:dining table
+person:person

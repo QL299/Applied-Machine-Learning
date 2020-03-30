@@ -1,0 +1,3 @@
+vehicle:bus
+outdoor:stop sign
+outdoor:traffic light

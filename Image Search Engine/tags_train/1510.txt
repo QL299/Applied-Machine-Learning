@@ -1,0 +1,3 @@
+person:person
+food:hot dog
+food:sandwich

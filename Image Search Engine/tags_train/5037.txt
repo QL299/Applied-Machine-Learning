@@ -1,0 +1,4 @@
+accessory:suitcase
+person:person
+accessory:handbag
+indoor:book

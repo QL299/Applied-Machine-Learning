@@ -1,0 +1,6 @@
+electronic:cell phone
+furniture:chair
+person:person
+electronic:laptop
+electronic:keyboard
+electronic:remote

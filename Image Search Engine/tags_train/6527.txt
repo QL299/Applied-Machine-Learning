@@ -1,0 +1,7 @@
+electronic:tv
+animal:cat
+kitchen:cup
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+indoor:book

@@ -1,0 +1,4 @@
+kitchen:bottle
+appliance:sink
+indoor:toothbrush
+furniture:toilet

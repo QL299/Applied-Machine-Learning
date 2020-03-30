@@ -1,0 +1,5 @@
+kitchen:fork
+kitchen:knife
+kitchen:bowl
+food:carrot
+kitchen:spoon

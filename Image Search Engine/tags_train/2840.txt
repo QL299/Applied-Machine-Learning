@@ -1,0 +1,5 @@
+animal:bird
+furniture:chair
+person:person
+accessory:umbrella
+outdoor:bench

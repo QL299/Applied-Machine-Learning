@@ -1,0 +1,5 @@
+kitchen:wine glass
+indoor:vase
+kitchen:knife
+food:cake
+kitchen:bowl

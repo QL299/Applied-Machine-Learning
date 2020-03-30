@@ -1,0 +1,5 @@
+furniture:couch
+electronic:remote
+indoor:book
+kitchen:bowl
+indoor:vase

@@ -1,0 +1,5 @@
+indoor:clock
+person:person
+accessory:backpack
+vehicle:car
+vehicle:truck

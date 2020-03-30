@@ -1,0 +1,6 @@
+furniture:potted plant
+appliance:sink
+animal:bird
+kitchen:bottle
+kitchen:cup
+indoor:vase

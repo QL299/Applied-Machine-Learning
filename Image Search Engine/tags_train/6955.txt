@@ -1,0 +1,6 @@
+furniture:chair
+person:person
+outdoor:bench
+electronic:laptop
+kitchen:bottle
+accessory:handbag

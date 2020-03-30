@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+kitchen:bowl
+food:cake
+kitchen:spoon
+animal:dog

@@ -1,0 +1,7 @@
+furniture:chair
+kitchen:bottle
+furniture:dining table
+kitchen:wine glass
+kitchen:bowl
+food:broccoli
+indoor:vase

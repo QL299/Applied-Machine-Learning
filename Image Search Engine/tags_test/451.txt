@@ -1,0 +1,3 @@
+animal:giraffe
+person:person
+vehicle:truck

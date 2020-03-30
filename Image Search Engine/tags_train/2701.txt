@@ -1,0 +1,4 @@
+electronic:tv
+furniture:bed
+furniture:chair
+appliance:sink

@@ -1,0 +1,4 @@
+kitchen:fork
+kitchen:knife
+electronic:laptop
+person:person

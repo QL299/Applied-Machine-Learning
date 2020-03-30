@@ -1,0 +1,5 @@
+furniture:couch
+person:person
+electronic:remote
+furniture:potted plant
+furniture:chair

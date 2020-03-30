@@ -1,0 +1,5 @@
+person:person
+sports:tennis racket
+accessory:handbag
+vehicle:car
+vehicle:truck

@@ -1,0 +1,7 @@
+furniture:potted plant
+furniture:dining table
+vehicle:car
+sports:frisbee
+accessory:handbag
+person:person
+kitchen:cup

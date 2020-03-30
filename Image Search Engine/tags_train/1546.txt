@@ -1,0 +1,6 @@
+person:person
+kitchen:bowl
+food:orange
+kitchen:fork
+food:carrot
+food:cake

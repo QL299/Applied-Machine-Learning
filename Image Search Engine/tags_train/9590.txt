@@ -1,0 +1,4 @@
+furniture:toilet
+appliance:sink
+accessory:handbag
+kitchen:cup

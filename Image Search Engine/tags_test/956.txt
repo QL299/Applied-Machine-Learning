@@ -1,0 +1,4 @@
+electronic:tv
+furniture:dining table
+person:person
+food:cake

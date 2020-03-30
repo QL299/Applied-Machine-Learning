@@ -1,0 +1,4 @@
+furniture:bed
+accessory:backpack
+accessory:suitcase
+accessory:tie

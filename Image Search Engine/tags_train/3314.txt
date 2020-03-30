@@ -1,0 +1,5 @@
+furniture:potted plant
+furniture:dining table
+person:person
+food:cake
+kitchen:knife

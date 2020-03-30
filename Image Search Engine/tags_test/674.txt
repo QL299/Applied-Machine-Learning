@@ -1,0 +1,5 @@
+furniture:dining table
+person:person
+food:pizza
+kitchen:cup
+furniture:chair

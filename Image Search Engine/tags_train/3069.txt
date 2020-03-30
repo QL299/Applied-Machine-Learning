@@ -1,0 +1,6 @@
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+food:donut
+kitchen:cup
+kitchen:bottle

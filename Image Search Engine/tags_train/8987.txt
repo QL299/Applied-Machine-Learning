@@ -1,0 +1,4 @@
+food:broccoli
+kitchen:bowl
+food:carrot
+furniture:dining table

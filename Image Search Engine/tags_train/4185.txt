@@ -1,0 +1,6 @@
+vehicle:train
+person:person
+outdoor:stop sign
+indoor:clock
+outdoor:bench
+furniture:potted plant

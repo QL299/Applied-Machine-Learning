@@ -1,0 +1,3 @@
+indoor:teddy bear
+outdoor:bench
+accessory:backpack

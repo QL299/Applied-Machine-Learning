@@ -1,0 +1,3 @@
+animal:cow
+vehicle:car
+furniture:potted plant

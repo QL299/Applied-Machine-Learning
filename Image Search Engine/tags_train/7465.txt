@@ -1,0 +1,5 @@
+furniture:couch
+furniture:chair
+indoor:book
+indoor:vase
+accessory:handbag

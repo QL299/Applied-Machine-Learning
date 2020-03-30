@@ -1,0 +1,7 @@
+furniture:chair
+furniture:dining table
+kitchen:bowl
+food:banana
+food:broccoli
+food:carrot
+electronic:laptop

@@ -1,0 +1,3 @@
+vehicle:bicycle
+accessory:backpack
+person:person

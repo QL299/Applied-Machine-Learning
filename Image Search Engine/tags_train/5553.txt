@@ -1,0 +1,13 @@
+furniture:potted plant
+appliance:refrigerator
+kitchen:bowl
+food:apple
+food:orange
+appliance:microwave
+appliance:oven
+appliance:toaster
+kitchen:spoon
+furniture:chair
+appliance:sink
+indoor:vase
+furniture:dining table

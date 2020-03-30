@@ -1,0 +1,3 @@
+sports:skateboard
+accessory:backpack
+person:person

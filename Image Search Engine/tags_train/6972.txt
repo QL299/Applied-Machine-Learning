@@ -1,0 +1,6 @@
+furniture:bed
+person:person
+vehicle:car
+outdoor:stop sign
+accessory:handbag
+electronic:cell phone

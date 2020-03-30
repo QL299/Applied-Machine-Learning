@@ -1,0 +1,4 @@
+animal:sheep
+person:person
+animal:horse
+animal:cow

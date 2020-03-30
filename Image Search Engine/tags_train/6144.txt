@@ -1,0 +1,4 @@
+furniture:bed
+indoor:vase
+outdoor:bench
+indoor:book

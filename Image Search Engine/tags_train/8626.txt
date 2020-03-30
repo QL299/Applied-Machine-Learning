@@ -1,0 +1,3 @@
+vehicle:bicycle
+vehicle:car
+outdoor:traffic light

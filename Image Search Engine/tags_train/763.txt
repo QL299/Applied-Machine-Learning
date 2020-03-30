@@ -1,0 +1,5 @@
+food:sandwich
+person:person
+kitchen:bottle
+appliance:oven
+appliance:refrigerator

@@ -1,0 +1,7 @@
+furniture:couch
+person:person
+electronic:laptop
+indoor:book
+electronic:remote
+furniture:bed
+appliance:oven

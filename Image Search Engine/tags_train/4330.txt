@@ -1,0 +1,3 @@
+person:person
+kitchen:cup
+food:donut

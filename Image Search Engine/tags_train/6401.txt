@@ -1,0 +1,3 @@
+animal:bird
+vehicle:motorcycle
+person:person

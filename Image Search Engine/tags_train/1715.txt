@@ -1,0 +1,6 @@
+vehicle:car
+vehicle:bus
+person:person
+accessory:umbrella
+furniture:chair
+accessory:backpack

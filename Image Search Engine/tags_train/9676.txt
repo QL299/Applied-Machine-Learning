@@ -1,0 +1,4 @@
+vehicle:train
+vehicle:boat
+person:person
+accessory:suitcase

@@ -1,0 +1,5 @@
+kitchen:cup
+furniture:dining table
+indoor:teddy bear
+person:person
+furniture:chair

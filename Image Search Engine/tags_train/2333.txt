@@ -1,0 +1,5 @@
+kitchen:bottle
+kitchen:cup
+kitchen:knife
+appliance:oven
+person:person

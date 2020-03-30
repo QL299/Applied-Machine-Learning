@@ -1,0 +1,7 @@
+electronic:tv
+furniture:chair
+furniture:couch
+person:person
+indoor:teddy bear
+indoor:toothbrush
+vehicle:boat

@@ -1,0 +1,11 @@
+electronic:tv
+kitchen:bottle
+furniture:dining table
+furniture:bed
+electronic:cell phone
+appliance:refrigerator
+indoor:book
+furniture:couch
+furniture:potted plant
+furniture:chair
+appliance:microwave

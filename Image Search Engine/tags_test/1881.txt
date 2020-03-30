@@ -1,0 +1,5 @@
+animal:dog
+accessory:backpack
+accessory:suitcase
+furniture:bed
+electronic:tv

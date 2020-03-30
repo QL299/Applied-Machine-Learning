@@ -1,0 +1,5 @@
+indoor:toothbrush
+appliance:sink
+indoor:vase
+kitchen:bowl
+furniture:potted plant

@@ -1,0 +1,3 @@
+accessory:umbrella
+indoor:clock
+indoor:book

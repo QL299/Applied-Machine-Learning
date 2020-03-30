@@ -1,0 +1,4 @@
+vehicle:boat
+person:person
+electronic:cell phone
+vehicle:truck

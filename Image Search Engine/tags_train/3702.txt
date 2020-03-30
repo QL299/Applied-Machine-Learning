@@ -1,0 +1,4 @@
+furniture:bed
+furniture:chair
+electronic:tv
+furniture:couch

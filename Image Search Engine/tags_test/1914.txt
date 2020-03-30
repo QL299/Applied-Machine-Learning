@@ -1,0 +1,7 @@
+furniture:chair
+furniture:dining table
+kitchen:bowl
+food:apple
+appliance:sink
+kitchen:cup
+electronic:tv

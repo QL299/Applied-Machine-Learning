@@ -1,0 +1,5 @@
+kitchen:bottle
+accessory:tie
+electronic:cell phone
+furniture:dining table
+person:person

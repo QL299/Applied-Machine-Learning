@@ -1,0 +1,5 @@
+animal:cat
+person:person
+vehicle:motorcycle
+furniture:chair
+furniture:dining table

@@ -1,0 +1,6 @@
+electronic:tv
+electronic:mouse
+electronic:keyboard
+accessory:handbag
+furniture:chair
+indoor:book

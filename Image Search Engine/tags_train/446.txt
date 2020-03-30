@@ -1,0 +1,5 @@
+vehicle:bus
+outdoor:traffic light
+person:person
+accessory:backpack
+furniture:chair

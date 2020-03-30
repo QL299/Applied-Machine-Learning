@@ -1,0 +1,6 @@
+food:hot dog
+person:person
+food:sandwich
+kitchen:cup
+kitchen:bottle
+vehicle:boat

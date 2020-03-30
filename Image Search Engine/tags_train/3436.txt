@@ -1,0 +1,7 @@
+kitchen:bowl
+accessory:handbag
+person:person
+vehicle:car
+kitchen:spoon
+furniture:potted plant
+food:sandwich

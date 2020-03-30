@@ -1,0 +1,4 @@
+animal:dog
+appliance:sink
+kitchen:bottle
+appliance:oven

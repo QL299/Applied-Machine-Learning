@@ -1,0 +1,4 @@
+furniture:potted plant
+kitchen:wine glass
+indoor:vase
+kitchen:cup

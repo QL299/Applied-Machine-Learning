@@ -1,0 +1,6 @@
+person:person
+vehicle:car
+accessory:backpack
+accessory:handbag
+food:apple
+outdoor:traffic light

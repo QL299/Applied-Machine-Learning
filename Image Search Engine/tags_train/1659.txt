@@ -1,0 +1,3 @@
+food:sandwich
+food:hot dog
+furniture:dining table

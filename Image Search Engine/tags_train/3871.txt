@@ -1,0 +1,7 @@
+furniture:potted plant
+accessory:umbrella
+vehicle:car
+furniture:chair
+outdoor:fire hydrant
+person:person
+vehicle:bicycle

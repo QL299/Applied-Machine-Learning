@@ -1,0 +1,5 @@
+kitchen:knife
+kitchen:bowl
+indoor:book
+food:cake
+furniture:dining table

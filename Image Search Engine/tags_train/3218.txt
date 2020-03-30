@@ -1,0 +1,6 @@
+furniture:dining table
+person:person
+kitchen:bowl
+furniture:bed
+electronic:laptop
+food:donut

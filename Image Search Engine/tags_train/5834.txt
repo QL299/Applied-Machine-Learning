@@ -1,0 +1,7 @@
+kitchen:cup
+kitchen:spoon
+indoor:scissors
+kitchen:bowl
+appliance:oven
+appliance:sink
+kitchen:bottle

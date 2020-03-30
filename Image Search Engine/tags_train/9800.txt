@@ -1,0 +1,6 @@
+furniture:dining table
+kitchen:wine glass
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+food:hot dog

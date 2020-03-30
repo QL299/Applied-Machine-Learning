@@ -1,0 +1,4 @@
+vehicle:car
+furniture:chair
+sports:frisbee
+person:person

@@ -1,0 +1,4 @@
+person:person
+outdoor:fire hydrant
+accessory:backpack
+vehicle:bicycle

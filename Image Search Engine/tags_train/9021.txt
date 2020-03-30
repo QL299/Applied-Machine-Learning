@@ -1,0 +1,4 @@
+accessory:tie
+vehicle:car
+outdoor:parking meter
+person:person

@@ -1,0 +1,4 @@
+accessory:umbrella
+accessory:tie
+person:person
+accessory:handbag

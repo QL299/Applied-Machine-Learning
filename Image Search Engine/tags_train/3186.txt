@@ -1,0 +1,5 @@
+animal:dog
+person:person
+vehicle:motorcycle
+animal:cow
+food:orange

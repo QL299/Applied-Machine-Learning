@@ -1,0 +1,4 @@
+accessory:umbrella
+electronic:cell phone
+indoor:clock
+person:person

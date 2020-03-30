@@ -1,0 +1,5 @@
+appliance:sink
+accessory:suitcase
+kitchen:cup
+kitchen:bottle
+furniture:bed

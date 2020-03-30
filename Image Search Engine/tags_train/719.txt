@@ -1,0 +1,7 @@
+person:person
+electronic:mouse
+electronic:keyboard
+furniture:chair
+indoor:book
+food:pizza
+food:sandwich

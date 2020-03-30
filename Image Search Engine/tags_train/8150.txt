@@ -1,0 +1,5 @@
+sports:tennis racket
+person:person
+furniture:chair
+furniture:potted plant
+outdoor:bench

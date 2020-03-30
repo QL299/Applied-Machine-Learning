@@ -1,0 +1,2 @@
+electronic:remote
+electronic:keyboard

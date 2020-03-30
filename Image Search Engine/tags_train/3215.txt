@@ -1,0 +1,10 @@
+person:person
+appliance:refrigerator
+kitchen:bowl
+food:apple
+food:orange
+appliance:microwave
+accessory:backpack
+furniture:potted plant
+indoor:vase
+kitchen:cup

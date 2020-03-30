@@ -1,0 +1,5 @@
+kitchen:cup
+electronic:laptop
+electronic:remote
+electronic:cell phone
+person:person

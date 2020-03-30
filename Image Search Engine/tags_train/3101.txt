@@ -1,0 +1,9 @@
+furniture:potted plant
+kitchen:bottle
+electronic:cell phone
+indoor:clock
+kitchen:bowl
+electronic:remote
+indoor:book
+indoor:vase
+kitchen:cup

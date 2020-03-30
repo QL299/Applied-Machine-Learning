@@ -1,0 +1,5 @@
+person:person
+kitchen:bowl
+food:broccoli
+furniture:chair
+furniture:dining table

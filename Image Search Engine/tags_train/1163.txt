@@ -1,0 +1,4 @@
+kitchen:bowl
+food:broccoli
+food:carrot
+food:apple

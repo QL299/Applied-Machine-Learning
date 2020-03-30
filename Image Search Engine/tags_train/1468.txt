@@ -1,0 +1,9 @@
+kitchen:bottle
+kitchen:wine glass
+kitchen:cup
+kitchen:knife
+food:apple
+appliance:sink
+kitchen:bowl
+appliance:oven
+person:person

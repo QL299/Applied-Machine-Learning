@@ -1,0 +1,4 @@
+accessory:umbrella
+person:person
+vehicle:truck
+vehicle:car

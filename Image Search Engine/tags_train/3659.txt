@@ -1,0 +1,4 @@
+electronic:cell phone
+kitchen:wine glass
+electronic:laptop
+kitchen:cup

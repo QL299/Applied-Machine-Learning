@@ -1,0 +1,6 @@
+furniture:couch
+vehicle:car
+furniture:chair
+person:person
+outdoor:fire hydrant
+accessory:suitcase

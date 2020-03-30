@@ -1,0 +1,5 @@
+person:person
+sports:skateboard
+vehicle:motorcycle
+accessory:handbag
+vehicle:train

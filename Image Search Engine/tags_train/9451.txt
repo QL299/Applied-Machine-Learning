@@ -1,0 +1,6 @@
+appliance:refrigerator
+person:person
+appliance:oven
+kitchen:knife
+kitchen:cup
+kitchen:spoon

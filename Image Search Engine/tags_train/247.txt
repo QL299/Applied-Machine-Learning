@@ -1,0 +1,4 @@
+person:person
+electronic:remote
+indoor:book
+electronic:mouse

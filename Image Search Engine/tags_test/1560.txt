@@ -1,0 +1,3 @@
+animal:sheep
+indoor:scissors
+person:person

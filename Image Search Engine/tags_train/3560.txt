@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+food:donut
+furniture:dining table

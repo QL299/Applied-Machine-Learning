@@ -1,0 +1,6 @@
+person:person
+kitchen:spoon
+appliance:microwave
+kitchen:fork
+kitchen:knife
+indoor:clock

@@ -1,0 +1,3 @@
+furniture:toilet
+furniture:potted plant
+appliance:sink

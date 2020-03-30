@@ -1,0 +1,5 @@
+kitchen:bottle
+appliance:microwave
+indoor:clock
+indoor:teddy bear
+furniture:potted plant

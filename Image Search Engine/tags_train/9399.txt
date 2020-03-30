@@ -1,0 +1,7 @@
+person:person
+outdoor:bench
+vehicle:truck
+accessory:umbrella
+sports:kite
+furniture:chair
+furniture:dining table

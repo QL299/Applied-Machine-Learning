@@ -1,0 +1,5 @@
+kitchen:bowl
+kitchen:knife
+food:sandwich
+furniture:dining table
+food:hot dog

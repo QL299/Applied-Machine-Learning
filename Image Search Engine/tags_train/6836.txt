@@ -1,0 +1,4 @@
+indoor:scissors
+person:person
+kitchen:bottle
+electronic:tv

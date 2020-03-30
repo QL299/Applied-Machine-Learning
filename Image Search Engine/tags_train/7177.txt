@@ -1,0 +1,3 @@
+appliance:refrigerator
+vehicle:airplane
+person:person

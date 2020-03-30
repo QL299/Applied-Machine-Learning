@@ -1,0 +1,4 @@
+kitchen:bottle
+electronic:keyboard
+indoor:book
+indoor:teddy bear

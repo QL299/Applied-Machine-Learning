@@ -1,0 +1,4 @@
+indoor:clock
+furniture:chair
+electronic:laptop
+indoor:book

@@ -1,0 +1,3 @@
+kitchen:wine glass
+food:broccoli
+furniture:dining table

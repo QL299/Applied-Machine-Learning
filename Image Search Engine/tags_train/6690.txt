@@ -1,0 +1,8 @@
+accessory:umbrella
+furniture:chair
+furniture:dining table
+person:person
+kitchen:cup
+kitchen:bowl
+kitchen:spoon
+food:donut

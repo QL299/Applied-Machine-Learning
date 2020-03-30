@@ -1,0 +1,3 @@
+outdoor:bench
+accessory:backpack
+person:person

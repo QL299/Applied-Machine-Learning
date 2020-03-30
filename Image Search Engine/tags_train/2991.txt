@@ -1,0 +1,5 @@
+animal:cat
+indoor:scissors
+kitchen:bowl
+appliance:refrigerator
+appliance:microwave

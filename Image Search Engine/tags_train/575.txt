@@ -1,0 +1,4 @@
+person:person
+vehicle:car
+outdoor:bench
+sports:skis

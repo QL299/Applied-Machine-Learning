@@ -1,0 +1,6 @@
+furniture:chair
+furniture:dining table
+vehicle:bicycle
+person:person
+accessory:umbrella
+accessory:handbag

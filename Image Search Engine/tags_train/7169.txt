@@ -1,0 +1,3 @@
+kitchen:cup
+indoor:vase
+vehicle:car

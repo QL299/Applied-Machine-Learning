@@ -1,0 +1,4 @@
+indoor:scissors
+person:person
+accessory:handbag
+vehicle:bicycle

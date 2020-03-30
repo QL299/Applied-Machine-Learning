@@ -1,0 +1,6 @@
+food:apple
+food:broccoli
+kitchen:cup
+kitchen:bowl
+food:orange
+kitchen:spoon

@@ -1,0 +1,3 @@
+animal:elephant
+accessory:handbag
+person:person

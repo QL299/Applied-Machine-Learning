@@ -1,0 +1,4 @@
+furniture:bed
+indoor:book
+indoor:vase
+electronic:tv

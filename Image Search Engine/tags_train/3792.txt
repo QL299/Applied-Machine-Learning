@@ -1,0 +1,9 @@
+electronic:tv
+furniture:couch
+vehicle:bicycle
+kitchen:bowl
+indoor:book
+furniture:chair
+electronic:mouse
+electronic:keyboard
+appliance:refrigerator

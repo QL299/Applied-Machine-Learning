@@ -1,0 +1,6 @@
+person:person
+kitchen:fork
+kitchen:knife
+food:sandwich
+kitchen:spoon
+kitchen:bowl

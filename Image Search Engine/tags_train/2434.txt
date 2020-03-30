@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+kitchen:wine glass
+food:pizza

@@ -1,0 +1,3 @@
+kitchen:bowl
+indoor:vase
+food:apple

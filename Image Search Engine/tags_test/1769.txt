@@ -1,0 +1,5 @@
+animal:horse
+person:person
+vehicle:car
+vehicle:bus
+indoor:book

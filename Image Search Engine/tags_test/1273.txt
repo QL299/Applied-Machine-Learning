@@ -1,0 +1,4 @@
+electronic:tv
+person:person
+electronic:remote
+indoor:vase

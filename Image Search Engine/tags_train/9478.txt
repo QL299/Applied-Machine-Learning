@@ -1,0 +1,3 @@
+vehicle:car
+outdoor:traffic light
+outdoor:fire hydrant

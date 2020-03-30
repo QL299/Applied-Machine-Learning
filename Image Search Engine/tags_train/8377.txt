@@ -1,0 +1,4 @@
+person:person
+kitchen:spoon
+kitchen:wine glass
+kitchen:cup

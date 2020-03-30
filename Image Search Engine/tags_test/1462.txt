@@ -1,0 +1,7 @@
+accessory:tie
+person:person
+food:pizza
+furniture:chair
+vehicle:car
+electronic:tv
+indoor:clock

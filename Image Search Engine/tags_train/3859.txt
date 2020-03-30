@@ -1,0 +1,7 @@
+kitchen:bottle
+food:sandwich
+kitchen:cup
+kitchen:spoon
+kitchen:bowl
+kitchen:knife
+food:donut

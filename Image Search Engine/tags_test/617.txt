@@ -1,0 +1,4 @@
+kitchen:bottle
+sports:kite
+person:person
+accessory:backpack

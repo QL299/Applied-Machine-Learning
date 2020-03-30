@@ -1,0 +1,5 @@
+furniture:bed
+person:person
+electronic:laptop
+furniture:chair
+electronic:keyboard

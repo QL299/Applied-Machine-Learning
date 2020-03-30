@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:dining table
+kitchen:fork
+food:broccoli
+indoor:scissors
+food:sandwich
+food:carrot

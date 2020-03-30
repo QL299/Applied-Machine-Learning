@@ -1,0 +1,4 @@
+person:person
+sports:baseball bat
+accessory:backpack
+sports:baseball glove

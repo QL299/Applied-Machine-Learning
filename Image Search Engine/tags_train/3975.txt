@@ -1,0 +1,3 @@
+kitchen:cup
+food:cake
+furniture:dining table

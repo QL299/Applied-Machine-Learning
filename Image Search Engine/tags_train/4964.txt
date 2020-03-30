@@ -1,0 +1,3 @@
+appliance:refrigerator
+indoor:teddy bear
+food:pizza

@@ -1,0 +1,8 @@
+kitchen:bottle
+food:apple
+food:broccoli
+food:carrot
+appliance:oven
+appliance:sink
+furniture:dining table
+kitchen:cup

@@ -1,0 +1,2 @@
+vehicle:bus
+outdoor:traffic light

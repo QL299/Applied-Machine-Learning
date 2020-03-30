@@ -1,0 +1,10 @@
+kitchen:bottle
+appliance:refrigerator
+furniture:chair
+furniture:dining table
+appliance:sink
+kitchen:knife
+kitchen:bowl
+furniture:potted plant
+indoor:vase
+appliance:oven

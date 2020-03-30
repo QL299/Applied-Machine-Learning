@@ -1,0 +1,7 @@
+animal:cat
+kitchen:bottle
+furniture:potted plant
+electronic:cell phone
+electronic:laptop
+kitchen:cup
+indoor:book

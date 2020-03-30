@@ -1,0 +1,2 @@
+furniture:chair
+indoor:teddy bear

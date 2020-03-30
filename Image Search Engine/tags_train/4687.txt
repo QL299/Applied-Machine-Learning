@@ -1,0 +1,6 @@
+furniture:chair
+furniture:dining table
+person:person
+electronic:laptop
+kitchen:cup
+electronic:tv

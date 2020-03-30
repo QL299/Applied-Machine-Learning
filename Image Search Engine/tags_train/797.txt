@@ -1,0 +1,4 @@
+kitchen:cup
+appliance:microwave
+appliance:oven
+appliance:sink

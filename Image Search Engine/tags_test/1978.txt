@@ -1,0 +1,2 @@
+animal:cat
+appliance:oven

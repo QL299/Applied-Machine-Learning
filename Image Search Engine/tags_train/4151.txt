@@ -1,0 +1,4 @@
+accessory:umbrella
+person:person
+outdoor:stop sign
+accessory:handbag

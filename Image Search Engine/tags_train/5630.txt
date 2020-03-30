@@ -1,0 +1,2 @@
+electronic:laptop
+kitchen:wine glass

@@ -1,0 +1,4 @@
+animal:dog
+accessory:handbag
+food:donut
+accessory:backpack

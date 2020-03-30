@@ -1,0 +1,5 @@
+person:person
+kitchen:fork
+appliance:oven
+kitchen:bowl
+appliance:refrigerator

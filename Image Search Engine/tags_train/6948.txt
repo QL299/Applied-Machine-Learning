@@ -1,0 +1,5 @@
+vehicle:bicycle
+person:person
+accessory:backpack
+furniture:chair
+furniture:dining table

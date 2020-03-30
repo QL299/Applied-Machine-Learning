@@ -1,0 +1,4 @@
+kitchen:cup
+food:banana
+indoor:book
+food:pizza

@@ -1,0 +1,4 @@
+vehicle:motorcycle
+furniture:chair
+person:person
+vehicle:bicycle

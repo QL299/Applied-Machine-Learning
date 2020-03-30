@@ -1,0 +1,5 @@
+vehicle:bicycle
+person:person
+outdoor:bench
+kitchen:cup
+furniture:dining table

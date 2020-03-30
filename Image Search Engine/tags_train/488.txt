@@ -1,0 +1,7 @@
+furniture:chair
+furniture:couch
+person:person
+kitchen:wine glass
+indoor:book
+furniture:dining table
+animal:bird

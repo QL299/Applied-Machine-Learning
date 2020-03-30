@@ -1,0 +1,6 @@
+animal:dog
+furniture:potted plant
+furniture:chair
+furniture:couch
+furniture:dining table
+indoor:teddy bear

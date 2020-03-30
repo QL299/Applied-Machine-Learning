@@ -1,0 +1,7 @@
+person:person
+food:donut
+kitchen:bottle
+food:cake
+appliance:microwave
+indoor:book
+furniture:dining table

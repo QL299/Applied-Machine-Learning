@@ -1,0 +1,7 @@
+animal:cow
+furniture:couch
+furniture:chair
+vehicle:car
+person:person
+outdoor:traffic light
+furniture:dining table

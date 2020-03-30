@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:chair
+person:person
+sports:tennis racket
+accessory:handbag

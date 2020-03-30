@@ -1,0 +1,5 @@
+person:person
+kitchen:fork
+kitchen:spoon
+food:donut
+food:cake

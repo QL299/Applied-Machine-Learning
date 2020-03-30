@@ -1,0 +1,4 @@
+electronic:tv
+electronic:laptop
+electronic:mouse
+indoor:book

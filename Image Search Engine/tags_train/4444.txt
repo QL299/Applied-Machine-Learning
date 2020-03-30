@@ -1,0 +1,5 @@
+accessory:umbrella
+person:person
+animal:dog
+accessory:backpack
+accessory:handbag

@@ -1,0 +1,5 @@
+kitchen:bottle
+appliance:refrigerator
+food:apple
+food:carrot
+food:orange

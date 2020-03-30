@@ -1,0 +1,9 @@
+furniture:chair
+person:person
+kitchen:wine glass
+kitchen:fork
+kitchen:knife
+kitchen:bowl
+food:pizza
+electronic:laptop
+electronic:mouse

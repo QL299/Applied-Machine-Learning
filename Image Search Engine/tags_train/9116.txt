@@ -1,0 +1,7 @@
+indoor:clock
+person:person
+vehicle:car
+vehicle:bicycle
+outdoor:traffic light
+accessory:handbag
+vehicle:truck

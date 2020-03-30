@@ -1,0 +1,6 @@
+vehicle:car
+vehicle:motorcycle
+vehicle:train
+person:person
+accessory:umbrella
+vehicle:truck

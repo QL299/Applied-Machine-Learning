@@ -1,0 +1,4 @@
+kitchen:bottle
+indoor:clock
+appliance:toaster
+kitchen:bowl

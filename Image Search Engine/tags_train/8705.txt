@@ -1,0 +1,3 @@
+electronic:tv
+electronic:remote
+person:person

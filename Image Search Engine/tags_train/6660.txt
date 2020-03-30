@@ -1,0 +1,7 @@
+vehicle:car
+person:person
+vehicle:truck
+outdoor:bench
+indoor:book
+vehicle:bicycle
+furniture:potted plant

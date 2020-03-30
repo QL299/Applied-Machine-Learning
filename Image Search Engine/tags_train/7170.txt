@@ -1,0 +1,10 @@
+kitchen:bottle
+electronic:cell phone
+furniture:chair
+furniture:dining table
+electronic:laptop
+accessory:backpack
+person:person
+accessory:handbag
+electronic:tv
+electronic:keyboard

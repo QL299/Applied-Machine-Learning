@@ -1,0 +1,12 @@
+electronic:tv
+kitchen:bottle
+furniture:dining table
+person:person
+food:sandwich
+furniture:chair
+electronic:remote
+indoor:book
+food:carrot
+food:pizza
+indoor:vase
+kitchen:fork

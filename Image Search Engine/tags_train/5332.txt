@@ -1,0 +1,6 @@
+person:person
+kitchen:knife
+food:pizza
+kitchen:cup
+kitchen:bowl
+furniture:dining table

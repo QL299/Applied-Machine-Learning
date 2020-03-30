@@ -1,0 +1,5 @@
+vehicle:boat
+accessory:umbrella
+person:person
+accessory:handbag
+indoor:clock

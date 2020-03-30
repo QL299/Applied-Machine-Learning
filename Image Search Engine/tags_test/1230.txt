@@ -1,0 +1,4 @@
+person:person
+food:carrot
+accessory:handbag
+food:broccoli

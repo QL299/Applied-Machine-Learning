@@ -1,0 +1,7 @@
+vehicle:car
+vehicle:bus
+person:person
+vehicle:truck
+outdoor:bench
+vehicle:bicycle
+indoor:clock

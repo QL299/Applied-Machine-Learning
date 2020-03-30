@@ -1,0 +1,3 @@
+person:person
+indoor:book
+kitchen:cup

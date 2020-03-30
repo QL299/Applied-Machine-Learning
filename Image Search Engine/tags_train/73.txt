@@ -1,0 +1,4 @@
+accessory:umbrella
+outdoor:traffic light
+person:person
+accessory:handbag

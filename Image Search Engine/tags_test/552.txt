@@ -1,0 +1,4 @@
+furniture:bed
+sports:skateboard
+furniture:potted plant
+indoor:clock

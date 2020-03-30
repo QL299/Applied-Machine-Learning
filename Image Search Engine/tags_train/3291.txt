@@ -1,0 +1,7 @@
+kitchen:bottle
+electronic:cell phone
+person:person
+kitchen:wine glass
+kitchen:knife
+food:pizza
+kitchen:fork

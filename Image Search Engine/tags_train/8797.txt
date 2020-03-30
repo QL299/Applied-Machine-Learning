@@ -1,0 +1,6 @@
+furniture:chair
+outdoor:bench
+electronic:laptop
+person:person
+furniture:dining table
+accessory:backpack

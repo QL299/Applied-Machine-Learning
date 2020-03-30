@@ -1,0 +1,8 @@
+kitchen:bottle
+furniture:chair
+furniture:couch
+furniture:dining table
+kitchen:cup
+appliance:toaster
+indoor:book
+indoor:vase

@@ -1,0 +1,4 @@
+indoor:clock
+furniture:chair
+furniture:dining table
+person:person

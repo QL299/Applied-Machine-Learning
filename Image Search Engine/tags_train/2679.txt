@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:dining table
+kitchen:cup
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+food:carrot

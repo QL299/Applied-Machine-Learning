@@ -1,0 +1,5 @@
+furniture:bed
+indoor:clock
+person:person
+electronic:laptop
+kitchen:cup

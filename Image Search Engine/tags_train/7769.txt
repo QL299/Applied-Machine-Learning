@@ -1,0 +1,4 @@
+sports:kite
+person:person
+accessory:handbag
+animal:dog

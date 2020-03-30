@@ -1,0 +1,3 @@
+food:apple
+accessory:handbag
+person:person

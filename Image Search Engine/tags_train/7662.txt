@@ -1,0 +1,11 @@
+kitchen:bottle
+furniture:chair
+furniture:couch
+indoor:clock
+electronic:keyboard
+kitchen:cup
+furniture:bed
+electronic:mouse
+indoor:book
+electronic:tv
+accessory:umbrella

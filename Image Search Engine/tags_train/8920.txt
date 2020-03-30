@@ -1,0 +1,4 @@
+person:person
+animal:elephant
+food:apple
+accessory:handbag

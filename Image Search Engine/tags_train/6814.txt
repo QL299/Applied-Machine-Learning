@@ -1,0 +1,7 @@
+vehicle:car
+person:person
+outdoor:bench
+kitchen:bowl
+food:donut
+accessory:handbag
+kitchen:cup

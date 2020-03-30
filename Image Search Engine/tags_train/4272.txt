@@ -1,0 +1,3 @@
+food:carrot
+food:broccoli
+furniture:dining table

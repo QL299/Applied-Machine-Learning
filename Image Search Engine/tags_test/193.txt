@@ -1,0 +1,5 @@
+furniture:potted plant
+furniture:couch
+furniture:dining table
+furniture:chair
+indoor:book

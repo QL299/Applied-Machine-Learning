@@ -1,0 +1,9 @@
+accessory:tie
+electronic:cell phone
+furniture:chair
+person:person
+kitchen:wine glass
+kitchen:cup
+kitchen:spoon
+kitchen:fork
+furniture:dining table

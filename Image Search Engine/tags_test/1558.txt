@@ -1,0 +1,5 @@
+accessory:tie
+electronic:laptop
+person:person
+furniture:chair
+kitchen:cup

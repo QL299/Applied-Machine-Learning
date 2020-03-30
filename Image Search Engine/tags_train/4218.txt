@@ -1,0 +1,3 @@
+animal:bear
+food:cake
+food:apple

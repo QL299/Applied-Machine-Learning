@@ -1,0 +1,5 @@
+appliance:refrigerator
+indoor:clock
+person:person
+appliance:oven
+accessory:handbag

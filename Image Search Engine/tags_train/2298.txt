@@ -1,0 +1,6 @@
+appliance:refrigerator
+furniture:chair
+furniture:dining table
+person:person
+appliance:oven
+kitchen:cup

@@ -1,0 +1,3 @@
+animal:dog
+person:person
+indoor:toothbrush

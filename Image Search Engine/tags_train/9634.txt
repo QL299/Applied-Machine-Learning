@@ -1,0 +1,4 @@
+furniture:chair
+furniture:dining table
+accessory:umbrella
+vehicle:boat

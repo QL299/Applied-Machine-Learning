@@ -1,0 +1,4 @@
+person:person
+food:orange
+indoor:vase
+furniture:potted plant

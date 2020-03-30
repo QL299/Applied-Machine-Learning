@@ -1,0 +1,4 @@
+indoor:teddy bear
+food:cake
+furniture:chair
+furniture:couch

@@ -1,0 +1,7 @@
+furniture:chair
+person:person
+food:pizza
+accessory:handbag
+kitchen:bottle
+sports:sports ball
+furniture:dining table

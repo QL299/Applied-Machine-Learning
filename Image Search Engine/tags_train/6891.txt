@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+accessory:handbag
+furniture:potted plant

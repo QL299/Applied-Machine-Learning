@@ -1,0 +1,3 @@
+outdoor:fire hydrant
+outdoor:traffic light
+person:person

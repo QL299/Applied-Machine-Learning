@@ -1,0 +1,7 @@
+electronic:tv
+furniture:couch
+kitchen:bowl
+electronic:cell phone
+indoor:book
+outdoor:bench
+furniture:dining table

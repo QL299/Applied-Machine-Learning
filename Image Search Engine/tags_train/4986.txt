@@ -1,0 +1,7 @@
+animal:dog
+vehicle:car
+furniture:chair
+person:person
+accessory:handbag
+vehicle:motorcycle
+vehicle:truck

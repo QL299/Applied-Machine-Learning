@@ -1,0 +1,4 @@
+electronic:tv
+kitchen:cup
+indoor:vase
+person:person

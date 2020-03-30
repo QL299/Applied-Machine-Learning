@@ -1,0 +1,5 @@
+person:person
+electronic:laptop
+accessory:suitcase
+furniture:chair
+furniture:couch

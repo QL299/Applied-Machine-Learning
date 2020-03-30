@@ -1,0 +1,3 @@
+sports:surfboard
+person:person
+furniture:bed

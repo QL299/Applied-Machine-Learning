@@ -1,0 +1,7 @@
+animal:dog
+person:person
+sports:kite
+accessory:backpack
+accessory:handbag
+kitchen:bottle
+accessory:umbrella

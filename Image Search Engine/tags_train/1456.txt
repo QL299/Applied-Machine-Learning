@@ -1,0 +1,6 @@
+animal:cat
+person:person
+kitchen:cup
+electronic:laptop
+electronic:remote
+furniture:potted plant

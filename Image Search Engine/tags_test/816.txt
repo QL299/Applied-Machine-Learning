@@ -1,0 +1,4 @@
+electronic:laptop
+indoor:book
+furniture:dining table
+kitchen:spoon

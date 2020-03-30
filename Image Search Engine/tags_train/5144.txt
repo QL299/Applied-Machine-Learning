@@ -1,0 +1,6 @@
+vehicle:car
+person:person
+outdoor:bench
+kitchen:cup
+food:pizza
+accessory:handbag

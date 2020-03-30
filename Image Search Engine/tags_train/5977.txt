@@ -1,0 +1,5 @@
+electronic:tv
+kitchen:spoon
+kitchen:bowl
+appliance:toaster
+person:person

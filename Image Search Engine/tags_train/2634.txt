@@ -1,0 +1,6 @@
+animal:bird
+vehicle:boat
+person:person
+electronic:cell phone
+accessory:backpack
+accessory:handbag

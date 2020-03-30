@@ -1,0 +1,6 @@
+sports:kite
+accessory:backpack
+person:person
+vehicle:car
+vehicle:bus
+accessory:handbag

@@ -1,0 +1,8 @@
+kitchen:fork
+kitchen:knife
+indoor:teddy bear
+kitchen:cup
+furniture:chair
+furniture:dining table
+indoor:vase
+person:person

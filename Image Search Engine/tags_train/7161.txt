@@ -1,0 +1,11 @@
+furniture:chair
+kitchen:fork
+kitchen:knife
+food:pizza
+kitchen:cup
+furniture:potted plant
+furniture:dining table
+kitchen:bottle
+kitchen:wine glass
+kitchen:bowl
+person:person

@@ -1,0 +1,3 @@
+person:person
+kitchen:bowl
+vehicle:boat

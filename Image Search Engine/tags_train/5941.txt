@@ -1,0 +1,3 @@
+appliance:sink
+kitchen:bottle
+animal:cat

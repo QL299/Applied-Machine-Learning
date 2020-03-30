@@ -1,0 +1,6 @@
+person:person
+accessory:backpack
+accessory:handbag
+accessory:umbrella
+accessory:suitcase
+sports:frisbee

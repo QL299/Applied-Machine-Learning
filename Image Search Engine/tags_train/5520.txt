@@ -1,0 +1,8 @@
+vehicle:car
+vehicle:bus
+person:person
+accessory:backpack
+accessory:handbag
+outdoor:traffic light
+electronic:cell phone
+outdoor:stop sign

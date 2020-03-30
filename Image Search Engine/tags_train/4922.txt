@@ -1,0 +1,4 @@
+kitchen:knife
+food:orange
+kitchen:cup
+furniture:dining table

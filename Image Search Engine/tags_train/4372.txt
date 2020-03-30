@@ -1,0 +1,6 @@
+animal:horse
+vehicle:car
+vehicle:bus
+person:person
+accessory:handbag
+vehicle:truck

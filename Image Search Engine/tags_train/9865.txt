@@ -1,0 +1,5 @@
+food:sandwich
+furniture:chair
+kitchen:cup
+furniture:dining table
+food:hot dog

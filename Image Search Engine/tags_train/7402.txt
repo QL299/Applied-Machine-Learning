@@ -1,0 +1,4 @@
+animal:horse
+vehicle:bicycle
+person:person
+sports:baseball glove

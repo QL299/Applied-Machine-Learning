@@ -1,0 +1,8 @@
+animal:dog
+kitchen:bottle
+person:person
+appliance:refrigerator
+appliance:oven
+kitchen:knife
+appliance:sink
+kitchen:bowl

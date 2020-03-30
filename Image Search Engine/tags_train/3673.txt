@@ -1,0 +1,3 @@
+sports:baseball glove
+person:person
+outdoor:bench

@@ -1,0 +1,7 @@
+person:person
+kitchen:knife
+kitchen:bowl
+kitchen:cup
+kitchen:spoon
+furniture:dining table
+electronic:cell phone

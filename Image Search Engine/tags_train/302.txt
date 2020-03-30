@@ -1,0 +1,9 @@
+electronic:tv
+furniture:couch
+furniture:chair
+appliance:refrigerator
+indoor:clock
+electronic:remote
+accessory:handbag
+electronic:cell phone
+indoor:book

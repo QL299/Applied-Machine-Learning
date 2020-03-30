@@ -1,0 +1,7 @@
+kitchen:bottle
+kitchen:fork
+kitchen:knife
+food:pizza
+person:person
+kitchen:bowl
+accessory:handbag

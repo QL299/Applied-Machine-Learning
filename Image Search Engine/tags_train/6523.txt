@@ -1,0 +1,9 @@
+person:person
+indoor:book
+accessory:backpack
+kitchen:wine glass
+kitchen:fork
+kitchen:knife
+furniture:chair
+kitchen:bottle
+furniture:dining table

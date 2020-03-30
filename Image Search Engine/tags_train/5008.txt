@@ -1,0 +1,3 @@
+electronic:cell phone
+indoor:teddy bear
+electronic:tv

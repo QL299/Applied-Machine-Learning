@@ -1,0 +1,7 @@
+kitchen:bottle
+vehicle:motorcycle
+person:person
+accessory:backpack
+vehicle:truck
+sports:sports ball
+accessory:handbag

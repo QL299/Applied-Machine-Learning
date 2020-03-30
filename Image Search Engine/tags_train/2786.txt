@@ -1,0 +1,10 @@
+vehicle:motorcycle
+person:person
+food:apple
+accessory:handbag
+vehicle:bicycle
+animal:dog
+accessory:backpack
+food:banana
+vehicle:car
+accessory:umbrella

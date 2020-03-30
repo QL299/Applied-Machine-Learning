@@ -1,0 +1,4 @@
+person:person
+outdoor:bench
+accessory:handbag
+indoor:book

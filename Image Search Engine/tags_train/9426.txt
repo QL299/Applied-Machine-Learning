@@ -1,0 +1,4 @@
+kitchen:fork
+kitchen:knife
+food:broccoli
+furniture:dining table

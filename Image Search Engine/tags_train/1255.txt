@@ -1,0 +1,6 @@
+furniture:potted plant
+food:sandwich
+kitchen:cup
+kitchen:bottle
+furniture:dining table
+indoor:book

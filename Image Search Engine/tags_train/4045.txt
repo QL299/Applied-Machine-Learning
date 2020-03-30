@@ -1,0 +1,5 @@
+sports:sports ball
+person:person
+outdoor:bench
+accessory:umbrella
+furniture:chair

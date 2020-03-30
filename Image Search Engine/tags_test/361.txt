@@ -1,0 +1,4 @@
+person:person
+outdoor:bench
+sports:snowboard
+sports:skateboard

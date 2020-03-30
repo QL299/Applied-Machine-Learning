@@ -1,0 +1,8 @@
+accessory:umbrella
+person:person
+accessory:handbag
+furniture:chair
+furniture:potted plant
+vehicle:car
+kitchen:cup
+furniture:dining table

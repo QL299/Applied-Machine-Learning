@@ -1,0 +1,4 @@
+indoor:clock
+electronic:laptop
+indoor:book
+indoor:teddy bear

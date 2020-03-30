@@ -1,0 +1,7 @@
+appliance:refrigerator
+furniture:chair
+person:person
+appliance:oven
+appliance:sink
+accessory:handbag
+accessory:backpack

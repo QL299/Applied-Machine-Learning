@@ -1,0 +1,6 @@
+furniture:dining table
+kitchen:cup
+kitchen:knife
+food:cake
+kitchen:bowl
+person:person

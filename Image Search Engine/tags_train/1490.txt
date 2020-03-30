@@ -1,0 +1,5 @@
+person:person
+vehicle:bus
+outdoor:stop sign
+accessory:handbag
+vehicle:bicycle

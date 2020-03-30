@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+electronic:remote
+person:person
+furniture:dining table
+appliance:refrigerator

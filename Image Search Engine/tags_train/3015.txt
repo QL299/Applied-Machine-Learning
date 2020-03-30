@@ -1,0 +1,5 @@
+person:person
+kitchen:cup
+food:banana
+indoor:book
+food:donut

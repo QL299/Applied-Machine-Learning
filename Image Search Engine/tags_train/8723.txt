@@ -1,0 +1,4 @@
+electronic:tv
+animal:cat
+person:person
+kitchen:cup

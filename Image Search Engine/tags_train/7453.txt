@@ -1,0 +1,3 @@
+animal:dog
+electronic:remote
+furniture:couch

@@ -1,0 +1,5 @@
+accessory:tie
+vehicle:car
+indoor:scissors
+person:person
+vehicle:truck

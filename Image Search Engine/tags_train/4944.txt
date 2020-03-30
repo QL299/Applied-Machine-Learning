@@ -1,0 +1,4 @@
+furniture:chair
+sports:kite
+accessory:backpack
+person:person

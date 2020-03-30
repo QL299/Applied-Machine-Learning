@@ -1,0 +1,6 @@
+animal:cow
+accessory:backpack
+accessory:handbag
+accessory:suitcase
+person:person
+electronic:cell phone

@@ -1,0 +1,3 @@
+indoor:toothbrush
+person:person
+kitchen:bottle

@@ -1,0 +1,3 @@
+kitchen:bowl
+furniture:dining table
+kitchen:cup

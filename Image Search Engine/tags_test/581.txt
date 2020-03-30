@@ -1,0 +1,2 @@
+vehicle:train
+person:person

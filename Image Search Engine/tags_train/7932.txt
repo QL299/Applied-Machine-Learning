@@ -1,0 +1,6 @@
+electronic:tv
+animal:cat
+furniture:chair
+indoor:book
+accessory:backpack
+furniture:dining table

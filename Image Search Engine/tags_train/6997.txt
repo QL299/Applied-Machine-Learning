@@ -1,0 +1,5 @@
+furniture:couch
+person:person
+accessory:handbag
+accessory:suitcase
+kitchen:bottle

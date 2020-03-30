@@ -1,0 +1,3 @@
+electronic:cell phone
+kitchen:cup
+furniture:dining table

@@ -1,0 +1,4 @@
+electronic:laptop
+outdoor:bench
+person:person
+furniture:dining table

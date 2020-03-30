@@ -1,0 +1,4 @@
+person:person
+kitchen:bowl
+food:hot dog
+kitchen:cup

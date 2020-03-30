@@ -1,0 +1,6 @@
+food:sandwich
+furniture:chair
+furniture:dining table
+kitchen:fork
+kitchen:knife
+food:hot dog

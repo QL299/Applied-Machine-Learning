@@ -1,0 +1,9 @@
+kitchen:bottle
+person:person
+food:hot dog
+accessory:backpack
+accessory:handbag
+kitchen:cup
+furniture:dining table
+furniture:chair
+food:sandwich

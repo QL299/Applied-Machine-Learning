@@ -1,0 +1,5 @@
+vehicle:car
+person:person
+sports:baseball bat
+sports:baseball glove
+vehicle:truck

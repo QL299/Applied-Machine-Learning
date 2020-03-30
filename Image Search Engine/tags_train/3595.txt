@@ -1,0 +1,4 @@
+person:person
+kitchen:cup
+food:banana
+food:apple

@@ -1,0 +1,8 @@
+appliance:refrigerator
+kitchen:bowl
+food:apple
+appliance:microwave
+appliance:oven
+appliance:sink
+indoor:book
+indoor:vase

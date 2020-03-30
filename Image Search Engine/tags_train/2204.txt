@@ -1,0 +1,5 @@
+outdoor:stop sign
+accessory:handbag
+accessory:suitcase
+accessory:backpack
+person:person

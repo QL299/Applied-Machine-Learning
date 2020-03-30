@@ -1,0 +1,9 @@
+appliance:refrigerator
+furniture:chair
+furniture:couch
+person:person
+electronic:laptop
+appliance:oven
+kitchen:bottle
+electronic:keyboard
+electronic:cell phone

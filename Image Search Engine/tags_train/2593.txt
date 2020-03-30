@@ -1,0 +1,4 @@
+indoor:teddy bear
+furniture:chair
+kitchen:knife
+furniture:dining table

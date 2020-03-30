@@ -1,0 +1,4 @@
+furniture:couch
+person:person
+accessory:handbag
+electronic:remote

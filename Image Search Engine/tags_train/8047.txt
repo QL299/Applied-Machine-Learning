@@ -1,0 +1,2 @@
+appliance:oven
+indoor:clock

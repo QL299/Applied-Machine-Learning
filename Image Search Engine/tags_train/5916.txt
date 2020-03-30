@@ -1,0 +1,3 @@
+food:broccoli
+food:sandwich
+furniture:dining table

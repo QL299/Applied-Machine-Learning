@@ -1,0 +1,4 @@
+furniture:couch
+furniture:chair
+person:person
+electronic:remote

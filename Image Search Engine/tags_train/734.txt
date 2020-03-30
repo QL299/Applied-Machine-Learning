@@ -1,0 +1,5 @@
+electronic:cell phone
+electronic:laptop
+furniture:bed
+electronic:tv
+electronic:mouse

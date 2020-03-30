@@ -1,0 +1,5 @@
+electronic:tv
+person:person
+electronic:cell phone
+furniture:chair
+electronic:laptop

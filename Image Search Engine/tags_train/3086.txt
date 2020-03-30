@@ -1,0 +1,4 @@
+electronic:cell phone
+electronic:mouse
+electronic:keyboard
+electronic:laptop

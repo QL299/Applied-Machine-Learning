@@ -1,0 +1,6 @@
+kitchen:bottle
+food:sandwich
+kitchen:cup
+kitchen:bowl
+kitchen:fork
+food:carrot

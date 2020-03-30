@@ -1,0 +1,3 @@
+person:person
+outdoor:bench
+vehicle:bicycle

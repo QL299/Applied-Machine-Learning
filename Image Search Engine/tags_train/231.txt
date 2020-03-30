@@ -1,0 +1,4 @@
+outdoor:bench
+indoor:teddy bear
+furniture:chair
+person:person

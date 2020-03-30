@@ -1,0 +1,5 @@
+person:person
+sports:baseball bat
+sports:baseball glove
+kitchen:cup
+furniture:chair

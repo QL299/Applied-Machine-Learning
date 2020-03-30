@@ -1,0 +1,5 @@
+electronic:tv
+animal:cat
+kitchen:bottle
+furniture:dining table
+electronic:laptop

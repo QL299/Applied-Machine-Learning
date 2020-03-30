@@ -1,0 +1,6 @@
+electronic:cell phone
+person:person
+sports:snowboard
+accessory:backpack
+indoor:clock
+sports:skis

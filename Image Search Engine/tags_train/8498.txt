@@ -1,0 +1,4 @@
+animal:dog
+appliance:refrigerator
+kitchen:bottle
+food:orange

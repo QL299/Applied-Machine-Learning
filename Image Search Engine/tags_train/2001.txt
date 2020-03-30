@@ -1,0 +1,8 @@
+kitchen:bottle
+furniture:chair
+food:banana
+electronic:mouse
+electronic:keyboard
+accessory:backpack
+electronic:laptop
+electronic:tv

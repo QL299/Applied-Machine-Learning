@@ -1,0 +1,4 @@
+vehicle:car
+person:person
+animal:giraffe
+accessory:handbag

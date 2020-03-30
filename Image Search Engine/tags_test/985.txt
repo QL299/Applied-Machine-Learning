@@ -1,0 +1,4 @@
+accessory:tie
+person:person
+accessory:backpack
+kitchen:cup

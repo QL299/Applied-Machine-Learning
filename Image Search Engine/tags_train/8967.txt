@@ -1,0 +1,2 @@
+vehicle:motorcycle
+kitchen:bottle

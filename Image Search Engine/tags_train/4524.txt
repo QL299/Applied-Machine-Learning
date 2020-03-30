@@ -1,0 +1,6 @@
+furniture:chair
+food:donut
+electronic:laptop
+indoor:vase
+furniture:dining table
+kitchen:cup

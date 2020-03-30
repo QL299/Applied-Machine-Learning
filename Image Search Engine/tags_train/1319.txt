@@ -1,0 +1,6 @@
+food:sandwich
+furniture:dining table
+kitchen:fork
+kitchen:cup
+kitchen:spoon
+person:person

@@ -1,0 +1,5 @@
+kitchen:bottle
+person:person
+indoor:teddy bear
+accessory:tie
+accessory:handbag

@@ -1,0 +1,4 @@
+vehicle:bicycle
+person:person
+outdoor:parking meter
+accessory:handbag

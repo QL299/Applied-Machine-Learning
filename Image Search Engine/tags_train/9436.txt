@@ -1,0 +1,3 @@
+vehicle:bicycle
+kitchen:cup
+kitchen:spoon

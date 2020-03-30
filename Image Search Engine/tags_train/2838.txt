@@ -1,0 +1,4 @@
+person:person
+indoor:vase
+indoor:teddy bear
+furniture:potted plant

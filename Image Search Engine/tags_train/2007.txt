@@ -1,0 +1,5 @@
+furniture:potted plant
+animal:cat
+furniture:chair
+electronic:laptop
+electronic:keyboard

@@ -1,0 +1,11 @@
+furniture:chair
+furniture:dining table
+kitchen:cup
+kitchen:spoon
+kitchen:bowl
+indoor:vase
+person:person
+electronic:tv
+food:cake
+furniture:potted plant
+appliance:microwave

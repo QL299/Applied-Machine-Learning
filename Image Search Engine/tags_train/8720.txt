@@ -1,0 +1,5 @@
+animal:dog
+vehicle:car
+person:person
+vehicle:truck
+animal:cat

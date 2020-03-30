@@ -1,0 +1,5 @@
+animal:horse
+vehicle:car
+vehicle:train
+person:person
+accessory:tie

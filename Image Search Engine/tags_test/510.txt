@@ -1,0 +1,7 @@
+vehicle:bicycle
+person:person
+kitchen:knife
+food:cake
+accessory:handbag
+food:sandwich
+kitchen:cup

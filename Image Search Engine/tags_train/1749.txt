@@ -1,0 +1,5 @@
+vehicle:bicycle
+vehicle:car
+vehicle:motorcycle
+accessory:umbrella
+person:person

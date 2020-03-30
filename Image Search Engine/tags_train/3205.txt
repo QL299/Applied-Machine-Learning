@@ -1,0 +1,5 @@
+kitchen:cup
+kitchen:bowl
+food:cake
+indoor:teddy bear
+indoor:book

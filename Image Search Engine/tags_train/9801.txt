@@ -1,0 +1,6 @@
+animal:cat
+person:person
+kitchen:bowl
+appliance:microwave
+appliance:sink
+kitchen:cup

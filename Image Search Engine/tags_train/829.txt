@@ -1,0 +1,4 @@
+furniture:dining table
+food:sandwich
+kitchen:cup
+kitchen:wine glass

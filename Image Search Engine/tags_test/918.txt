@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+appliance:refrigerator
+kitchen:cup
+sports:sports ball
+food:carrot

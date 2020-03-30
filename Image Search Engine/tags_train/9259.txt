@@ -1,0 +1,5 @@
+electronic:cell phone
+vehicle:car
+person:person
+outdoor:bench
+indoor:book

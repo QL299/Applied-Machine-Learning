@@ -1,0 +1,7 @@
+indoor:clock
+vehicle:car
+person:person
+outdoor:bench
+animal:bird
+accessory:backpack
+accessory:handbag

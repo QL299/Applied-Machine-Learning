@@ -1,0 +1,6 @@
+indoor:clock
+furniture:chair
+electronic:laptop
+person:person
+indoor:book
+furniture:dining table

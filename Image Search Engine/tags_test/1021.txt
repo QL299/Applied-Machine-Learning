@@ -1,0 +1,4 @@
+kitchen:bottle
+kitchen:cup
+food:pizza
+appliance:oven

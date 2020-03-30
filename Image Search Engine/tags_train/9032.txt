@@ -1,0 +1,9 @@
+furniture:potted plant
+furniture:chair
+furniture:dining table
+kitchen:bottle
+kitchen:bowl
+appliance:microwave
+electronic:tv
+appliance:oven
+indoor:vase

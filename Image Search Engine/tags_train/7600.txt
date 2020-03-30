@@ -1,0 +1,9 @@
+kitchen:cup
+kitchen:fork
+kitchen:knife
+kitchen:spoon
+food:cake
+kitchen:bowl
+furniture:dining table
+kitchen:bottle
+person:person

@@ -1,0 +1,4 @@
+kitchen:bottle
+person:person
+appliance:oven
+furniture:potted plant

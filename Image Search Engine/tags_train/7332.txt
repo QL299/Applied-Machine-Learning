@@ -1,0 +1,6 @@
+accessory:umbrella
+person:person
+furniture:chair
+furniture:potted plant
+sports:surfboard
+furniture:dining table

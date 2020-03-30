@@ -1,0 +1,5 @@
+outdoor:bench
+animal:bear
+accessory:backpack
+person:person
+electronic:cell phone

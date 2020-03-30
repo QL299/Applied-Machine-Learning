@@ -1,0 +1,4 @@
+furniture:toilet
+kitchen:bottle
+accessory:umbrella
+furniture:potted plant

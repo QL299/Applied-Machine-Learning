@@ -1,0 +1,3 @@
+person:person
+appliance:refrigerator
+vehicle:bicycle

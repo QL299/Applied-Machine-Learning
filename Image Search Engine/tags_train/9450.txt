@@ -1,0 +1,5 @@
+electronic:tv
+vehicle:bicycle
+person:person
+sports:skateboard
+furniture:chair

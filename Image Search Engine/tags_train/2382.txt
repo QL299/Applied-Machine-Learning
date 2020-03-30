@@ -1,0 +1,4 @@
+kitchen:cup
+food:hot dog
+indoor:book
+furniture:dining table

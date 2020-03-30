@@ -1,0 +1,8 @@
+appliance:refrigerator
+furniture:chair
+furniture:dining table
+kitchen:bowl
+appliance:sink
+kitchen:cup
+kitchen:spoon
+food:banana

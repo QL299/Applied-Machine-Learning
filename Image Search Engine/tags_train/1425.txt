@@ -1,0 +1,10 @@
+furniture:chair
+kitchen:cup
+food:hot dog
+accessory:handbag
+kitchen:spoon
+kitchen:bowl
+food:cake
+furniture:dining table
+person:person
+kitchen:fork

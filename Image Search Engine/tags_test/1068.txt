@@ -1,0 +1,7 @@
+food:sandwich
+furniture:dining table
+kitchen:fork
+kitchen:bowl
+food:orange
+kitchen:knife
+food:apple

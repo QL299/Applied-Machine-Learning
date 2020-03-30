@@ -1,0 +1,6 @@
+vehicle:car
+vehicle:motorcycle
+person:person
+vehicle:bicycle
+vehicle:truck
+animal:bird

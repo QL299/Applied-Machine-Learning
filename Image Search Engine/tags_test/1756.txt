@@ -1,0 +1,4 @@
+kitchen:bottle
+furniture:couch
+person:person
+indoor:teddy bear

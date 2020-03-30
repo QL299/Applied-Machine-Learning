@@ -1,0 +1,6 @@
+furniture:chair
+vehicle:bicycle
+person:person
+food:banana
+accessory:handbag
+kitchen:bottle

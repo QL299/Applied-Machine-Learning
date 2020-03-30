@@ -1,0 +1,4 @@
+animal:cat
+person:person
+accessory:handbag
+outdoor:bench

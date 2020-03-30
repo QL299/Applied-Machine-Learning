@@ -1,0 +1,6 @@
+furniture:chair
+vehicle:bicycle
+person:person
+indoor:clock
+furniture:dining table
+kitchen:cup

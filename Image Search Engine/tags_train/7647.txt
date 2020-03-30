@@ -1,0 +1,8 @@
+electronic:cell phone
+outdoor:bench
+electronic:laptop
+person:person
+kitchen:cup
+furniture:chair
+accessory:backpack
+kitchen:bottle

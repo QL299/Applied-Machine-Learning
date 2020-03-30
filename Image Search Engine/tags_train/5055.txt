@@ -1,0 +1,7 @@
+furniture:dining table
+kitchen:cup
+food:hot dog
+kitchen:spoon
+person:person
+kitchen:bottle
+kitchen:fork

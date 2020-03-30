@@ -1,0 +1,6 @@
+electronic:tv
+furniture:chair
+indoor:book
+indoor:vase
+furniture:dining table
+electronic:remote

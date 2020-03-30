@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+appliance:oven
+kitchen:cup
+kitchen:bowl
+indoor:book

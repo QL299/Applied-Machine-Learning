@@ -1,0 +1,3 @@
+electronic:keyboard
+electronic:mouse
+person:person

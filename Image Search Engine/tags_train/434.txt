@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+outdoor:bench
+vehicle:train

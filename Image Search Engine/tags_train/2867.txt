@@ -1,0 +1,8 @@
+furniture:couch
+furniture:chair
+person:person
+kitchen:bowl
+food:apple
+food:orange
+furniture:dining table
+indoor:book

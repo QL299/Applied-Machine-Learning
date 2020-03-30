@@ -1,0 +1,3 @@
+animal:cat
+indoor:book
+accessory:handbag

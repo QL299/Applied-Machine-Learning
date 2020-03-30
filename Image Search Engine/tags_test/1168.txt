@@ -1,0 +1,5 @@
+furniture:potted plant
+vehicle:airplane
+person:person
+vehicle:truck
+vehicle:boat

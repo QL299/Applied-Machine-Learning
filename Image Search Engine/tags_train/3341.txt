@@ -1,0 +1,4 @@
+indoor:teddy bear
+accessory:tie
+furniture:chair
+electronic:laptop

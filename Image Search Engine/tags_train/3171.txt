@@ -1,0 +1,4 @@
+indoor:clock
+furniture:chair
+person:person
+sports:kite

@@ -1,0 +1,6 @@
+appliance:refrigerator
+person:person
+indoor:book
+furniture:chair
+furniture:potted plant
+electronic:remote

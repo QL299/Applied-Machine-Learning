@@ -1,0 +1,4 @@
+furniture:chair
+vehicle:car
+vehicle:bicycle
+indoor:clock

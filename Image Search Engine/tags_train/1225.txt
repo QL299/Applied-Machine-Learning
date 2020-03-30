@@ -1,0 +1,5 @@
+furniture:bed
+electronic:cell phone
+electronic:remote
+indoor:book
+kitchen:bowl

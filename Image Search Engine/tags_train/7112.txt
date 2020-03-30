@@ -1,0 +1,7 @@
+electronic:tv
+kitchen:bottle
+person:person
+electronic:cell phone
+kitchen:cup
+indoor:book
+furniture:couch

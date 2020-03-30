@@ -1,0 +1,6 @@
+vehicle:car
+person:person
+sports:skateboard
+outdoor:traffic light
+outdoor:bench
+vehicle:truck

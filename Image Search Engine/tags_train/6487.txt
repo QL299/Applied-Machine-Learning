@@ -1,0 +1,5 @@
+furniture:bed
+person:person
+kitchen:bowl
+electronic:remote
+indoor:book

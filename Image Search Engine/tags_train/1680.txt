@@ -1,0 +1,6 @@
+electronic:cell phone
+person:person
+electronic:mouse
+electronic:keyboard
+electronic:remote
+electronic:laptop

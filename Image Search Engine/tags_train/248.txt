@@ -1,0 +1,6 @@
+furniture:chair
+sports:surfboard
+person:person
+sports:skateboard
+kitchen:bottle
+accessory:handbag

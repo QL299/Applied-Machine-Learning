@@ -1,0 +1,11 @@
+vehicle:motorcycle
+person:person
+electronic:laptop
+accessory:handbag
+accessory:suitcase
+kitchen:bottle
+electronic:mouse
+indoor:book
+furniture:dining table
+electronic:tv
+accessory:backpack

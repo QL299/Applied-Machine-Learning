@@ -1,0 +1,5 @@
+indoor:clock
+accessory:handbag
+person:person
+kitchen:wine glass
+furniture:dining table

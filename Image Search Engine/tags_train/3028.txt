@@ -1,0 +1,4 @@
+animal:bird
+outdoor:bench
+vehicle:car
+person:person

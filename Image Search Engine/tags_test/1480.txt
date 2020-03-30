@@ -1,0 +1,3 @@
+accessory:tie
+electronic:cell phone
+person:person

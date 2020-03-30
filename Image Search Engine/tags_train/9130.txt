@@ -1,0 +1,4 @@
+indoor:clock
+kitchen:cup
+kitchen:bowl
+indoor:vase

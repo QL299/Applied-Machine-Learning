@@ -1,0 +1,6 @@
+vehicle:car
+furniture:chair
+person:person
+electronic:laptop
+accessory:handbag
+outdoor:bench

@@ -1,0 +1,7 @@
+vehicle:bicycle
+electronic:laptop
+indoor:book
+kitchen:fork
+kitchen:cup
+furniture:couch
+furniture:dining table

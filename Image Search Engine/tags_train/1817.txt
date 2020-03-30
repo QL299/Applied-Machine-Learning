@@ -1,0 +1,9 @@
+electronic:tv
+furniture:couch
+furniture:chair
+person:person
+electronic:laptop
+indoor:book
+kitchen:bowl
+furniture:potted plant
+electronic:mouse

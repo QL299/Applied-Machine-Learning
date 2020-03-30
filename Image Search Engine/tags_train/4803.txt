@@ -1,0 +1,9 @@
+furniture:chair
+furniture:dining table
+kitchen:spoon
+kitchen:bowl
+indoor:vase
+kitchen:wine glass
+kitchen:cup
+kitchen:knife
+food:cake

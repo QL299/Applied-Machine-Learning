@@ -1,0 +1,5 @@
+vehicle:airplane
+accessory:handbag
+accessory:suitcase
+person:person
+accessory:umbrella

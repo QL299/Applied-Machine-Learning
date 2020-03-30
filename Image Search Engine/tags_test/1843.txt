@@ -1,0 +1,11 @@
+furniture:chair
+person:person
+furniture:potted plant
+kitchen:wine glass
+electronic:laptop
+furniture:couch
+indoor:book
+indoor:vase
+kitchen:cup
+accessory:handbag
+furniture:dining table

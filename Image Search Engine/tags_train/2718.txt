@@ -1,0 +1,2 @@
+vehicle:truck
+animal:zebra

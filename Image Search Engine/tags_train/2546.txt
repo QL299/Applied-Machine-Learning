@@ -1,0 +1,2 @@
+kitchen:spoon
+outdoor:bench

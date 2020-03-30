@@ -1,0 +1,5 @@
+animal:bird
+electronic:remote
+person:person
+kitchen:cup
+furniture:chair

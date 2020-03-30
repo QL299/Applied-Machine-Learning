@@ -1,0 +1,3 @@
+accessory:umbrella
+accessory:handbag
+person:person

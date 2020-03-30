@@ -1,0 +1,7 @@
+furniture:couch
+person:person
+kitchen:wine glass
+indoor:book
+vehicle:bicycle
+furniture:bed
+kitchen:bottle

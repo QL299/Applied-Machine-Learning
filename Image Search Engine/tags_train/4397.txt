@@ -1,0 +1,4 @@
+animal:dog
+electronic:tv
+animal:cat
+furniture:potted plant

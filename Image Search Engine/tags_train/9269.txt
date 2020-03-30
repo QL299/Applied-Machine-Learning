@@ -1,0 +1,3 @@
+indoor:clock
+outdoor:traffic light
+person:person

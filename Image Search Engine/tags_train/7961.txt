@@ -1,0 +1,6 @@
+furniture:chair
+kitchen:cup
+electronic:laptop
+electronic:mouse
+indoor:book
+electronic:keyboard

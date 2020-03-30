@@ -1,0 +1,6 @@
+furniture:potted plant
+furniture:couch
+kitchen:bottle
+kitchen:bowl
+indoor:vase
+kitchen:cup

@@ -1,0 +1,5 @@
+kitchen:spoon
+furniture:dining table
+indoor:book
+electronic:cell phone
+kitchen:bottle

@@ -1,0 +1,4 @@
+animal:cat
+kitchen:bottle
+appliance:sink
+indoor:toothbrush

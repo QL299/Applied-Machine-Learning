@@ -1,0 +1,6 @@
+kitchen:bottle
+furniture:couch
+vehicle:bicycle
+outdoor:stop sign
+vehicle:car
+vehicle:truck

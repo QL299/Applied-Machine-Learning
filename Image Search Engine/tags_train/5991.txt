@@ -1,0 +1,4 @@
+furniture:chair
+accessory:suitcase
+person:person
+furniture:potted plant

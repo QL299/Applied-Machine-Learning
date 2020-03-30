@@ -1,0 +1,5 @@
+person:person
+accessory:backpack
+accessory:handbag
+sports:kite
+sports:surfboard

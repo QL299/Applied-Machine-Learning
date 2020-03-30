@@ -1,0 +1,4 @@
+person:person
+food:donut
+kitchen:cup
+food:hot dog

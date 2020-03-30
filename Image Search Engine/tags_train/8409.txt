@@ -1,0 +1,6 @@
+furniture:chair
+furniture:couch
+electronic:laptop
+indoor:book
+accessory:backpack
+kitchen:bottle

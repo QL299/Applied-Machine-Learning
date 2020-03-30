@@ -1,0 +1,4 @@
+vehicle:car
+outdoor:traffic light
+vehicle:truck
+animal:dog

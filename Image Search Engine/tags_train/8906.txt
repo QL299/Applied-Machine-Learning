@@ -1,0 +1,5 @@
+animal:horse
+vehicle:car
+person:person
+accessory:handbag
+vehicle:truck

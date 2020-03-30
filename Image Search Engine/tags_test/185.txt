@@ -1,0 +1,3 @@
+furniture:dining table
+accessory:umbrella
+food:orange

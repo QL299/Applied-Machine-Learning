@@ -1,0 +1,3 @@
+food:hot dog
+kitchen:bowl
+kitchen:cup

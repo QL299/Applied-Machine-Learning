@@ -1,0 +1,6 @@
+vehicle:airplane
+person:person
+outdoor:bench
+accessory:backpack
+furniture:chair
+accessory:suitcase

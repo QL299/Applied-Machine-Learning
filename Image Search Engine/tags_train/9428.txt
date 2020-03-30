@@ -1,0 +1,6 @@
+vehicle:bicycle
+person:person
+vehicle:motorcycle
+outdoor:bench
+sports:skateboard
+electronic:cell phone

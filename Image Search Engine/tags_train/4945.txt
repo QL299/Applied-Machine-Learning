@@ -1,0 +1,5 @@
+furniture:potted plant
+animal:cat
+kitchen:bowl
+indoor:vase
+indoor:book

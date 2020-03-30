@@ -1,0 +1,4 @@
+kitchen:cup
+food:broccoli
+food:pizza
+furniture:dining table

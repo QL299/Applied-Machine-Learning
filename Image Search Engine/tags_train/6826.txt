@@ -1,0 +1,3 @@
+indoor:book
+indoor:vase
+person:person

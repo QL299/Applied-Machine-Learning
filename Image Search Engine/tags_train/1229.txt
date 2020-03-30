@@ -1,0 +1,7 @@
+accessory:umbrella
+person:person
+vehicle:truck
+accessory:handbag
+vehicle:car
+outdoor:bench
+vehicle:bus

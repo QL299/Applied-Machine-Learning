@@ -1,0 +1,8 @@
+person:person
+electronic:cell phone
+kitchen:cup
+kitchen:bowl
+appliance:oven
+kitchen:bottle
+kitchen:spoon
+appliance:sink

@@ -1,0 +1,6 @@
+accessory:tie
+person:person
+kitchen:cup
+kitchen:bowl
+furniture:chair
+furniture:dining table

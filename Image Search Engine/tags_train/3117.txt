@@ -1,0 +1,8 @@
+furniture:potted plant
+person:person
+kitchen:bottle
+kitchen:spoon
+kitchen:bowl
+appliance:sink
+appliance:refrigerator
+appliance:oven

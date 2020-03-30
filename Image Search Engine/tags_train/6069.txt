@@ -1,0 +1,3 @@
+person:person
+food:orange
+furniture:potted plant

@@ -1,0 +1,4 @@
+vehicle:car
+electronic:laptop
+accessory:backpack
+appliance:sink

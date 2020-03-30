@@ -1,0 +1,7 @@
+furniture:potted plant
+food:orange
+furniture:chair
+indoor:vase
+kitchen:bowl
+furniture:dining table
+food:banana

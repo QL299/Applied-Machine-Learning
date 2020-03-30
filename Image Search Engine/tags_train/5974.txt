@@ -1,0 +1,5 @@
+electronic:cell phone
+person:person
+accessory:tie
+furniture:chair
+electronic:laptop

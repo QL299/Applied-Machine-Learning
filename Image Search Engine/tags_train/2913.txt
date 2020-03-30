@@ -1,0 +1,4 @@
+indoor:clock
+vehicle:car
+vehicle:bus
+vehicle:truck

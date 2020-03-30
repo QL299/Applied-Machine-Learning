@@ -1,0 +1,9 @@
+electronic:tv
+kitchen:bottle
+appliance:microwave
+appliance:toaster
+indoor:vase
+kitchen:cup
+appliance:sink
+kitchen:bowl
+appliance:oven

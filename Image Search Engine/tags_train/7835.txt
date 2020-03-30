@@ -1,0 +1,6 @@
+kitchen:bottle
+accessory:umbrella
+person:person
+furniture:chair
+furniture:dining table
+kitchen:wine glass

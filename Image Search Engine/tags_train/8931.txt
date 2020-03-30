@@ -1,0 +1,3 @@
+indoor:toothbrush
+furniture:chair
+person:person

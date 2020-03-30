@@ -1,0 +1,6 @@
+vehicle:bicycle
+vehicle:car
+person:person
+outdoor:fire hydrant
+vehicle:truck
+vehicle:bus

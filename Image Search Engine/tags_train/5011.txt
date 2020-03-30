@@ -1,0 +1,6 @@
+kitchen:bottle
+furniture:chair
+kitchen:wine glass
+appliance:refrigerator
+kitchen:knife
+appliance:oven

@@ -1,0 +1,4 @@
+animal:horse
+vehicle:car
+sports:snowboard
+sports:skis

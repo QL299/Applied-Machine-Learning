@@ -1,0 +1,5 @@
+kitchen:bottle
+electronic:cell phone
+electronic:laptop
+indoor:book
+furniture:bed

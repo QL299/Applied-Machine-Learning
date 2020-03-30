@@ -1,0 +1,4 @@
+animal:dog
+vehicle:car
+sports:frisbee
+vehicle:truck

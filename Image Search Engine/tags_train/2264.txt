@@ -1,0 +1,4 @@
+furniture:bed
+person:person
+outdoor:stop sign
+electronic:cell phone

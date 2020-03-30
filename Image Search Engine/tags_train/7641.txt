@@ -1,0 +1,6 @@
+electronic:tv
+kitchen:bottle
+furniture:couch
+kitchen:cup
+kitchen:bowl
+indoor:vase

@@ -1,0 +1,6 @@
+kitchen:bottle
+person:person
+electronic:remote
+furniture:dining table
+kitchen:cup
+furniture:couch

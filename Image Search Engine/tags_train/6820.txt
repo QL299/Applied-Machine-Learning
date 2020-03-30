@@ -1,0 +1,4 @@
+vehicle:bicycle
+sports:skateboard
+person:person
+outdoor:bench

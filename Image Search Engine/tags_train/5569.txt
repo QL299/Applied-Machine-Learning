@@ -1,0 +1,3 @@
+outdoor:fire hydrant
+vehicle:truck
+vehicle:car

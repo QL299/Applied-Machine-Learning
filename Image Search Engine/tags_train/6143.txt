@@ -1,0 +1,4 @@
+animal:bird
+person:person
+accessory:handbag
+accessory:umbrella

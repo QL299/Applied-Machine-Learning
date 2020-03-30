@@ -1,0 +1,6 @@
+furniture:chair
+person:person
+electronic:mouse
+electronic:tv
+electronic:laptop
+electronic:keyboard

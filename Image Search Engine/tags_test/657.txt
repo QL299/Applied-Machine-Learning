@@ -1,0 +1,4 @@
+person:person
+electronic:laptop
+indoor:book
+furniture:chair

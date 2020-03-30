@@ -1,0 +1,5 @@
+kitchen:bottle
+electronic:laptop
+electronic:mouse
+indoor:book
+accessory:backpack

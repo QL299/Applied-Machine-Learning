@@ -1,0 +1,7 @@
+accessory:umbrella
+accessory:tie
+accessory:backpack
+accessory:handbag
+person:person
+vehicle:truck
+outdoor:traffic light

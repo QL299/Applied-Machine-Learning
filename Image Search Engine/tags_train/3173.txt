@@ -1,0 +1,3 @@
+kitchen:wine glass
+indoor:vase
+kitchen:bowl

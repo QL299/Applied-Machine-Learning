@@ -1,0 +1,5 @@
+furniture:chair
+electronic:laptop
+accessory:backpack
+person:person
+kitchen:bottle

@@ -1,0 +1,5 @@
+animal:dog
+animal:horse
+animal:sheep
+person:person
+outdoor:stop sign

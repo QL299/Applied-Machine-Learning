@@ -1,0 +1,4 @@
+vehicle:bicycle
+vehicle:car
+vehicle:boat
+outdoor:bench

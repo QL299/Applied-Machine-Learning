@@ -1,0 +1,3 @@
+outdoor:traffic light
+person:person
+outdoor:stop sign

@@ -1,0 +1,4 @@
+furniture:dining table
+food:cake
+person:person
+food:apple

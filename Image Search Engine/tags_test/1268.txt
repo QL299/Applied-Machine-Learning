@@ -1,0 +1,4 @@
+kitchen:bottle
+kitchen:bowl
+appliance:oven
+appliance:sink

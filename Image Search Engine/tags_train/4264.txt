@@ -1,0 +1,5 @@
+kitchen:bottle
+furniture:chair
+indoor:vase
+kitchen:wine glass
+furniture:dining table

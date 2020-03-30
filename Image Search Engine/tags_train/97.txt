@@ -1,0 +1,8 @@
+kitchen:bottle
+person:person
+kitchen:spoon
+kitchen:bowl
+indoor:vase
+kitchen:cup
+furniture:potted plant
+furniture:dining table

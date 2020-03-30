@@ -1,0 +1,2 @@
+furniture:bed
+furniture:couch

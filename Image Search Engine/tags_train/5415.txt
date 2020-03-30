@@ -1,0 +1,5 @@
+kitchen:bottle
+outdoor:traffic light
+person:person
+accessory:handbag
+food:hot dog

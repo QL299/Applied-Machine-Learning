@@ -1,0 +1,8 @@
+accessory:tie
+furniture:chair
+furniture:dining table
+person:person
+kitchen:knife
+indoor:book
+kitchen:spoon
+kitchen:bowl

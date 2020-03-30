@@ -1,0 +1,4 @@
+animal:bird
+furniture:bed
+person:person
+indoor:book

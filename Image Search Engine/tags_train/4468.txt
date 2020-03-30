@@ -1,0 +1,5 @@
+furniture:dining table
+person:person
+kitchen:cup
+accessory:handbag
+food:donut

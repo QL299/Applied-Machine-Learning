@@ -1,0 +1,5 @@
+electronic:tv
+furniture:couch
+kitchen:bowl
+indoor:vase
+furniture:potted plant

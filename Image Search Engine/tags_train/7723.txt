@@ -1,0 +1,4 @@
+animal:dog
+vehicle:boat
+person:person
+sports:surfboard

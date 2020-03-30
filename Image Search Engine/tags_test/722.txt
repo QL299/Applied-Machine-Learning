@@ -1,0 +1,4 @@
+animal:cat
+furniture:couch
+electronic:remote
+furniture:bed

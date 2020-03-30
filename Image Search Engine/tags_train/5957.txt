@@ -1,0 +1,8 @@
+electronic:tv
+kitchen:bottle
+electronic:laptop
+electronic:mouse
+electronic:keyboard
+indoor:book
+electronic:remote
+indoor:clock

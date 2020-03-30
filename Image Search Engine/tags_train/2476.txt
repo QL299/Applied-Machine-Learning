@@ -1,0 +1,4 @@
+kitchen:wine glass
+kitchen:fork
+kitchen:knife
+furniture:dining table

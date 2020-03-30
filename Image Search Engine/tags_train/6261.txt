@@ -1,0 +1,5 @@
+person:person
+appliance:oven
+vehicle:car
+electronic:cell phone
+appliance:microwave

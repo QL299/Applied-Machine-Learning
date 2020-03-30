@@ -1,0 +1,5 @@
+kitchen:bowl
+appliance:oven
+kitchen:spoon
+food:cake
+kitchen:cup

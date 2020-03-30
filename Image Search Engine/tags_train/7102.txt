@@ -1,0 +1,5 @@
+furniture:chair
+person:person
+accessory:umbrella
+food:hot dog
+furniture:dining table

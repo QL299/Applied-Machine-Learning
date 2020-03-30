@@ -1,0 +1,7 @@
+furniture:bed
+furniture:chair
+kitchen:bottle
+kitchen:cup
+indoor:book
+indoor:vase
+person:person

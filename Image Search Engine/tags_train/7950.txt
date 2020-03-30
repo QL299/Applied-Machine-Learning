@@ -1,0 +1,7 @@
+furniture:potted plant
+animal:cat
+furniture:chair
+furniture:couch
+electronic:laptop
+indoor:vase
+person:person

@@ -1,0 +1,4 @@
+sports:sports ball
+furniture:chair
+person:person
+food:cake

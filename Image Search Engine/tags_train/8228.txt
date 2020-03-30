@@ -1,0 +1,5 @@
+sports:sports ball
+outdoor:bench
+sports:tennis racket
+person:person
+accessory:tie

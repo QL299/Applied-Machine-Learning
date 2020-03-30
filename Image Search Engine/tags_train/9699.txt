@@ -1,0 +1,6 @@
+animal:dog
+furniture:couch
+furniture:dining table
+indoor:book
+furniture:chair
+indoor:vase

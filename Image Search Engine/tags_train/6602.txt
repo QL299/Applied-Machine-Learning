@@ -1,0 +1,9 @@
+furniture:dining table
+kitchen:cup
+food:broccoli
+kitchen:wine glass
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+furniture:chair
+food:sandwich

@@ -1,0 +1,3 @@
+animal:cat
+kitchen:cup
+furniture:chair

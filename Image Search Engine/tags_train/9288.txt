@@ -1,0 +1,7 @@
+kitchen:bottle
+furniture:dining table
+person:person
+kitchen:spoon
+accessory:handbag
+kitchen:knife
+indoor:clock

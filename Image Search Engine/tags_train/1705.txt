@@ -1,0 +1,3 @@
+electronic:tv
+furniture:couch
+person:person

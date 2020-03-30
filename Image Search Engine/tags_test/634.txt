@@ -1,0 +1,5 @@
+vehicle:truck
+outdoor:traffic light
+person:person
+vehicle:car
+outdoor:bench

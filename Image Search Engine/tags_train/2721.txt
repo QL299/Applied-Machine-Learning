@@ -1,0 +1,5 @@
+animal:bird
+kitchen:bottle
+kitchen:cup
+kitchen:spoon
+kitchen:bowl

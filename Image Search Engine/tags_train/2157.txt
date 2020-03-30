@@ -1,0 +1,12 @@
+kitchen:bottle
+furniture:dining table
+person:person
+kitchen:knife
+kitchen:fork
+kitchen:spoon
+kitchen:bowl
+food:pizza
+food:cake
+furniture:chair
+food:apple
+appliance:microwave

@@ -1,0 +1,3 @@
+vehicle:car
+outdoor:stop sign
+outdoor:fire hydrant

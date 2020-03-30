@@ -1,0 +1,8 @@
+food:sandwich
+kitchen:cup
+kitchen:knife
+kitchen:spoon
+kitchen:fork
+kitchen:bowl
+furniture:chair
+furniture:dining table

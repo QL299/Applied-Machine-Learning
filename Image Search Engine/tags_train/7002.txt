@@ -1,0 +1,5 @@
+person:person
+indoor:vase
+kitchen:cup
+furniture:potted plant
+appliance:sink

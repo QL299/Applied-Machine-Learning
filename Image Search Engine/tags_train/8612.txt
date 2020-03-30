@@ -1,0 +1,7 @@
+kitchen:bottle
+person:person
+kitchen:knife
+kitchen:spoon
+kitchen:bowl
+appliance:microwave
+appliance:refrigerator

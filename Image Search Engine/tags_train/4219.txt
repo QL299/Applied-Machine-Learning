@@ -1,0 +1,5 @@
+animal:bird
+vehicle:car
+person:person
+vehicle:truck
+furniture:dining table

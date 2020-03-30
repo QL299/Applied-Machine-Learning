@@ -1,0 +1,4 @@
+animal:cat
+furniture:chair
+outdoor:bench
+furniture:dining table

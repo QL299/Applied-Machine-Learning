@@ -1,0 +1,4 @@
+kitchen:fork
+food:broccoli
+kitchen:wine glass
+furniture:dining table

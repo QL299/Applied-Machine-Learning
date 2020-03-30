@@ -1,0 +1,4 @@
+kitchen:bottle
+kitchen:wine glass
+food:cake
+furniture:dining table

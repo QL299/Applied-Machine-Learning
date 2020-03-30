@@ -1,0 +1,9 @@
+electronic:tv
+furniture:couch
+indoor:book
+indoor:scissors
+kitchen:cup
+kitchen:bowl
+electronic:laptop
+animal:cat
+electronic:remote

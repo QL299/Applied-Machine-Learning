@@ -1,0 +1,5 @@
+sports:frisbee
+vehicle:car
+person:person
+vehicle:truck
+outdoor:stop sign

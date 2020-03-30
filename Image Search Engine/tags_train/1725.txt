@@ -1,0 +1,4 @@
+person:person
+food:hot dog
+furniture:dining table
+furniture:chair

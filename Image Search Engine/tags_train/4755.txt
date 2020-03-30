@@ -1,0 +1,4 @@
+furniture:chair
+person:person
+sports:baseball glove
+sports:sports ball

@@ -1,0 +1,5 @@
+furniture:dining table
+kitchen:bottle
+furniture:chair
+indoor:teddy bear
+indoor:clock

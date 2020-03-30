@@ -1,0 +1,4 @@
+indoor:clock
+person:person
+sports:skis
+sports:snowboard

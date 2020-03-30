@@ -1,0 +1,3 @@
+animal:cat
+electronic:tv
+electronic:laptop

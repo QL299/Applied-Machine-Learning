@@ -1,0 +1,3 @@
+furniture:couch
+furniture:chair
+furniture:dining table

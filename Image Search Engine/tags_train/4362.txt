@@ -1,0 +1,4 @@
+animal:cat
+furniture:couch
+indoor:book
+accessory:suitcase

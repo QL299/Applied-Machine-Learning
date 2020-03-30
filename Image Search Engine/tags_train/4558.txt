@@ -1,0 +1,5 @@
+person:person
+vehicle:bus
+animal:elephant
+kitchen:bowl
+electronic:cell phone

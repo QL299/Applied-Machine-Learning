@@ -1,0 +1,4 @@
+person:person
+kitchen:bottle
+kitchen:wine glass
+indoor:vase

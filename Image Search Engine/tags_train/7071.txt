@@ -1,0 +1,5 @@
+food:sandwich
+kitchen:fork
+kitchen:bowl
+food:broccoli
+furniture:dining table

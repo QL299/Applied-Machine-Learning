@@ -1,0 +1,5 @@
+kitchen:bottle
+kitchen:bowl
+indoor:teddy bear
+accessory:handbag
+kitchen:cup

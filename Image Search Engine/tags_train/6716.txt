@@ -1,0 +1,5 @@
+animal:cat
+furniture:bed
+person:person
+indoor:book
+animal:dog

@@ -1,0 +1,6 @@
+accessory:tie
+person:person
+electronic:laptop
+indoor:book
+furniture:chair
+furniture:potted plant

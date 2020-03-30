@@ -1,0 +1,6 @@
+food:sandwich
+furniture:chair
+person:person
+electronic:tv
+electronic:mouse
+electronic:laptop

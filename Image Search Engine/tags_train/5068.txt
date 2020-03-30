@@ -1,0 +1,4 @@
+vehicle:bicycle
+food:orange
+accessory:backpack
+furniture:chair

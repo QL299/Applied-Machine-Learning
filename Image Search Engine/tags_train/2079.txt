@@ -1,0 +1,6 @@
+appliance:refrigerator
+kitchen:bottle
+furniture:chair
+kitchen:cup
+appliance:microwave
+appliance:sink

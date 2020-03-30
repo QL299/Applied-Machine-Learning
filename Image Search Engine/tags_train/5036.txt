@@ -1,0 +1,9 @@
+electronic:tv
+kitchen:bottle
+furniture:couch
+furniture:dining table
+electronic:remote
+indoor:book
+animal:bird
+furniture:potted plant
+indoor:vase

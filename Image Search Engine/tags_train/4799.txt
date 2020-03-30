@@ -1,0 +1,4 @@
+outdoor:bench
+indoor:book
+indoor:teddy bear
+furniture:chair

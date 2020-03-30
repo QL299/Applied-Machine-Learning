@@ -1,0 +1,4 @@
+vehicle:train
+vehicle:truck
+person:person
+outdoor:traffic light

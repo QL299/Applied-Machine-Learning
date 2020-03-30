@@ -1,0 +1,5 @@
+furniture:chair
+vehicle:boat
+person:person
+accessory:umbrella
+accessory:suitcase

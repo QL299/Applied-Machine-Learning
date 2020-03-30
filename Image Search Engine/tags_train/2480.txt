@@ -1,0 +1,3 @@
+appliance:sink
+indoor:vase
+kitchen:bottle

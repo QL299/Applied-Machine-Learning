@@ -1,0 +1,4 @@
+person:person
+food:donut
+furniture:chair
+furniture:dining table

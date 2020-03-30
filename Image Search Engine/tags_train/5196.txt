@@ -1,0 +1,5 @@
+food:apple
+food:orange
+indoor:book
+electronic:cell phone
+kitchen:spoon

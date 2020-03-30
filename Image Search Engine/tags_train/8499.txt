@@ -1,0 +1,3 @@
+animal:cat
+appliance:refrigerator
+kitchen:bowl

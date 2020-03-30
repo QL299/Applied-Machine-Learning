@@ -1,0 +1,3 @@
+animal:dog
+kitchen:cup
+furniture:bed

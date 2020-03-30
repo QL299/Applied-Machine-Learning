@@ -1,0 +1,4 @@
+person:person
+kitchen:bowl
+appliance:oven
+appliance:refrigerator

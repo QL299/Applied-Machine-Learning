@@ -1,0 +1,7 @@
+furniture:potted plant
+furniture:couch
+indoor:vase
+furniture:chair
+animal:sheep
+furniture:dining table
+indoor:book

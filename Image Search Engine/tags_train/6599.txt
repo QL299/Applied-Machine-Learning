@@ -1,0 +1,5 @@
+person:person
+kitchen:knife
+kitchen:bowl
+food:cake
+furniture:chair

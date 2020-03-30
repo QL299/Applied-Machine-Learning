@@ -1,0 +1,3 @@
+person:person
+furniture:potted plant
+accessory:umbrella

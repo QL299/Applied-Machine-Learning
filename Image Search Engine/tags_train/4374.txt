@@ -1,0 +1,7 @@
+furniture:bed
+indoor:toothbrush
+kitchen:bottle
+kitchen:knife
+indoor:book
+indoor:scissors
+kitchen:fork

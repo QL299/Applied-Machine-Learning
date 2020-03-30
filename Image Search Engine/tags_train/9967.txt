@@ -1,0 +1,8 @@
+animal:horse
+vehicle:bicycle
+vehicle:car
+person:person
+accessory:handbag
+electronic:cell phone
+vehicle:truck
+furniture:potted plant

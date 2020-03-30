@@ -1,0 +1,4 @@
+person:person
+vehicle:car
+sports:kite
+sports:surfboard

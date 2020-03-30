@@ -1,0 +1,9 @@
+furniture:potted plant
+furniture:dining table
+kitchen:cup
+kitchen:bowl
+appliance:oven
+appliance:sink
+indoor:book
+indoor:vase
+kitchen:wine glass

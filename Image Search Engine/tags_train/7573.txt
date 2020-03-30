@@ -1,0 +1,4 @@
+appliance:refrigerator
+appliance:oven
+appliance:sink
+appliance:microwave

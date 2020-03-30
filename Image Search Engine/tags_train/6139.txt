@@ -1,0 +1,9 @@
+animal:bird
+furniture:chair
+furniture:dining table
+person:person
+furniture:couch
+kitchen:cup
+kitchen:spoon
+food:cake
+food:hot dog

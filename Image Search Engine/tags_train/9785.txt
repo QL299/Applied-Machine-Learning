@@ -1,0 +1,4 @@
+person:person
+animal:giraffe
+accessory:backpack
+accessory:handbag

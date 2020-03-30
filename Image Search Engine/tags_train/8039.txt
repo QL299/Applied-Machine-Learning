@@ -1,0 +1,5 @@
+vehicle:car
+vehicle:truck
+outdoor:traffic light
+person:person
+sports:skateboard

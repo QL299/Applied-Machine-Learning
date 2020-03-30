@@ -1,0 +1,4 @@
+kitchen:bottle
+person:person
+accessory:handbag
+electronic:cell phone

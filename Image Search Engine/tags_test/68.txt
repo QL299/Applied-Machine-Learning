@@ -1,0 +1,6 @@
+electronic:cell phone
+person:person
+kitchen:bowl
+indoor:clock
+kitchen:bottle
+furniture:dining table

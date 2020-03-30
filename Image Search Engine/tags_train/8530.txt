@@ -1,0 +1,7 @@
+accessory:tie
+furniture:chair
+furniture:dining table
+person:person
+kitchen:cup
+accessory:suitcase
+kitchen:wine glass

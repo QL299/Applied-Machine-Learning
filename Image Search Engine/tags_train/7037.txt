@@ -1,0 +1,7 @@
+kitchen:bottle
+indoor:teddy bear
+accessory:umbrella
+furniture:chair
+indoor:vase
+kitchen:cup
+furniture:dining table

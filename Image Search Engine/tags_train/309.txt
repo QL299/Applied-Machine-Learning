@@ -1,0 +1,4 @@
+person:person
+sports:frisbee
+furniture:chair
+accessory:backpack

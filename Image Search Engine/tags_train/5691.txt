@@ -1,0 +1,2 @@
+electronic:mouse
+indoor:book

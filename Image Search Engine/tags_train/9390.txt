@@ -1,0 +1,6 @@
+furniture:chair
+person:person
+sports:frisbee
+furniture:dining table
+kitchen:cup
+kitchen:wine glass

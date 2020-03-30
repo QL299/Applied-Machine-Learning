@@ -1,0 +1,4 @@
+person:person
+accessory:umbrella
+vehicle:car
+sports:kite

@@ -1,0 +1,4 @@
+sports:sports ball
+person:person
+accessory:backpack
+accessory:suitcase

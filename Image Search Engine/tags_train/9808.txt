@@ -1,0 +1,5 @@
+outdoor:stop sign
+vehicle:bus
+vehicle:car
+person:person
+outdoor:fire hydrant

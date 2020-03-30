@@ -1,0 +1,4 @@
+furniture:dining table
+kitchen:cup
+food:pizza
+kitchen:bottle

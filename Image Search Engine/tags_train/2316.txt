@@ -1,0 +1,8 @@
+kitchen:bottle
+furniture:chair
+furniture:dining table
+appliance:microwave
+accessory:backpack
+kitchen:bowl
+indoor:teddy bear
+kitchen:cup

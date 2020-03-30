@@ -1,0 +1,7 @@
+accessory:umbrella
+furniture:chair
+person:person
+accessory:backpack
+accessory:handbag
+accessory:suitcase
+electronic:cell phone

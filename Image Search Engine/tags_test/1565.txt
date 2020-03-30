@@ -1,0 +1,7 @@
+kitchen:bottle
+person:person
+kitchen:spoon
+kitchen:fork
+kitchen:bowl
+vehicle:truck
+kitchen:cup

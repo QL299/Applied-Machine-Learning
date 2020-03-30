@@ -1,0 +1,5 @@
+animal:dog
+furniture:couch
+electronic:remote
+indoor:book
+accessory:handbag

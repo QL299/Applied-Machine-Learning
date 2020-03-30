@@ -1,0 +1,6 @@
+furniture:chair
+person:person
+electronic:remote
+electronic:tv
+accessory:backpack
+kitchen:bottle

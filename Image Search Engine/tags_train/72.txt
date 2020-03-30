@@ -1,0 +1,6 @@
+indoor:vase
+vehicle:bicycle
+vehicle:car
+outdoor:bench
+furniture:chair
+furniture:dining table

@@ -1,0 +1,4 @@
+person:person
+animal:dog
+sports:kite
+accessory:backpack

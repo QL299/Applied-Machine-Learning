@@ -1,0 +1,4 @@
+electronic:keyboard
+electronic:mouse
+indoor:book
+animal:cat

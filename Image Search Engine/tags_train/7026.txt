@@ -1,0 +1,6 @@
+vehicle:car
+person:person
+accessory:backpack
+vehicle:truck
+accessory:suitcase
+vehicle:bus

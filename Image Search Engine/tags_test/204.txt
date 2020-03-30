@@ -1,0 +1,9 @@
+kitchen:bottle
+furniture:dining table
+kitchen:knife
+kitchen:bowl
+electronic:laptop
+appliance:sink
+kitchen:cup
+indoor:book
+appliance:oven

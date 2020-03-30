@@ -1,0 +1,4 @@
+appliance:microwave
+appliance:oven
+appliance:sink
+indoor:clock
